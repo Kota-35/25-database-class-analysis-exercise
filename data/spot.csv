@@ -1,0 +1,1368 @@
+spot_id,spot_name,lat,lon,count,spot_types,is_parking
+0,奈良先端科学技術大学院大学 先端科学技術研究科 情報科学領域,34.73163,135.73469,16466,"[""university"", ""point_of_interest"", ""establishment""]",True
+1,学際融合領域研究棟２号館,34.73226,135.73243,5665,"[""university"", ""point_of_interest"", ""establishment""]",True
+2,物質創成科学領域E棟,34.73027,135.73393,5268,"[""university"", ""point_of_interest"", ""establishment""]",True
+3,学際融合領域研究棟1号館,34.73093,135.73537,4056,"[""university"", ""point_of_interest"", ""establishment""]",True
+4,学研奈良登美ヶ丘駅,34.7268,135.75438,3829,"[""spa"", ""point_of_interest"", ""establishment""]",True
+5,株式会社ATR-Promotions,34.744171,135.766575,1632,"[""point_of_interest"", ""establishment""]",True
+6,セブン-イレブン 生駒鹿畑町店,34.72856,135.75203,580,"[""convenience_store"", ""atm"", ""finance"", ""store"", ""food"", ""point_of_interest"", ""establishment""]",False
+7,イオンモール奈良登美ヶ丘,34.72487,135.75055,534,"[""shopping_mall"", ""point_of_interest"", ""establishment""]",False
+8,スーパーヤオヒコ 北大和店,34.72639,135.72858,424,"[""supermarket"", ""grocery_or_supermarket"", ""store"", ""food"", ""point_of_interest"", ""establishment""]",False
+9,Nara BMW本社ショールーム/BMW Premium Selection 奈良三条,34.679843500000004,135.81231250000002,366,"[""car_dealer"", ""store"", ""point_of_interest"", ""establishment""]",False
+10,グリーンラボ,34.734335,135.736416,362,"[""park"", ""point_of_interest"", ""establishment""]",False
+11,ローソン 学研北生駒駅前店,34.72372,135.7234,356,"[""convenience_store"", ""atm"", ""finance"", ""store"", ""food"", ""point_of_interest"", ""establishment""]",False
+12,かつアンドかつ 精華町店,34.74543,135.76707,313,"[""restaurant"", ""food"", ""point_of_interest"", ""establishment""]",False
+13,マクドナルド 白庭台店,34.726563,135.715908,274,"[""store"", ""cafe"", ""restaurant"", ""food"", ""point_of_interest"", ""establishment""]",False
+14,イオンモール奈良登美ヶ丘,34.72542,135.75103,258,"[""shopping_mall"", ""point_of_interest"", ""establishment""]",False
+15,吉野家 １６３号線生駒店,34.73153,135.7128,252,"[""meal_takeaway"", ""restaurant"", ""point_of_interest"", ""food"", ""establishment""]",False
+16,EVERY BODY 北大和店,34.725787,135.728494,249,"[""gym"", ""health"", ""point_of_interest"", ""establishment""]",False
+17,スーパーセンターオークワ 生駒上町店,34.7237,135.72144,242,"[""supermarket"", ""grocery_or_supermarket"", ""store"", ""food"", ""point_of_interest"", ""establishment""]",False
+18,Naist Student Dormitory 7,34.734016,135.735853,234,"[""point_of_interest"", ""establishment""]",True
+19,イオンモール奈良登美ヶ丘,34.7263545,135.751071,205,"[""shopping_mall"", ""point_of_interest"", ""establishment""]",False
+20,奈良先端科学技術大学院大学 学生宿舎,34.73258,135.73562,199,"[""school"", ""point_of_interest"", ""establishment""]",True
+21,レクサス枚方,34.815191,135.67141750000002,192,"[""car_dealer"", ""store"", ""point_of_interest"", ""establishment""]",False
+22,ブーランジェ ヤマダ,34.745255,135.766323,191,"[""bakery"", ""store"", ""food"", ""point_of_interest"", ""establishment""]",False
+23,イオンモール奈良登美ヶ丘,34.72498,135.7512,184,"[""shopping_mall"", ""point_of_interest"", ""establishment""]",False
+24,イオンモール高の原,34.725975,135.790681,181,"[""shopping_mall"", ""point_of_interest"", ""establishment""]",False
+25,エスペランサⅠ,34.668167999999994,135.834395,181,"[""point_of_interest"", ""establishment""]",False
+26,アピタタウンけいはんな,34.745953,135.770358,173,"[""shopping_mall"", ""point_of_interest"", ""establishment""]",False
+27,セブン-イレブン 生駒北田原町店,34.731838999999994,135.711083,172,"[""convenience_store"", ""atm"", ""finance"", ""food"", ""point_of_interest"", ""store"", ""establishment""]",False
+28,岡本矯正歯科,34.724468,135.7207995,166,"[""dentist"", ""health"", ""point_of_interest"", ""establishment""]",False
+29,イオンモール高の原,34.726021,135.78923600000002,165,"[""shopping_mall"", ""shoe_store"", ""store"", ""point_of_interest"", ""establishment""]",False
+30,ゆららの湯 押熊店,34.717968,135.7652,162,"[""tourist_attraction"", ""spa"", ""point_of_interest"", ""establishment""]",False
+31,河童ラーメン本舗 押熊店,34.718821,135.764258,158,"[""meal_takeaway"", ""restaurant"", ""food"", ""point_of_interest"", ""establishment""]",False
+32,スーパーセンターオークワ 生駒上町店,34.72318,135.72158,152,"[""supermarket"", ""grocery_or_supermarket"", ""store"", ""food"", ""point_of_interest"", ""establishment""]",False
+33,スシロー 精華町店,34.73149,135.75592,149,"[""meal_takeaway"", ""restaurant"", ""food"", ""point_of_interest"", ""establishment""]",False
+34,ラ・ムー 奈良二名店,34.70688,135.730563,149,"[""atm"", ""supermarket"", ""grocery_or_supermarket"", ""finance"", ""store"", ""food"", ""point_of_interest"", ""establishment""]",False
+35,原歯科医院,34.72414,135.72278,145,"[""health"", ""point_of_interest"", ""establishment""]",False
+36,奈良先端科学技術大学院大学 学生宿舎,34.73333,135.73536,138,"[""school"", ""point_of_interest"", ""establishment""]",True
+37,ガスト 生駒鹿の台東店,34.72901,135.75252,137,"[""meal_delivery"", ""meal_takeaway"", ""restaurant"", ""food"", ""point_of_interest"", ""establishment""]",False
+38,谷口自動車株式会社,34.849735499999994,135.74374699999998,134,"[""car_repair"", ""point_of_interest"", ""establishment""]",False
+39,けいはんなプラザ,34.7459035,135.76452799999998,130,"[""point_of_interest"", ""establishment""]",False
+40,東登美ヶ丘5号街区公園,34.72135,135.75333,130,"[""park"", ""point_of_interest"", ""establishment""]",False
+41,生鮮＆業務スーパーボトルワールドOK 押熊店,34.71817,135.7722565,128,"[""supermarket"", ""liquor_store"", ""grocery_or_supermarket"", ""store"", ""food"", ""point_of_interest"", ""establishment""]",False
+42,イオンモール高の原,34.72536,135.78925,126,"[""shopping_mall"", ""point_of_interest"", ""establishment""]",False
+43,奈良先端科学技術大学院大学,34.73239,135.73504,125,"[""university"", ""point_of_interest"", ""establishment""]",True
+44,カインズ 奈良二名店,34.70651,135.73116,120,"[""clothing_store"", ""furniture_store"", ""home_goods_store"", ""general_contractor"", ""store"", ""point_of_interest"", ""establishment""]",False
+45,タイムズカー ＵＲ中登美第３,34.7181,135.749583,119,"[""car_rental"", ""point_of_interest"", ""establishment""]",False
+46,ファミリーマート 中登美ヶ丘六丁目店,34.7223,135.74491,117,"[""convenience_store"", ""atm"", ""finance"", ""store"", ""food"", ""point_of_interest"", ""establishment""]",False
+47,O,34.6799115,135.8130025,106,"[""beauty_salon"", ""point_of_interest"", ""establishment""]",False
+48,みらん 奈良店,34.717375,135.78552,104,"[""restaurant"", ""food"", ""point_of_interest"", ""establishment""]",False
+49,愛和エクステリア,34.73923,135.74429,103,"[""store"", ""general_contractor"", ""point_of_interest"", ""establishment""]",False
+50,生駒北大和郵便局,34.72355,135.72988,97,"[""post_office"", ""atm"", ""finance"", ""point_of_interest"", ""establishment""]",False
+51,奈良先端科学技術大学院大学 学生宿舎,34.73301,135.736,95,"[""school"", ""point_of_interest"", ""establishment""]",True
+52,アピタタウンけいはんな,34.746036,135.771155,95,"[""shopping_mall"", ""point_of_interest"", ""establishment""]",False
+53,近鉄富雄元町駅前駐車場,34.692701,135.733666,92,"[""parking"", ""point_of_interest"", ""establishment""]",False
+54,ジョイフル 京都精華町店,34.74528,135.769433,89,"[""restaurant"", ""food"", ""point_of_interest"", ""establishment""]",False
+55,奈良日産自動車 生駒店,34.700703,135.697595,88,"[""car_dealer"", ""store"", ""point_of_interest"", ""establishment""]",False
+56,奈良先端科学技術大学院大学 先端科学技術研究科 情報科学領域,34.7317,135.73533,88,"[""university"", ""point_of_interest"", ""establishment""]",True
+57,コスモ石油 セルフ学研北生駒 SS (コスモ石油販売大阪カンパニー),34.72452,135.72006,85,"[""gas_station"", ""car_wash"", ""car_repair"", ""store"", ""point_of_interest"", ""establishment""]",False
+58,アノラーメン製作所,34.69437,135.734378,85,"[""restaurant"", ""food"", ""point_of_interest"", ""establishment""]",False
+59,イオンモール奈良登美ヶ丘,34.726085,135.750213,82,"[""shopping_mall"", ""clothing_store"", ""store"", ""point_of_interest"", ""establishment""]",False
+60,学際融合領域研究棟1号館,34.73188,135.73638,81,"[""university"", ""point_of_interest"", ""establishment""]",True
+61,生命科学研究基盤センター,34.73133,135.732078,75,"[""university"", ""point_of_interest"", ""establishment""]",True
+62,高山郵便局,34.72612,135.7205,74,"[""post_office"", ""finance"", ""point_of_interest"", ""establishment""]",False
+63,揉みほぐし名家,34.708755,135.705713,74,"[""health"", ""point_of_interest"", ""establishment""]",False
+64,松島塗装工業株式会社,34.725187000000005,135.7288045,72,"[""painter"", ""point_of_interest"", ""establishment""]",False
+65,お宝創庫 生駒店,34.72772,135.75189,71,"[""recycle_store"", ""point_of_interest"", ""establishment""]",False
+66,奈良市の写真館 フォトリンクス,34.67137,135.80728,71,"[""point_of_interest"", ""electronics_store"", ""home_goods_store"", ""store"", ""establishment""]",False
+67,たにの皮ふ科クリニック,34.7264285,135.729559,71,"[""doctor"", ""health"", ""point_of_interest"", ""establishment""]",False
+68,餃子の王将 押熊店,34.72009,135.76785,67,"[""meal_takeaway"", ""restaurant"", ""food"", ""point_of_interest"", ""establishment""]",False
+69,スギ薬局 登美ケ丘店,34.722305,135.749525,64,"[""drugstore"", ""health"", ""store"", ""point_of_interest"", ""establishment""]",False
+70,モスバーガー平城ニュータウン店,34.7203,135.77361,63,"[""cafe"", ""restaurant"", ""point_of_interest"", ""store"", ""food"", ""establishment""]",False
+71,定食製作所,34.72205,135.77111,60,"[""restaurant"", ""point_of_interest"", ""establishment""]",False
+72,奈良先端科学技術大学院大学 先端科学技術研究科 情報科学領域,34.73007,135.73132,59,"[""university"", ""point_of_interest"", ""establishment""]",True
+73,バーミヤン 生駒白庭台店,34.726351,135.715195,59,"[""meal_delivery"", ""meal_takeaway"", ""restaurant"", ""food"", ""point_of_interest"", ""establishment""]",False
+74,ユクリ,34.723825,135.77072,58,"[""point_of_interest"", ""establishment""]",False
+75,（株）松林堂,34.686594,135.8253655,58,"[""store"", ""point_of_interest"", ""establishment""]",False
+76,EV充電スタンド,34.691871,135.701291,58,"[""point_of_interest"", ""establishment""]",False
+77,岩田高木２丁目の祠,34.855075,135.743233,57,"[""place_of_worship"", ""point_of_interest"", ""establishment""]",False
+78,コメリパワー 生駒店,34.728142,135.7203215,56,"[""furniture_store"", ""home_goods_store"", ""store"", ""point_of_interest"", ""establishment""]",False
+79,谷口自動車株式会社,34.8501955,135.743856,55,"[""car_repair"", ""point_of_interest"", ""establishment""]",False
+80,奈良先端科学技術大学院大学（バス）,34.73134,135.73153,53,"[""bus_station"", ""transit_station"", ""point_of_interest"", ""establishment""]",True
+81,せいかガーデンシティ,34.760308,135.789676,52,"[""shopping_mall"", ""point_of_interest"", ""establishment""]",False
+82,ジャパン 奈良押熊店,34.714935,135.771981,52,"[""drugstore"", ""pharmacy"", ""health"", ""store"", ""point_of_interest"", ""establishment""]",False
+83,イオンモール奈良登美ヶ丘,34.72517,135.75009,50,"[""shopping_mall"", ""point_of_interest"", ""establishment""]",False
+84,学研奈良登美ヶ丘郵便局,34.7228885,135.74742550000002,49,"[""post_office"", ""finance"", ""point_of_interest"", ""establishment""]",False
+85,アピタタウンけいはんな,34.745887,135.769595,48,"[""shopping_mall"", ""point_of_interest"", ""establishment""]",False
+86,パラカ 近鉄富雄駅前第1,34.69487650000001,135.7362885,48,"[""parking"", ""point_of_interest"", ""establishment""]",False
+87,きんのぶた 北生駒上町店,34.72535,135.72042,48,"[""restaurant"", ""food"", ""point_of_interest"", ""establishment""]",False
+88,辰巳マンション,34.688606,135.805351,46,"[""point_of_interest"", ""establishment""]",False
+89,イオンモール奈良登美ヶ丘,34.725661,135.749401,46,"[""shopping_mall"", ""electronics_store"", ""store"", ""point_of_interest"", ""establishment""]",False
+90,まえはし整骨院,34.723338,135.725335,45,"[""health"", ""point_of_interest"", ""establishment""]",False
+91,CARBOO,34.732673,135.737378,44,"[""car_dealer"", ""store"", ""point_of_interest"", ""establishment""]",False
+92,キリン堂 生駒店,34.710403,135.705858,42,"[""drugstore"", ""health"", ""store"", ""point_of_interest"", ""establishment""]",False
+93,石臼挽き手打ちそば 蕎麦人,34.74225,135.758363,41,"[""restaurant"", ""food"", ""point_of_interest"", ""establishment""]",False
+94,むさしの森珈琲 奈良中登美ケ丘店,34.7226905,135.7467315,40,"[""cafe"", ""point_of_interest"", ""store"", ""food"", ""establishment""]",False
+95,コメダ珈琲店 生駒店,34.725638,135.718886,39,"[""cafe"", ""store"", ""food"", ""point_of_interest"", ""establishment""]",False
+96,二輪館P.F.D.,34.683622,135.73971949999998,38,"[""store"", ""point_of_interest"", ""establishment""]",False
+97,ピザハット ならやま大通り押熊店,34.7178205,135.763253,38,"[""meal_delivery"", ""meal_takeaway"", ""restaurant"", ""food"", ""point_of_interest"", ""establishment""]",False
+98,ビエラタウン けいはんな,34.74551,135.76789,37,"[""shopping_mall"", ""point_of_interest"", ""establishment""]",False
+99,ファミリーマート 生駒西白庭台店,34.7309,135.7077,37,"[""convenience_store"", ""food"", ""point_of_interest"", ""store"", ""establishment""]",False
+100,奈良先端科学技術大学院大学 先端科学技術研究科 情報科学領域,34.732205,135.735938,35,"[""university"", ""point_of_interest"", ""establishment""]",True
+101,ローソン 奈良押熊町店,34.723125,135.770818,34,"[""convenience_store"", ""atm"", ""finance"", ""store"", ""food"", ""point_of_interest"", ""establishment""]",False
+102,チケパ登美ヶ丘駅前第２駐車場,34.72944,135.75317,34,"[""parking"", ""point_of_interest"", ""establishment""]",False
+103,ファミリーマート 生駒上町店,34.71234,135.725152,34,"[""convenience_store"", ""store"", ""food"", ""point_of_interest"", ""establishment""]",False
+104,奈良先端科学技術大学院大学,34.73256,135.73415,34,"[""university"", ""point_of_interest"", ""establishment""]",True
+105,しゃぶ葉 奈良押熊店,34.716015,135.7795,32,"[""restaurant"", ""point_of_interest"", ""food"", ""establishment""]",False
+106,セブン-イレブン 奈良中登美ヶ丘３丁目店,34.718633,135.745753,32,"[""convenience_store"", ""atm"", ""finance"", ""store"", ""food"", ""point_of_interest"", ""establishment""]",False
+107,(株)ミルスペック,34.7231,135.595846,32,"[""car_repair"", ""point_of_interest"", ""establishment""]",False
+108,学際融合領域研究棟２号館,34.73254,135.73288,32,"[""university"", ""point_of_interest"", ""establishment""]",True
+109,スシロー 学園前店,34.685718,135.7521,31,"[""meal_takeaway"", ""restaurant"", ""food"", ""point_of_interest"", ""establishment""]",False
+110,ビエラタウン けいはんな,34.74512,135.76835,31,"[""shopping_mall"", ""point_of_interest"", ""establishment""]",False
+111,セブン-イレブン 生駒南田原町店,34.71467,135.704091,31,"[""convenience_store"", ""atm"", ""finance"", ""store"", ""food"", ""point_of_interest"", ""establishment""]",False
+112,生駒市体育協会 高山S.C.,34.769808999999995,135.7109255,31,"[""point_of_interest"", ""establishment""]",False
+113,イオンモール高の原,34.726311,135.790215,30,"[""shopping_mall"", ""restaurant"", ""food"", ""point_of_interest"", ""establishment""]",False
+114,ディアーズキッチン,34.7345315,135.7490065,30,"[""bakery"", ""food"", ""store"", ""point_of_interest"", ""establishment""]",False
+115,貞光歯科,34.700076,135.751105,30,"[""health"", ""point_of_interest"", ""establishment""]",False
+116,奈良先端科学技術大学院大学 学生宿舎,34.73275,135.73649,30,"[""school"", ""point_of_interest"", ""establishment""]",True
+117,HSP Healing Cafe カクレミノ家 奈良駅前店,34.68669,135.82657,29,"[""health"", ""point_of_interest"", ""establishment""]",False
+118,ミレニアムホール,34.7328005,135.733362,29,"[""school"", ""point_of_interest"", ""establishment""]",True
+119,ビエラタウン けいはんな,34.74576,135.76842,29,"[""shopping_mall"", ""point_of_interest"", ""establishment""]",False
+120,本家かまどや 山田川店,34.738301,135.793528,28,"[""store"", ""food"", ""point_of_interest"", ""establishment""]",False
+121,トリカヂ イッパイ,34.7032045,135.697055,28,"[""restaurant"", ""food"", ""point_of_interest"", ""establishment""]",False
+122,天下一品 東生駒店,34.7037755,135.706623,28,"[""meal_takeaway"", ""restaurant"", ""food"", ""point_of_interest"", ""establishment""]",False
+123,かしき屋 福茂千,34.718354500000004,135.7313115,27,"[""restaurant"", ""food"", ""point_of_interest"", ""establishment""]",False
+124,タイムズ木津駅前,34.735588,135.822848,27,"[""parking"", ""point_of_interest"", ""establishment""]",False
+125,コーナン精華台店,34.745475,135.773073,27,"[""furniture_store"", ""home_goods_store"", ""store"", ""point_of_interest"", ""establishment""]",False
+126,津山白鳳書院,34.715733,135.747688,27,"[""point_of_interest"", ""establishment""]",False
+127,スーパーセンターオークワ 生駒上町店,34.72395,135.722108,27,"[""supermarket"", ""grocery_or_supermarket"", ""store"", ""food"", ""point_of_interest"", ""establishment""]",False
+128,上武建設,34.72943,135.73115,27,"[""general_contractor"", ""point_of_interest"", ""establishment""]",True
+129,ユーポス生駒店,34.714048,135.703598,26,"[""local_government_office"", ""car_dealer"", ""store"", ""point_of_interest"", ""establishment""]",False
+130,美容室 ヘアサロン 絆-キズナ-,34.7466205,135.770122,26,"[""hair_care"", ""point_of_interest"", ""establishment""]",False
+131,鳥鳥 学園前店,34.699566,135.75264,26,"[""restaurant"", ""point_of_interest"", ""food"", ""establishment""]",False
+132,イオンモール高の原,34.725256,135.789816,25,"[""shopping_mall"", ""restaurant"", ""food"", ""point_of_interest"", ""establishment""]",False
+133,スーパーヤオヒコ 富雄店,34.69227,135.735318,25,"[""supermarket"", ""grocery_or_supermarket"", ""store"", ""food"", ""point_of_interest"", ""establishment""]",False
+134,ミカノハラ陶工舎,34.76958,135.86043,25,"[""point_of_interest"", ""establishment""]",False
+135,ゆうちょ銀行 大阪支店 ファミリーマート西登美ヶ丘店内出張所,34.715428,135.7384305,24,"[""atm"", ""finance"", ""point_of_interest"", ""establishment""]",False
+136,平城第1管理サービス事務所,34.722116,135.779121,24,"[""real_estate_agency"", ""point_of_interest"", ""establishment""]",False
+137,イオンモール高の原,34.724076,135.790626,24,"[""shopping_mall"", ""health"", ""store"", ""point_of_interest"", ""establishment""]",False
+138,ALOHA CAFE Pineapple 生駒店,34.71753,135.723536,24,"[""cafe"", ""store"", ""food"", ""point_of_interest"", ""establishment""]",False
+139,BOOKOFF 奈良押熊店,34.71871,135.772711,23,"[""movie_rental"", ""electronics_store"", ""book_store"", ""home_goods_store"", ""store"", ""point_of_interest"", ""establishment""]",False
+140,ムツミ,34.72986,135.7303,23,"[""point_of_interest"", ""establishment""]",False
+141,ファミリーモア八重桜 押熊館,34.71619,135.772896,23,"[""health"", ""point_of_interest"", ""establishment""]",False
+142,奈良先端科学技術大学院大学（バス）,34.73195,135.73176,23,"[""bus_station"", ""transit_station"", ""point_of_interest"", ""establishment""]",False
+143,つけ麺 無心,34.6746035,135.752253,22,"[""restaurant"", ""food"", ""point_of_interest"", ""establishment""]",False
+144,AL　PLAZA,34.738808,135.79354899999998,22,"[""point_of_interest"", ""establishment""]",False
+145,MEGAドン・キホーテUNY精華台店,34.746548,135.770695,22,"[""shopping_mall"", ""point_of_interest"", ""establishment""]",False
+146,あづまケータリングサービス おしくま店,34.715269000000006,135.7789965,22,"[""food"", ""point_of_interest"", ""establishment""]",False
+147,元喜神 押熊店,34.71912,135.765678,22,"[""meal_takeaway"", ""restaurant"", ""food"", ""point_of_interest"", ""establishment""]",False
+148,事務棟別館,34.734163,135.7316995,22,"[""university"", ""point_of_interest"", ""establishment""]",False
+149,ビッグボーイ 奈良平城店,34.72045,135.772228,22,"[""restaurant"", ""food"", ""point_of_interest"", ""establishment""]",False
+150,石窯パン工房 キャパトル 登美ヶ丘店,34.7178055,135.7583875,22,"[""bakery"", ""store"", ""food"", ""point_of_interest"", ""establishment""]",False
+151,Hair Make SNIPE,34.727621,135.750873,21,"[""hair_care"", ""point_of_interest"", ""establishment""]",False
+152,登美ヶ丘駅前駐車場,34.7265655,135.7504265,21,"[""parking"", ""point_of_interest"", ""establishment""]",False
+153,スポーツクラブ＆スパ ルネサンス 登美ヶ丘,34.725713,135.75230549999998,21,"[""gym"", ""health"", ""point_of_interest"", ""establishment""]",False
+154,朝日自動車工業（株） リース事業部,34.744989000000004,135.629608,21,"[""car_rental"", ""point_of_interest"", ""establishment""]",False
+155,ペットアミ生駒店,34.727706,135.720577,21,"[""pet_store"", ""store"", ""point_of_interest"", ""establishment""]",False
+156,トマツナ弦楽器研究所,34.684845,135.693601,21,"[""point_of_interest"", ""establishment""]",False
+157,ワンカルビ 押熊店,34.720278,135.769941,21,"[""restaurant"", ""food"", ""point_of_interest"", ""establishment""]",False
+158,かつ満 生駒西白庭台店,34.730873,135.70828,21,"[""cafe"", ""furniture_store"", ""home_goods_store"", ""meal_takeaway"", ""store"", ""restaurant"", ""food"", ""point_of_interest"", ""establishment""]",False
+159,北大和体育施設 体育館,34.721518,135.735165,20,"[""point_of_interest"", ""establishment""]",False
+160,マクドナルド 白庭台店,34.726481,135.716518,20,"[""cafe"", ""store"", ""restaurant"", ""point_of_interest"", ""food"", ""establishment""]",False
+161,相楽台西（バス）,34.72769,135.789033,20,"[""bus_station"", ""transit_station"", ""point_of_interest"", ""establishment""]",False
+162,ユニクロ 押熊店,34.717318,135.761751,20,"[""clothing_store"", ""store"", ""point_of_interest"", ""establishment""]",False
+163,高の原駅,34.7231475,135.7905085,20,"[""transit_station"", ""point_of_interest"", ""establishment""]",False
+164,自分薬局 中登美ヶ丘,34.7218745,135.749728,20,"[""pharmacy"", ""health"", ""store"", ""point_of_interest"", ""establishment""]",False
+165,ハートフルビレッジ西大寺Ⅱ,34.696381,135.769309,19,"[""point_of_interest"", ""establishment""]",False
+166,ひかり装飾（株）,34.683715,135.774806,19,"[""point_of_interest"", ""establishment""]",False
+167,ジャパン 奈良尼ヶ辻店,34.6813405,135.788413,19,"[""drugstore"", ""health"", ""store"", ""point_of_interest"", ""establishment""]",False
+168,高天 グリーンハイツ,34.68511,135.82473,19,"[""point_of_interest"", ""establishment""]",False
+169,学研奈良登美ヶ丘駅,34.73203,135.73738,18,"[""point_of_interest"", ""establishment""]",True
+170,イオンモール高の原,34.724913,135.790533,18,"[""shopping_mall"", ""restaurant"", ""food"", ""point_of_interest"", ""establishment""]",False
+171,ルーチェサンタルチア 生駒学園前店,34.710333,135.728311,18,"[""restaurant"", ""food"", ""point_of_interest"", ""establishment""]",False
+172,金子モータープール,34.6845895,135.8270565,18,"[""parking"", ""point_of_interest"", ""establishment""]",False
+173,ハートフルビレッジ木津プレミアム,34.740905,135.7955705,18,"[""point_of_interest"", ""establishment""]",False
+174,奈良交通 生駒案内所,34.693489,135.6971195,18,"[""travel_agency"", ""point_of_interest"", ""establishment""]",False
+175,学研奈良登美ヶ丘駅,34.725611,135.751566,17,"[""bus_station"", ""transit_station"", ""point_of_interest"", ""establishment""]",True
+176,マルエスペットヒルステップ生駒店,34.7094855,135.70626049999998,17,"[""pet_store"", ""store"", ""point_of_interest"", ""establishment""]",False
+177,タイムズのB コメリパワー生駒店駐車場,34.727087,135.72117300000002,17,"[""parking"", ""point_of_interest"", ""establishment""]",False
+178,ローレルスクエア登美ヶ丘3番館,34.718476,135.7432215,17,"[""point_of_interest"", ""establishment""]",False
+179,ゆうちょ銀行 大阪支店 ファミリーマート精華光台店内出張所,34.74381,135.758363,17,"[""atm"", ""finance"", ""point_of_interest"", ""establishment""]",False
+180,花の木,34.723065,135.768785,17,"[""restaurant"", ""food"", ""point_of_interest"", ""establishment""]",False
+181,アートスタジオ,34.714903,135.7440845,16,"[""point_of_interest"", ""establishment""]",False
+182,びっくりドンキー 奈良学園前店,34.68499,135.754021,16,"[""restaurant"", ""food"", ""point_of_interest"", ""establishment""]",False
+183,岩佐クリニック,34.707376,135.760213,16,"[""health"", ""point_of_interest"", ""establishment""]",False
+184,天ぷら 吉四六,34.713915,135.74528,16,"[""restaurant"", ""food"", ""point_of_interest"", ""establishment""]",False
+185,コーナン精華台店,34.7453,135.772346,16,"[""furniture_store"", ""home_goods_store"", ""store"", ""point_of_interest"", ""establishment""]",False
+186,コスモ石油 セルフ登美ヶ丘 SS (コスモ石油販売大阪カンパニー),34.72783,135.75305,16,"[""gas_station"", ""point_of_interest"", ""establishment""]",False
+187,夢咲家,34.73024,135.73288,16,"[""point_of_interest"", ""establishment""]",False
+188,アサヒペットクリニック,34.726535,135.720248,15,"[""veterinary_care"", ""point_of_interest"", ""establishment""]",False
+189,奈良先端科学技術大学院大学（バス）,34.73251,135.73188,15,"[""bus_station"", ""transit_station"", ""point_of_interest"", ""establishment""]",False
+190,セブン-イレブン 奈良押熊町店,34.7208005,135.768989,15,"[""convenience_store"", ""atm"", ""finance"", ""store"", ""food"", ""point_of_interest"", ""establishment""]",False
+191,Shanti Yoga,34.7137355,135.772772,15,"[""gym"", ""health"", ""point_of_interest"", ""establishment""]",False
+192,イオンモール高の原,34.7253,135.790976,15,"[""shopping_mall"", ""restaurant"", ""food"", ""point_of_interest"", ""establishment""]",False
+193,なか卯 生駒俵口店,34.70191,135.696613,14,"[""meal_takeaway"", ""restaurant"", ""point_of_interest"", ""food"", ""establishment""]",False
+194,生駒郵便局集荷,34.6967845,135.700411,14,"[""post_office"", ""finance"", ""point_of_interest"", ""establishment""]",False
+195,baraque バラック,34.735928,135.697883,14,"[""point_of_interest"", ""establishment""]",False
+196,学際融合領域研究棟1号館,34.7309935,135.73457150000002,14,"[""university"", ""point_of_interest"", ""establishment""]",True
+197,駐輪場,34.682318,135.804768,14,"[""point_of_interest"", ""establishment""]",False
+198,精華町 産業振興課,34.760487,135.78554300000002,14,"[""local_government_office"", ""point_of_interest"", ""establishment""]",False
+199,frau,34.697621,135.7499745,14,"[""hair_care"", ""point_of_interest"", ""establishment""]",False
+200,L.Park,34.72721,135.719765,14,"[""point_of_interest"", ""establishment""]",False
+201,EV充電スタンド,34.723185,135.705023,14,"[""point_of_interest"", ""establishment""]",False
+202,北生駒整骨院,34.722015,135.72848,14,"[""point_of_interest"", ""health"", ""establishment""]",False
+203,ヤマト運輸 学研営業所（あすか野）,34.7240265,135.705381,13,"[""moving_company"", ""storage"", ""point_of_interest"", ""establishment""]",False
+204,野村工具製作所,34.696595,135.786801,13,"[""point_of_interest"", ""establishment""]",False
+205,イオンモール高の原,34.725966,135.79124,13,"[""shopping_mall"", ""restaurant"", ""food"", ""point_of_interest"", ""establishment""]",False
+206,たけまるホール（旧中央公民館）,34.693773,135.696418,13,"[""point_of_interest"", ""establishment""]",False
+207,春日橋,34.7057455,135.73240049999998,13,"[""point_of_interest"", ""establishment""]",False
+208,EV充電スタンド,34.717855,135.7727255,13,"[""point_of_interest"", ""establishment""]",False
+209,株式会社エイチツーオー生駒支店,34.73176,135.72139,13,"[""general_contractor"", ""point_of_interest"", ""establishment""]",False
+210,奈良県警 生駒警察署,34.699485,135.697789,13,"[""police"", ""point_of_interest"", ""establishment""]",False
+211,生命科学研究基盤センター,34.730945500000004,135.732778,13,"[""university"", ""point_of_interest"", ""establishment""]",False
+212,イオンモール四條畷,34.745986,135.63049,13,"[""shopping_mall"", ""point_of_interest"", ""establishment""]",False
+213,Honda Cars 奈良中央 高の原店,34.724343000000005,135.7891105,13,"[""car_dealer"", ""store"", ""point_of_interest"", ""establishment""]",False
+214,ヤスイ薬局白庭台,34.720803,135.716911,12,"[""pharmacy"", ""store"", ""point_of_interest"", ""health"", ""establishment""]",False
+215,生駒郵便局集荷,34.697378,135.700256,12,"[""post_office"", ""finance"", ""point_of_interest"", ""establishment""]",False
+216,ルイジアナママ 奈良学園前店,34.722723,135.721426,12,"[""restaurant"", ""point_of_interest"", ""food"", ""establishment""]",False
+217,ゆらら亭 押熊店,34.718673,135.765136,12,"[""restaurant"", ""point_of_interest"", ""food"", ""establishment""]",False
+218,オクムラ薬局,34.7154965,135.744653,12,"[""pharmacy"", ""health"", ""point_of_interest"", ""store"", ""establishment""]",False
+219,学校,34.857353,135.86550799999998,12,"[""school"", ""point_of_interest"", ""establishment""]",False
+220,亀岡市月読橋第二球技場,35.051581,135.551685,12,"[""gym"", ""health"", ""point_of_interest"", ""establishment""]",False
+221,真弓橋（バス）,34.719140499999995,135.722741,12,"[""bus_station"", ""transit_station"", ""point_of_interest"", ""establishment""]",False
+222,白庭台薬局,34.720441,135.716473,12,"[""pharmacy"", ""food"", ""store"", ""health"", ""point_of_interest"", ""establishment""]",False
+223,りらくる 押熊店,34.717806,135.764663,12,"[""health"", ""store"", ""point_of_interest"", ""establishment""]",False
+224,ならファミリー,34.6953,135.785253,12,"[""shopping_mall"", ""point_of_interest"", ""establishment""]",False
+225,御所市民運動公園,34.42968,135.730055,11,"[""point_of_interest"", ""establishment""]",False
+226,公益財団法人国際高等研究所,34.741331,135.77554,11,"[""point_of_interest"", ""establishment""]",False
+227,関西電力送配電登美ヶ丘変電所,34.72479,135.75224,11,"[""point_of_interest"", ""establishment""]",False
+228,生駒市 北大和第13緑地,34.725061999999994,135.736136,11,"[""park"", ""point_of_interest"", ""establishment""]",False
+229,第１駐車場,34.6964045,135.8265945,11,"[""parking"", ""point_of_interest"", ""establishment""]",False
+230,喫茶バルビゾン,34.721885,135.770073,11,"[""cafe"", ""store"", ""food"", ""point_of_interest"", ""establishment""]",False
+231,カラオケレインボー精華光台店,34.7463,135.7668915,11,"[""bar"", ""point_of_interest"", ""establishment""]",False
+232,うなぎの豊川,34.692215,135.731973,11,"[""restaurant"", ""food"", ""point_of_interest"", ""establishment""]",False
+233,ポークバーガー専門店Porco's Diner,34.682808,135.805326,11,"[""restaurant"", ""food"", ""bar"", ""point_of_interest"", ""establishment""]",False
+234,ローソン 奈良法蓮町東店,34.690548,135.826228,11,"[""convenience_store"", ""atm"", ""finance"", ""food"", ""point_of_interest"", ""store"", ""establishment""]",False
+235,セブン銀行ATM,34.72099,135.71623,11,"[""atm"", ""bank"", ""finance"", ""store"", ""point_of_interest"", ""establishment""]",False
+236,くら寿司 生駒店,34.711898,135.704371,11,"[""meal_takeaway"", ""restaurant"", ""food"", ""point_of_interest"", ""establishment""]",False
+237,駐車場,34.72265,135.75172,11,"[""parking"", ""premise"", ""point_of_interest"", ""establishment""]",False
+238,奈良県立西和養護学校,34.572471,135.722256,11,"[""school"", ""point_of_interest"", ""establishment""]",False
+239,グランツしかはた,34.733339,135.74300549999998,10,"[""point_of_interest"", ""establishment""]",False
+240,奈良春日野国際フォーラム 甍～I・RA・KA～,34.683478,135.843461,10,"[""point_of_interest"", ""establishment""]",False
+241,くら寿司 精華町店,34.745117500000006,135.7699755,10,"[""meal_takeaway"", ""restaurant"", ""food"", ""point_of_interest"", ""establishment""]",False
+242,生駒市立井出山体育館,34.65284,135.7069205,10,"[""stadium"", ""point_of_interest"", ""establishment""]",False
+243,メッサオークワ 北登美ヶ丘店,34.723973,135.770198,10,"[""supermarket"", ""grocery_or_supermarket"", ""store"", ""food"", ""point_of_interest"", ""establishment""]",False
+244,島ヶ原温泉 やぶっちゃの湯,34.77462,136.06779,10,"[""spa"", ""point_of_interest"", ""establishment""]",False
+245,宝くじ売り場,34.70393,135.70724,10,"[""point_of_interest"", ""establishment""]",False
+246,自家製麺 杵屋 生駒近鉄百貨店,34.69355,135.69805,10,"[""restaurant"", ""food"", ""point_of_interest"", ""establishment""]",False
+247,ナラテック,34.7178485,135.7626195,10,"[""point_of_interest"", ""establishment""]",False
+248,進弘フードサービス株式会社,34.715811,135.752343,10,"[""point_of_interest"", ""establishment""]",False
+249,ファミリーマート 門真上島町店,34.743456,135.609795,10,"[""convenience_store"", ""atm"", ""finance"", ""food"", ""store"", ""point_of_interest"", ""establishment""]",False
+250,ミスタードーナツ ベルテラスいこまショップ,34.694715,135.697696,10,"[""cafe"", ""bakery"", ""meal_takeaway"", ""store"", ""restaurant"", ""point_of_interest"", ""food"", ""establishment""]",False
+251,麺屋じすり駐車場,34.736516,135.81174,10,"[""parking"", ""point_of_interest"", ""establishment""]",False
+252,居間焼肉 百欒 登美ヶ丘店,34.722966,135.751268,10,"[""restaurant"", ""point_of_interest"", ""food"", ""establishment""]",False
+253,コストコホールセール 京都八幡倉庫店,34.841768,135.715308,10,"[""grocery_or_supermarket"", ""pharmacy"", ""health"", ""car_repair"", ""food"", ""store"", ""point_of_interest"", ""establishment""]",False
+254,ミスタードーナツ ベルテラスいこまショップ,34.694191,135.69723399999998,10,"[""bakery"", ""meal_takeaway"", ""cafe"", ""store"", ""restaurant"", ""food"", ""point_of_interest"", ""establishment""]",False
+255,専光寺,34.751698,135.742282,10,"[""place_of_worship"", ""point_of_interest"", ""establishment""]",False
+256,콘피라 신사,34.659135,135.71632,10,"[""place_of_worship"", ""point_of_interest"", ""establishment""]",False
+257,ＴＡＣ井出山スポーツパーク テニスコート,34.65224,135.71042,9,"[""point_of_interest"", ""establishment""]",False
+258,学研奈良登美ヶ丘駅,34.7262,135.751775,9,"[""bus_station"", ""transit_station"", ""point_of_interest"", ""establishment""]",True
+259,生鮮＆業務スーパーボトルワールドOK 押熊店,34.718727,135.772005,9,"[""supermarket"", ""grocery_or_supermarket"", ""liquor_store"", ""store"", ""food"", ""point_of_interest"", ""establishment""]",False
+260,Amazon Hub ロッカー - スギ_富雄三松店,34.7024155,135.73240900000002,9,"[""point_of_interest"", ""establishment""]",False
+261,川端風太朗,34.719468,135.723311,9,"[""bakery"", ""food"", ""point_of_interest"", ""store"", ""establishment""]",False
+262,ジョリーパスタ 押熊店,34.720214,135.7730365,9,"[""store"", ""restaurant"", ""food"", ""point_of_interest"", ""establishment""]",False
+263,TACHIHI BEACH NARA,34.685628,135.802548,9,"[""point_of_interest"", ""establishment""]",False
+264,帝塚山大学前（バス）,34.68786,135.72157,9,"[""bus_station"", ""transit_station"", ""point_of_interest"", ""establishment""]",False
+265,apollostation セルフ秋篠SS （シェル石油大阪発売所）,34.708556,135.778725,9,"[""gas_station"", ""car_wash"", ""car_repair"", ""point_of_interest"", ""establishment""]",False
+266,ココカラファイン 北登美ケ丘店,34.723682,135.769324,9,"[""drugstore"", ""health"", ""point_of_interest"", ""store"", ""establishment""]",False
+267,西向橋（バス）,34.7286325,135.720527,9,"[""bus_station"", ""transit_station"", ""point_of_interest"", ""establishment""]",False
+268,やまとホームサービス,34.722868,135.771573,9,"[""general_contractor"", ""point_of_interest"", ""establishment""]",False
+269,らくれん四国乳業,34.84904,135.748141,9,"[""point_of_interest"", ""establishment""]",False
+270,産直市場よってって 秋篠店,34.710136500000004,135.773774,9,"[""grocery_or_supermarket"", ""food"", ""store"", ""point_of_interest"", ""establishment""]",False
+271,ルイジアナママ 奈良学園前店,34.722313,135.720673,9,"[""restaurant"", ""point_of_interest"", ""food"", ""establishment""]",False
+272,八光オート,34.731813,135.71323,9,"[""point_of_interest"", ""establishment""]",False
+273,ココス 東生駒店,34.686338,135.713916,9,"[""restaurant"", ""food"", ""point_of_interest"", ""establishment""]",False
+274,株式会社工研社 寝屋川工場,34.765128,135.645898,8,"[""point_of_interest"", ""establishment""]",False
+275,CINQ REPO care&design,34.695041,135.699181,8,"[""hair_care"", ""point_of_interest"", ""establishment""]",False
+276,牛菊,34.693773,135.698666,8,"[""point_of_interest"", ""store"", ""food"", ""establishment""]",False
+277,かつアンドかつ 精華町店,34.743838,135.767311,8,"[""restaurant"", ""food"", ""point_of_interest"", ""establishment""]",False
+278,大和郡山市総合公園,34.645146999999994,135.7472005,8,"[""park"", ""point_of_interest"", ""establishment""]",False
+279,たけうち動物病院,34.720879499999995,135.77174200000002,8,"[""veterinary_care"", ""point_of_interest"", ""establishment""]",False
+280,（株）サンケア,34.692681,135.7344745,8,"[""point_of_interest"", ""establishment""]",False
+281,香,34.7098465,135.750338,8,"[""hair_care"", ""point_of_interest"", ""health"", ""establishment""]",False
+282,studio KUMO,34.659541,135.70681,8,"[""point_of_interest"", ""establishment""]",False
+283,帝塚山中学校・高等学校,34.696533,135.751005,8,"[""point_of_interest"", ""school"", ""establishment""]",False
+284,トヨタEV充電スタンド,34.722905,135.749151,8,"[""point_of_interest"", ""establishment""]",False
+285,ニューヤマザキデイリーストア 奈良先端科学技術大学店,34.732033,135.7334775,8,"[""convenience_store"", ""store"", ""food"", ""point_of_interest"", ""establishment""]",False
+286,フリルアイビューティー・北生駒店,34.72448,135.72329,8,"[""hair_care"", ""point_of_interest"", ""establishment""]",False
+287,ドイツ菓子 ゲベック 本店,34.716758,135.734853,8,"[""bakery"", ""store"", ""food"", ""point_of_interest"", ""establishment""]",False
+288,ルビアン,34.72597,135.75076,8,"[""laundry"", ""point_of_interest"", ""establishment""]",False
+289,パレット 生駒店,34.692441,135.695763,8,"[""clothing_store"", ""store"", ""point_of_interest"", ""establishment""]",False
+290,ITTO個別指導学院 生駒台校,34.710038,135.70059,8,"[""school"", ""point_of_interest"", ""establishment""]",False
+291,KOHYO東生駒店,34.685048,135.716111,8,"[""grocery_or_supermarket"", ""food"", ""point_of_interest"", ""store"", ""establishment""]",False
+292,まさご,34.693915,135.78966,8,"[""art_gallery"", ""point_of_interest"", ""establishment""]",False
+293,かなもと医院,34.721998,135.7270805,8,"[""health"", ""point_of_interest"", ""establishment""]",False
+294,奈良春日野国際フォーラム 甍～I・RA・KA～,34.683929500000005,135.8429615,8,"[""point_of_interest"", ""establishment""]",False
+295,京都府宇治市立伊勢田小学校 育成学級,34.884203,135.772336,8,"[""primary_school"", ""school"", ""point_of_interest"", ""establishment""]",False
+296,奈良交通 北大和営業所,34.7237,135.7243,7,"[""point_of_interest"", ""establishment""]",False
+297,かわの整骨院,34.697115,135.709268,7,"[""health"", ""point_of_interest"", ""establishment""]",False
+298,イーネットATM ドン・キホーテ奈良 共同出張所,34.67068,135.799441,7,"[""atm"", ""finance"", ""point_of_interest"", ""establishment""]",False
+299,麺舎 いっとう 奈良富雄店,34.691498,135.7350835,7,"[""restaurant"", ""point_of_interest"", ""food"", ""establishment""]",False
+300,三和食品,34.752863,135.745629,7,"[""point_of_interest"", ""establishment""]",False
+301,正栄工業株式会社 春日倉庫,34.8041975,135.685808,7,"[""general_contractor"", ""point_of_interest"", ""establishment""]",False
+302,エコロパーク北生駒駅前第1,34.724693,135.7224435,7,"[""parking"", ""point_of_interest"", ""establishment""]",False
+303,カラオケレインボー精華光台店,34.746591,135.766223,7,"[""bar"", ""point_of_interest"", ""establishment""]",False
+304,くら寿司 奈良学園前店,34.687115,135.752638,7,"[""meal_takeaway"", ""restaurant"", ""food"", ""point_of_interest"", ""establishment""]",False
+305,ハローストレージ学研奈良登美ヶ丘,34.728903,135.75361,7,"[""storage"", ""point_of_interest"", ""establishment""]",False
+306,奈良先端科学技術大学院大学 先端科学技術研究科 情報科学領域,34.73077,135.73147,7,"[""university"", ""point_of_interest"", ""establishment""]",True
+307,EV充電スタンド,34.72337,135.705585,7,"[""point_of_interest"", ""establishment""]",False
+308,ファミリーマート 生駒西白庭台店,34.730954,135.7071305,7,"[""convenience_store"", ""point_of_interest"", ""store"", ""food"", ""establishment""]",False
+309,みのりの里しらにわ,34.723703,135.71053,7,"[""point_of_interest"", ""establishment""]",False
+310,ボトルワールドＯＫ富雄店,34.6882065,135.735767,7,"[""liquor_store"", ""point_of_interest"", ""store"", ""establishment""]",False
+311,イオンモール大和郡山店,34.65128,135.80137,7,"[""shopping_mall"", ""atm"", ""finance"", ""point_of_interest"", ""establishment""]",False
+312,1F屋内,34.725446,135.7916,7,"[""parking"", ""subpremise"", ""point_of_interest"", ""establishment""]",False
+313,アップル学園前在宅介護支援 センター,34.721473,135.744638,7,"[""point_of_interest"", ""establishment""]",False
+314,生駒市 清掃リレーセンター,34.688063,135.718413,7,"[""point_of_interest"", ""establishment""]",False
+315,メイプルリーフ薬局生駒店,34.703597,135.6966385,7,"[""pharmacy"", ""point_of_interest"", ""health"", ""store"", ""establishment""]",False
+316,イオンモール四條畷,34.7452,135.62911,7,"[""shopping_mall"", ""transit_station"", ""point_of_interest"", ""establishment""]",False
+317,国境食堂,34.709343,135.828105,7,"[""restaurant"", ""food"", ""point_of_interest"", ""establishment""]",False
+318,西日本三菱自動車販売（株）,34.8146,135.671703,7,"[""car_dealer"", ""store"", ""point_of_interest"", ""establishment""]",False
+319,幼保連携型認定こども園 生駒ピュアこども園,34.7273365,135.75440550000002,7,"[""school"", ""point_of_interest"", ""establishment""]",False
+320,オーダースーツ専門店 ツキムラ京都精華店,34.746326999999994,135.765042,7,"[""clothing_store"", ""point_of_interest"", ""store"", ""establishment""]",False
+321,三和駐車場,34.7077315,135.8275755,7,"[""parking"", ""point_of_interest"", ""establishment""]",False
+322,奈良県 奈良西警察署,34.688918,135.752948,7,"[""police"", ""point_of_interest"", ""establishment""]",False
+323,おーぷんせさみ,34.75071,135.785266,7,"[""point_of_interest"", ""establishment""]",False
+324,第2昭和ビル(Ⅱ SHOWA BUIL,34.620743,135.51839,7,"[""point_of_interest"", ""establishment""]",False
+325,株式会社 丸友商会,34.7544395,135.522742,7,"[""general_contractor"", ""point_of_interest"", ""establishment""]",False
+326,生駒市俵口町の美容室 Eni -SALON&EYELASH-,34.701253,135.696892,7,"[""hair_care"", ""point_of_interest"", ""establishment""]",False
+327,町の便利屋ファミリー奈良店,34.685138,135.826938,7,"[""general_contractor"", ""point_of_interest"", ""establishment""]",False
+328,K-TERRACE学研奈良登美ヶ丘,34.726796,135.749538,7,"[""point_of_interest"", ""establishment""]",False
+329,奈良西警察署 学園前交番,34.69613,135.752263,7,"[""police"", ""point_of_interest"", ""establishment""]",False
+330,天ぷら 吉四六,34.714423,135.744823,7,"[""restaurant"", ""food"", ""point_of_interest"", ""establishment""]",False
+331,スシロー 精華町店,34.73179,135.7555,7,"[""meal_takeaway"", ""restaurant"", ""food"", ""point_of_interest"", ""establishment""]",False
+332,ダイタク生駒ショールーム,34.687018,135.71619149999998,7,"[""painter"", ""point_of_interest"", ""establishment""]",False
+333,マクドナルド ららぽーと門真店,34.732728,135.585376,7,"[""cafe"", ""store"", ""restaurant"", ""food"", ""point_of_interest"", ""establishment""]",False
+334,ラストル,34.744255,135.763141,6,"[""restaurant"", ""food"", ""point_of_interest"", ""establishment""]",False
+335,ダイニングルーム,34.636665,135.450491,6,"[""subpremise"", ""point_of_interest"", ""establishment""]",False
+336,産直市場よってって 秋篠店,34.71025,135.7746095,6,"[""grocery_or_supermarket"", ""point_of_interest"", ""store"", ""food"", ""establishment""]",False
+337,セブン-イレブン 生駒鹿畑町店,34.728203,135.752431,6,"[""convenience_store"", ""atm"", ""finance"", ""store"", ""food"", ""point_of_interest"", ""establishment""]",False
+338,ルビアン,34.725631500000006,135.7503025,6,"[""laundry"", ""point_of_interest"", ""establishment""]",False
+339,MARUWAアパマン富雄店,34.693253,135.734378,6,"[""real_estate_agency"", ""point_of_interest"", ""establishment""]",False
+340,うどん＋食彩 いな田,34.71793,135.73223,6,"[""restaurant"", ""food"", ""point_of_interest"", ""establishment""]",False
+341,（株）丸菱 関西営業所,34.7079105,135.8070465,6,"[""point_of_interest"", ""establishment""]",False
+342,学際融合領域研究棟1号館,34.730366,135.734641,6,"[""university"", ""point_of_interest"", ""establishment""]",True
+343,中央ゴム工業所,34.994666,135.712203,6,"[""car_repair"", ""point_of_interest"", ""store"", ""establishment""]",False
+344,生駒駅南自動車駐車場,34.690996,135.698263,6,"[""parking"", ""point_of_interest"", ""establishment""]",False
+345,ナマステインディアレストラン,34.708291,135.705815,6,"[""restaurant"", ""food"", ""point_of_interest"", ""establishment""]",False
+346,きみや,34.7292,135.74677,6,"[""restaurant"", ""point_of_interest"", ""food"", ""establishment""]",False
+347,イオンモール高の原,34.725608,135.790215,6,"[""shopping_mall"", ""restaurant"", ""point_of_interest"", ""food"", ""establishment""]",False
+348,サイエンスプラザ（バス）,34.734543,135.732265,6,"[""bus_station"", ""transit_station"", ""point_of_interest"", ""establishment""]",False
+349,まいどおおきに食堂 秋篠食堂,34.708969499999995,135.7784005,6,"[""restaurant"", ""point_of_interest"", ""food"", ""establishment""]",False
+350,ひかり塾 精華台校,34.752741,135.786636,6,"[""school"", ""point_of_interest"", ""establishment""]",False
+351,牧野司法書士事務所,34.68293,135.803693,6,"[""point_of_interest"", ""establishment""]",False
+352,（有）無限損保ライフ,34.72179,135.751378,6,"[""insurance_agency"", ""point_of_interest"", ""establishment""]",False
+353,鹿ノ台こぶし公園,34.730635500000005,135.751684,6,"[""park"", ""point_of_interest"", ""establishment""]",False
+354,生駒山万葉歌碑 (生駒市体育協会S.C.),34.713248,135.7099925,6,"[""tourist_attraction"", ""point_of_interest"", ""establishment""]",False
+355,かっぱ寿司 奈良二名店,34.707376,135.730365,6,"[""meal_takeaway"", ""restaurant"", ""food"", ""point_of_interest"", ""establishment""]",False
+356,株式会社Arch,34.741586,135.722893,6,"[""point_of_interest"", ""establishment""]",False
+357,眼鏡市場 東登美ヶ丘店,34.717803,135.757645,6,"[""health"", ""store"", ""point_of_interest"", ""establishment""]",False
+358,ユーポス生駒店,34.713566,135.70388,6,"[""car_dealer"", ""point_of_interest"", ""local_government_office"", ""store"", ""establishment""]",False
+359,澤田珈琲,34.715026,135.7494145,6,"[""cafe"", ""point_of_interest"", ""store"", ""food"", ""establishment""]",False
+360,四季の森公園（バス）,34.725683,135.726393,6,"[""bus_station"", ""transit_station"", ""point_of_interest"", ""establishment""]",False
+361,くろんど池自然公園,34.762838,135.714538,6,"[""tourist_attraction"", ""park"", ""point_of_interest"", ""establishment""]",False
+362,(株)福屋不動産販売 学園前店,34.687443,135.752083,6,"[""real_estate_agency"", ""point_of_interest"", ""establishment""]",False
+363,カラオケレインボー精華光台店,34.7458775,135.7664035,6,"[""bar"", ""point_of_interest"", ""establishment""]",False
+364,EV充電スポット,34.670465,135.75561299999998,6,"[""point_of_interest"", ""establishment""]",False
+365,大和アルミ工業（株）,34.705951,135.696811,6,"[""general_contractor"", ""point_of_interest"", ""establishment""]",False
+366,鹿ノ台自治連合会事務所,34.734106,135.748778,6,"[""point_of_interest"", ""establishment""]",False
+367,TAC井出山スポーツパーク屋内温水プール TACきらめき,34.652363,135.70664,6,"[""spa"", ""gym"", ""health"", ""point_of_interest"", ""establishment""]",False
+368,サーティワンアイスクリーム 奈良押熊店,34.720558,135.771093,6,"[""bakery"", ""restaurant"", ""point_of_interest"", ""store"", ""food"", ""establishment""]",False
+369,セブン-イレブン 奈良中登美ヶ丘３丁目店,34.719023,135.746285,6,"[""convenience_store"", ""atm"", ""finance"", ""point_of_interest"", ""store"", ""food"", ""establishment""]",False
+370,ＵＲ奈良 学園前,34.699915,135.751771,6,"[""point_of_interest"", ""establishment""]",False
+371,アルション 東生駒本店,34.707899,135.70631550000002,6,"[""bakery"", ""restaurant"", ""point_of_interest"", ""store"", ""food"", ""establishment""]",False
+372,MEGAドン・キホーテUNY精華台店,34.747026,135.770468,6,"[""shopping_mall"", ""point_of_interest"", ""establishment""]",False
+373,城南タクシー,34.737273,135.821826,6,"[""point_of_interest"", ""establishment""]",False
+374,カワイ音楽教室奈良事務所,34.69673,135.78555899999998,6,"[""point_of_interest"", ""establishment""]",False
+375,樋の平（バス）,34.7285005,135.7532365,6,"[""bus_station"", ""transit_station"", ""point_of_interest"", ""establishment""]",False
+376,Honda Cars 奈良中央 学園前店,34.684126,135.754093,5,"[""car_dealer"", ""store"", ""point_of_interest"", ""establishment""]",False
+377,ツーリスト企画 高の原営業所,34.722548,135.789553,5,"[""travel_agency"", ""point_of_interest"", ""establishment""]",False
+378,毎日おいしいオーガニック かんとりい,34.721849000000006,135.758415,5,"[""point_of_interest"", ""store"", ""establishment""]",False
+379,奈良県立国際高等学校,34.721325,135.74175,5,"[""secondary_school"", ""point_of_interest"", ""school"", ""establishment""]",False
+380,越後 押熊店,34.720113,135.765955,5,"[""restaurant"", ""point_of_interest"", ""food"", ""establishment""]",False
+381,XLARGE/X-girl,34.731428,135.585635,5,"[""clothing_store"", ""store"", ""point_of_interest"", ""establishment""]",False
+382,坂本工務店,34.717058,135.772878,5,"[""general_contractor"", ""point_of_interest"", ""establishment""]",False
+383,（株）今村化学工業 白蟻研究所,34.6699955,135.7888615,5,"[""home_goods_store"", ""store"", ""point_of_interest"", ""establishment""]",False
+384,WAY書店 TSUTAYA奈良押熊店,34.720783,135.765865,5,"[""book_store"", ""movie_rental"", ""store"", ""point_of_interest"", ""establishment""]",False
+385,株式会社ファミリーマート奈良事務所,34.7205805,135.770411,5,"[""point_of_interest"", ""establishment""]",False
+386,コイン精米機,34.731131500000004,135.7552505,5,"[""point_of_interest"", ""establishment""]",False
+387,ハウスオブローズ,34.936751,135.755188,5,"[""point_of_interest"", ""establishment""]",False
+388,高山製菓株式会社,34.739692000000005,135.7208535,5,"[""store"", ""food"", ""point_of_interest"", ""establishment""]",False
+389,近鉄高の原駅前-レンタルバイク[ベストBike®︎],34.722565,135.790671,5,"[""point_of_interest"", ""establishment""]",False
+390,イノブン 高の原店,34.724358,135.791255,5,"[""home_goods_store"", ""point_of_interest"", ""store"", ""establishment""]",False
+391,倉田歯科医院,34.6903955,135.7353095,5,"[""health"", ""point_of_interest"", ""establishment""]",False
+392,ほけんの窓口 松井山手店,34.841201,135.714253,5,"[""insurance_agency"", ""point_of_interest"", ""health"", ""establishment""]",False
+393,（株）ベルコ 東生駒駅前ホール,34.691315,135.711051,5,"[""point_of_interest"", ""establishment""]",False
+394,本家かまどや 山田川店,34.737837,135.79316649999998,5,"[""store"", ""food"", ""point_of_interest"", ""establishment""]",False
+395,patisserie chocolaterie emera,34.692931,135.7354985,5,"[""bakery"", ""point_of_interest"", ""store"", ""food"", ""establishment""]",False
+396,幸生堂薬局 生駒店,34.724035,135.72499,5,"[""pharmacy"", ""health"", ""point_of_interest"", ""store"", ""establishment""]",False
+397,（有）槙原不動産鑑定所,34.685431,135.716945,5,"[""finance"", ""point_of_interest"", ""establishment""]",False
+398,奈良先端科学技術大学院大学 学生宿舎,34.733561,135.73597,5,"[""school"", ""point_of_interest"", ""establishment""]",True
+399,麺屋NOROMA,34.6663155,135.8190795,5,"[""restaurant"", ""food"", ""point_of_interest"", ""establishment""]",False
+400,生駒北スポーツセンター（バス）,34.769299000000004,135.711125,5,"[""bus_station"", ""transit_station"", ""point_of_interest"", ""establishment""]",False
+401,EV充電スタンド,34.7217415,135.7440465,5,"[""point_of_interest"", ""establishment""]",False
+402,駐車場,34.747158,135.771021,5,"[""premise"", ""parking"", ""point_of_interest"", ""establishment""]",False
+403,ローソン銀行ＡＴＭ 奈良三条大路共同出張所,34.682273,135.79754,5,"[""atm"", ""finance"", ""point_of_interest"", ""establishment""]",False
+404,（社）奈良県警備業協会,34.6880355,135.80956600000002,5,"[""point_of_interest"", ""establishment""]",False
+405,国立国会図書館 関西館,34.743388,135.769309,5,"[""library"", ""point_of_interest"", ""establishment""]",False
+406,VENTIMIGLIA（ヴァンティミリア）,34.6878215,135.752864,5,"[""restaurant"", ""point_of_interest"", ""food"", ""establishment""]",False
+407,西奈良コンタクトレンズ,34.695313,135.736451,5,"[""point_of_interest"", ""doctor"", ""health"", ""establishment""]",False
+408,駐車場,34.708833,135.823839,5,"[""premise"", ""parking"", ""point_of_interest"", ""establishment""]",False
+409,奈良県総合医療センター,34.662828,135.766158,5,"[""health"", ""point_of_interest"", ""establishment""]",False
+410,押上町（バス）,34.686409,135.834508,5,"[""bus_station"", ""transit_station"", ""point_of_interest"", ""establishment""]",False
+411,林写真館,34.751669,135.868589,5,"[""electronics_store"", ""home_goods_store"", ""store"", ""point_of_interest"", ""establishment""]",False
+412,ケーズデンキ 高の原店,34.721506,135.79089,5,"[""electronics_store"", ""store"", ""point_of_interest"", ""establishment""]",False
+413,うさぎホーム,34.673056,135.76334,5,"[""point_of_interest"", ""establishment""]",False
+414,フィトンチッドジャパン,34.74605,135.763975,5,"[""store"", ""point_of_interest"", ""establishment""]",False
+415,高の原法律事務所,34.723326,135.789743,5,"[""point_of_interest"", ""establishment""]",False
+416,守衛室,34.68794,135.82969,5,"[""point_of_interest"", ""establishment""]",False
+417,アースサポート奈良,34.68675,135.82602,5,"[""point_of_interest"", ""establishment""]",False
+418,ゲストハウス 奈良日和り,34.68691,135.82391,5,"[""lodging"", ""point_of_interest"", ""establishment""]",False
+419,CAMPING PORT,34.72932,135.73789,5,"[""park"", ""point_of_interest"", ""establishment""]",False
+420,ドミノ・ピザ生駒店,34.68582,135.71469,5,"[""restaurant"", ""point_of_interest"", ""food"", ""establishment""]",False
+421,三郷町商工会,34.601823,135.69639,5,"[""point_of_interest"", ""establishment""]",False
+422,赤膚山元窯古瀬尭三,34.673265,135.764333,5,"[""place_of_worship"", ""point_of_interest"", ""establishment""]",False
+423,幸庵 京都乾谷店,34.730134,135.77108049999998,5,"[""restaurant"", ""food"", ""point_of_interest"", ""establishment""]",False
+424,Cafe'Marble.25,34.6856035,135.711101,4,"[""cafe"", ""bakery"", ""restaurant"", ""food"", ""store"", ""point_of_interest"", ""establishment""]",False
+425,ローソン銀行ＡＴＭ 木津川山城共同出張所,34.7504805,135.832787,4,"[""atm"", ""finance"", ""point_of_interest"", ""establishment""]",False
+426,SAKURA TERRACE THE ATELIER（サクラテラス ザ・アトリエ）,34.98074,135.759138,4,"[""lodging"", ""point_of_interest"", ""establishment""]",False
+427,ゆめはんな歯科クリニック,34.724348,135.750913,4,"[""health"", ""point_of_interest"", ""establishment""]",False
+428,Panasonic shop （株）パナックイトウ,34.734023,135.747943,4,"[""point_of_interest"", ""home_goods_store"", ""store"", ""establishment""]",False
+429,三井のリハウス 学園前センター,34.697106,135.74877,4,"[""real_estate_agency"", ""point_of_interest"", ""establishment""]",False
+430,府民の森ほしだ園地,34.755011,135.689613,4,"[""park"", ""point_of_interest"", ""establishment""]",False
+431,ロッカーハウスL5,34.604037000000005,135.4408565,4,"[""point_of_interest"", ""establishment""]",False
+432,コスモ石油 セルフ外環四条畷 SS (コスモ石油販売大阪カンパニー),34.746633,135.631671,4,"[""gas_station"", ""car_repair"", ""point_of_interest"", ""establishment""]",False
+433,ル・パティシエ・ヤマダ,34.7452925,135.75375350000002,4,"[""bakery"", ""cafe"", ""food"", ""store"", ""point_of_interest"", ""establishment""]",False
+434,Ｋ'ｓドッグスクール,34.72145,135.768906,4,"[""point_of_interest"", ""establishment""]",False
+435,おやつカンパニー 森工場,34.6886,136.425033,4,"[""food"", ""point_of_interest"", ""establishment""]",False
+436,クリーニング ルビー アピタタウンけいはんな店,34.746043,135.769081,4,"[""laundry"", ""point_of_interest"", ""establishment""]",False
+437,カーブス 押熊,34.719963,135.766776,4,"[""gym"", ""spa"", ""health"", ""point_of_interest"", ""establishment""]",False
+438,メッサオークワ 北登美ヶ丘店,34.724308,135.769406,4,"[""supermarket"", ""grocery_or_supermarket"", ""food"", ""store"", ""point_of_interest"", ""establishment""]",False
+439,生駒市 清掃リレーセンター,34.688378,135.719001,4,"[""point_of_interest"", ""establishment""]",False
+440,ウエルシア相楽精華台店,34.74829,135.781548,4,"[""drugstore"", ""health"", ""point_of_interest"", ""store"", ""establishment""]",False
+441,精華町立精華南中学校,34.733371,135.782078,4,"[""school"", ""point_of_interest"", ""establishment""]",False
+442,草々,34.73137,135.722006,4,"[""store"", ""point_of_interest"", ""establishment""]",False
+443,ユウユウ美容室,34.731236,135.81866,4,"[""hair_care"", ""point_of_interest"", ""establishment""]",False
+444,登美ヶ丘一丁目（バス）,34.708397000000005,135.749788,4,"[""bus_station"", ""transit_station"", ""point_of_interest"", ""establishment""]",False
+445,iPhone・スマホ修理カメラアサヒ ならファミリー店,34.695771,135.78568,4,"[""point_of_interest"", ""establishment""]",False
+446,愛犬サロン富雄店,34.7060285,135.7314735,4,"[""point_of_interest"", ""establishment""]",False
+447,関西電力送配電（株）奈良配電営業所,34.682735,135.806023,4,"[""point_of_interest"", ""establishment""]",False
+448,（株）トーモク 大阪工場,34.732516,135.586506,4,"[""point_of_interest"", ""establishment""]",False
+449,歩夢塾,34.712675,135.800595,4,"[""point_of_interest"", ""school"", ""establishment""]",False
+450,木津川市文化財整理保管センター お問い合わせ,34.736578,135.820591,4,"[""point_of_interest"", ""establishment""]",False
+451,きむら歯科,34.717612,135.733309,4,"[""health"", ""point_of_interest"", ""establishment""]",False
+452,磯矢硝子工業 京都工場,34.74071,135.794906,4,"[""point_of_interest"", ""establishment""]",False
+453,コストコホールセール 京都八幡倉庫店,34.842157,135.7148995,4,"[""grocery_or_supermarket"", ""pharmacy"", ""car_repair"", ""health"", ""food"", ""point_of_interest"", ""store"", ""establishment""]",False
+454,ゆうちょ銀行 奈良店,34.6987405,135.7518855,4,"[""bank"", ""finance"", ""point_of_interest"", ""establishment""]",False
+455,平野集会所,34.709425,135.731221,4,"[""church"", ""place_of_worship"", ""point_of_interest"", ""establishment""]",False
+456,魚魚膳,34.726311,135.749473,4,"[""store"", ""food"", ""point_of_interest"", ""establishment""]",False
+457,高の原駅西管理サービス事務所,34.725716,135.788151,4,"[""real_estate_agency"", ""point_of_interest"", ""establishment""]",False
+458,ABCハウジング 奈良・登美ヶ丘住宅公園,34.721681,135.742868,4,"[""general_contractor"", ""point_of_interest"", ""establishment""]",False
+459,コウキ商事 富雄文化教室,34.695388,135.734558,4,"[""school"", ""point_of_interest"", ""establishment""]",False
+460,丸源ラーメン 二条大路店,34.6847775,135.7917835,4,"[""meal_takeaway"", ""restaurant"", ""food"", ""point_of_interest"", ""establishment""]",False
+461,生駒市民体育館駐車場,34.688263,135.690561,4,"[""parking"", ""point_of_interest"", ""establishment""]",False
+462,EV充電スタンド,34.7188205,135.721854,4,"[""point_of_interest"", ""establishment""]",False
+463,かんてき家,34.709545500000004,135.754515,4,"[""restaurant"", ""food"", ""point_of_interest"", ""establishment""]",False
+464,ドコモショップ学研北生駒店,34.7242565,135.7215055,4,"[""point_of_interest"", ""store"", ""establishment""]",False
+465,スターバックス コーヒー 神戸メリケンパーク店,34.681448,135.188055,4,"[""meal_takeaway"", ""cafe"", ""restaurant"", ""food"", ""point_of_interest"", ""store"", ""establishment""]",False
+466,第一産業（株）,34.73017,135.73746,4,"[""point_of_interest"", ""establishment""]",False
+467,ベル不動産コンサルタント（株）,34.722674,135.7261505,4,"[""point_of_interest"", ""establishment""]",False
+468,中屋,34.689378500000004,135.7081055,4,"[""restaurant"", ""point_of_interest"", ""food"", ""establishment""]",False
+469,木津川台,34.740863,135.775686,4,"[""police"", ""point_of_interest"", ""establishment""]",False
+470,ピノスけいはんな,34.745116,135.771203,4,"[""gym"", ""spa"", ""health"", ""point_of_interest"", ""establishment""]",False
+471,炭火焼肉 鶴兆 奈良店,34.709745,135.772411,4,"[""restaurant"", ""food"", ""point_of_interest"", ""establishment""]",False
+472,万博記念公園,34.806022,135.52943549999998,4,"[""park"", ""point_of_interest"", ""establishment""]",False
+473,まちのカフェVIVO,34.690806,135.812291,4,"[""cafe"", ""point_of_interest"", ""food"", ""establishment""]",False
+474,個別指導キャンパス 富雄校,34.694757,135.7336205,4,"[""school"", ""point_of_interest"", ""establishment""]",False
+475,セブン-イレブン 交野天野が原町２丁目店,34.7812205,135.67479550000002,4,"[""convenience_store"", ""atm"", ""finance"", ""store"", ""food"", ""point_of_interest"", ""establishment""]",False
+476,高の原駅西管理サービス事務所,34.725846,135.787363,4,"[""real_estate_agency"", ""point_of_interest"", ""establishment""]",False
+477,カーコンビニ倶楽部 スーパーショップ 奈良押熊店,34.721605,135.771355,4,"[""car_repair"", ""point_of_interest"", ""establishment""]",False
+478,ヘアサロン インプルーブ,34.700868,135.696553,4,"[""hair_care"", ""point_of_interest"", ""establishment""]",False
+479,第一産業（株）,34.73061,135.73701,4,"[""point_of_interest"", ""establishment""]",False
+480,カフェ＆レストランALLAVOLTA,34.998115,135.962043,4,"[""restaurant"", ""point_of_interest"", ""establishment""]",False
+481,中秀石材店,34.735575,135.690141,4,"[""point_of_interest"", ""establishment""]",False
+482,駐車場,34.6004205,135.44793800000002,4,"[""premise"", ""parking"", ""point_of_interest"", ""establishment""]",False
+483,KINSHO学園前店,34.698348,135.751025,4,"[""grocery_or_supermarket"", ""food"", ""store"", ""point_of_interest"", ""establishment""]",False
+484,防賀川公園 駐車場,34.8143,135.7779425,4,"[""parking"", ""point_of_interest"", ""establishment""]",False
+485,奈良トヨペット 登美ヶ丘店,34.72269,135.750016,4,"[""car_dealer"", ""point_of_interest"", ""store"", ""establishment""]",False
+486,合同会社ヒートテック,34.9310155,135.69518399999998,4,"[""point_of_interest"", ""establishment""]",False
+487,山陵八幡神社,34.702358,135.78589,4,"[""place_of_worship"", ""point_of_interest"", ""establishment""]",False
+488,ホリーガーデン:有限会社堀口建装,34.989395,135.714343,4,"[""point_of_interest"", ""establishment""]",False
+489,郡電気商会,34.621168999999995,135.5123645,4,"[""point_of_interest"", ""establishment""]",False
+490,かつアンドかつ 精華町店,34.744558,135.766195,4,"[""restaurant"", ""food"", ""point_of_interest"", ""establishment""]",False
+491,スーパーセンターオークワ 生駒上町店,34.722313,135.721728,4,"[""supermarket"", ""grocery_or_supermarket"", ""store"", ""food"", ""point_of_interest"", ""establishment""]",False
+492,国立国会図書館 関西館 駐車場,34.74374,135.771453,4,"[""parking"", ""point_of_interest"", ""establishment""]",False
+493,手芸センタードリーム ムサシ京都八幡店,34.8402225,135.7189305,4,"[""store"", ""point_of_interest"", ""establishment""]",False
+494,開智義塾山田川校,34.7375855,135.7924145,3,"[""school"", ""point_of_interest"", ""establishment""]",False
+495,（株）三輪素麺 たかだ工場,34.5332085,135.8392175,3,"[""point_of_interest"", ""food"", ""establishment""]",False
+496,株式会社ATR-Sensetech,34.7459775,135.759814,3,"[""point_of_interest"", ""establishment""]",False
+497,駐車場,34.763275,135.715103,3,"[""parking"", ""point_of_interest"", ""establishment""]",False
+498,富雄,34.690355,135.73653,3,"[""parking"", ""point_of_interest"", ""establishment""]",False
+499,全日本個人飲食店集客塾株式会社,34.702431,135.696915,3,"[""point_of_interest"", ""establishment""]",False
+500,宝興産（株）大阪営業所,34.68038,135.619278,3,"[""point_of_interest"", ""establishment""]",False
+501,ハウス・コレクション~住育すまう・はぐくむ～,34.673108,135.621111,3,"[""point_of_interest"", ""establishment""]",False
+502,（株）京都リビングエフエム カルチャークラブ,34.9344755,135.7653455,3,"[""point_of_interest"", ""establishment""]",False
+503,ローソン銀行ＡＴＭ 奈良佐紀町共同出張所,34.697848,135.795861,3,"[""atm"", ""finance"", ""point_of_interest"", ""establishment""]",False
+504,ひらかた動物霊園,34.78617,135.724138,3,"[""cemetery"", ""point_of_interest"", ""establishment""]",False
+505,古都の風・法律事務所,34.6843895,135.825877,3,"[""point_of_interest"", ""establishment""]",False
+506,草々,34.7310885,135.7224615,3,"[""point_of_interest"", ""store"", ""establishment""]",False
+507,上武建設（株）,34.721993,135.692506,3,"[""general_contractor"", ""point_of_interest"", ""establishment""]",False
+508,河原医院,34.7201395,135.751655,3,"[""doctor"", ""health"", ""point_of_interest"", ""establishment""]",False
+509,盗聴盗撮調査 アーサ,34.622685,135.511518,3,"[""point_of_interest"", ""establishment""]",False
+510,くろちゃん,34.728808,135.743483,3,"[""restaurant"", ""food"", ""point_of_interest"", ""establishment""]",False
+511,株式会社ベビーフェイス 本社,34.7161,135.736078,3,"[""point_of_interest"", ""establishment""]",False
+512,大和織布（有）,34.696355,135.787328,3,"[""point_of_interest"", ""establishment""]",False
+513,法壽舎,34.717806,135.746486,3,"[""point_of_interest"", ""establishment""]",False
+514,奥西モータープール,34.693278,135.731585,3,"[""real_estate_agency"", ""parking"", ""point_of_interest"", ""establishment""]",False
+515,ソフトバンク阪奈二条［ワイモバイル取扱店］,34.68457,135.78888,3,"[""point_of_interest"", ""store"", ""establishment""]",False
+516,大吉建設株式会社,34.67004,135.80136,3,"[""general_contractor"", ""point_of_interest"", ""establishment""]",False
+517,カフェ＆ベーカリー クラムボン（就労継続支援B型）,34.6914655,135.7199425,3,"[""cafe"", ""point_of_interest"", ""store"", ""food"", ""establishment""]",False
+518,奈良県立西和養護学校,34.573101,135.721563,3,"[""school"", ""point_of_interest"", ""establishment""]",False
+519,住友林業のリフォーム 奈良支店,34.69113,135.70906,3,"[""general_contractor"", ""point_of_interest"", ""establishment""]",False
+520,進学ゼミ・エスト,34.7280895,135.784022,3,"[""school"", ""point_of_interest"", ""establishment""]",False
+521,奈良先端大 学生宿舎8,34.734556,135.73585,3,"[""lodging"", ""point_of_interest"", ""establishment""]",True
+522,立体駐車場（ミナーラ）,34.6851845,135.80095649999998,3,"[""parking"", ""point_of_interest"", ""establishment""]",False
+523,オアシス,34.796638,135.252663,3,"[""point_of_interest"", ""establishment""]",False
+524,三井アウトレットパーク 滋賀竜王,35.060938,136.098865,3,"[""shopping_mall"", ""point_of_interest"", ""establishment""]",False
+525,奈良先端科学技術大学院大学 先端科学技術研究科 情報科学領域,34.7320905,135.73418450000003,3,"[""university"", ""point_of_interest"", ""establishment""]",True
+526,奥村薬局学園前店,34.700398,135.751863,3,"[""pharmacy"", ""point_of_interest"", ""establishment""]",False
+527,グリーンガーデン,34.69264,135.73289,3,"[""restaurant"", ""food"", ""point_of_interest"", ""establishment""]",False
+528,しゃぶ葉 奈良押熊店,34.716196,135.778916,3,"[""restaurant"", ""point_of_interest"", ""establishment""]",False
+529,ブイテクゴルフ,34.782593,135.7853135,3,"[""point_of_interest"", ""establishment""]",False
+530,イオンタウン富雄南,34.667238,135.75767050000002,3,"[""shopping_mall"", ""electronics_store"", ""point_of_interest"", ""store"", ""establishment""]",False
+531,イオンモール奈良登美ヶ丘,34.724768,135.74984,3,"[""shopping_mall"", ""point_of_interest"", ""establishment""]",False
+532,お好み焼き・鉄板焼き きん太 奈良学園前店,34.685686,135.754426,3,"[""restaurant"", ""point_of_interest"", ""food"", ""establishment""]",False
+533,法壽舎,34.717197,135.74668350000002,3,"[""point_of_interest"", ""establishment""]",False
+534,EV充電スポット,34.7245455,135.75161400000002,3,"[""point_of_interest"", ""establishment""]",False
+535,株式会社三木ホーム,34.697241,135.780101,3,"[""real_estate_agency"", ""point_of_interest"", ""establishment""]",False
+536,ヤンマーコイン精米所,34.72842,135.74135,3,"[""point_of_interest"", ""establishment""]",False
+537,森本バッティングセンター,34.657819,135.7878905,3,"[""point_of_interest"", ""establishment""]",False
+538,北大和一丁目（バス）,34.72484,135.7252,3,"[""bus_station"", ""transit_station"", ""point_of_interest"", ""establishment""]",False
+539,BOSS アウトレット 門真店,34.73186,135.585963,3,"[""clothing_store"", ""point_of_interest"", ""store"", ""establishment""]",False
+540,花仙堂 精華店,34.752776,135.78748,3,"[""store"", ""restaurant"", ""food"", ""point_of_interest"", ""establishment""]",False
+541,和泉設備工業（株） 登美ヶ丘営業所,34.716236,135.744658,3,"[""point_of_interest"", ""establishment""]",False
+542,コメダ珈琲店 生駒店,34.726,135.718388,3,"[""cafe"", ""point_of_interest"", ""store"", ""food"", ""establishment""]",False
+543,パソコン教室ウィッツクラブ,34.862116,135.677973,3,"[""electronics_store"", ""home_goods_store"", ""point_of_interest"", ""store"", ""establishment""]",False
+544,ピザーラ 高の原店,34.721329,135.790174,3,"[""meal_delivery"", ""meal_takeaway"", ""restaurant"", ""point_of_interest"", ""food"", ""establishment""]",False
+545,オリエンタルベーカリー 京都工場,34.749522,135.77099149999998,3,"[""bakery"", ""point_of_interest"", ""store"", ""food"", ""establishment""]",False
+546,自家製麺 杵屋 生駒近鉄百貨店,34.69406,135.697938,3,"[""restaurant"", ""point_of_interest"", ""food"", ""establishment""]",False
+547,プレミール山崎,34.765823,135.642966,3,"[""point_of_interest"", ""establishment""]",False
+548,BOOKOFF 東大阪吉原店,34.687334,135.62584049999998,3,"[""book_store"", ""store"", ""point_of_interest"", ""establishment""]",False
+549,株式会社プラスワンマインド,34.681133,135.826291,3,"[""restaurant"", ""point_of_interest"", ""store"", ""food"", ""establishment""]",False
+550,山桜の園 休憩広場,34.663986,135.661751,3,"[""park"", ""point_of_interest"", ""establishment""]",False
+551,社会福祉法人 どんぐり,34.7267345,135.7192565,3,"[""point_of_interest"", ""establishment""]",False
+552,鹿ノ台佐保保育園,34.7392155,135.7466435,3,"[""point_of_interest"", ""school"", ""establishment""]",False
+553,セカンドストリート奈良法華寺店,34.687968,135.807138,3,"[""furniture_store"", ""home_goods_store"", ""clothing_store"", ""store"", ""point_of_interest"", ""establishment""]",False
+554,伊勢津ドライ万代菜畑店,34.683551,135.70642,3,"[""laundry"", ""point_of_interest"", ""establishment""]",False
+555,生駒市立老人福祉施設デイサービスセンター 幸楽,34.692766,135.694453,3,"[""health"", ""point_of_interest"", ""establishment""]",False
+556,引原司法書士事務所,34.6907,135.708443,3,"[""point_of_interest"", ""establishment""]",False
+557,㈱モトーレンティーアイ本部,34.679213,135.813628,3,"[""car_dealer"", ""point_of_interest"", ""store"", ""establishment""]",False
+558,BOOKOFF 奈良東山店,34.648703,135.708335,3,"[""electronics_store"", ""book_store"", ""movie_rental"", ""home_goods_store"", ""store"", ""point_of_interest"", ""establishment""]",False
+559,インド・ネパール料理 ルンビニ 生駒店,34.695775,135.708808,3,"[""restaurant"", ""point_of_interest"", ""food"", ""establishment""]",False
+560,フレンドマート東寝屋川店,34.759099500000005,135.6551075,3,"[""grocery_or_supermarket"", ""atm"", ""supermarket"", ""finance"", ""food"", ""point_of_interest"", ""store"", ""establishment""]",False
+561,鍜治田クリニック,34.723613,135.75529,3,"[""point_of_interest"", ""health"", ""establishment""]",False
+562,ファミリーマート 木津川相楽店,34.736768,135.798738,3,"[""convenience_store"", ""store"", ""food"", ""point_of_interest"", ""establishment""]",False
+563,阪奈中央病院,34.706546,135.69693,3,"[""hospital"", ""doctor"", ""health"", ""point_of_interest"", ""establishment""]",False
+564,hair patra.D パトラD,34.690715,135.712226,3,"[""hair_care"", ""point_of_interest"", ""establishment""]",False
+565,アルティザン食品株式会社 – キャーヴ・デ・ザルティバー,34.72653,135.717387,3,"[""store"", ""point_of_interest"", ""establishment""]",False
+566,みつや皮膚科,34.7176105,135.744968,3,"[""doctor"", ""health"", ""point_of_interest"", ""establishment""]",False
+567,ローソン 奈良ドリームランド前店,34.699541999999994,135.828132,3,"[""convenience_store"", ""atm"", ""finance"", ""food"", ""store"", ""point_of_interest"", ""establishment""]",False
+568,タイムズカー タイムズ同志社大学南,34.798501,135.773456,3,"[""car_rental"", ""point_of_interest"", ""establishment""]",False
+569,コストコホールセール 京都八幡倉庫店,34.8414855,135.714711,3,"[""grocery_or_supermarket"", ""pharmacy"", ""car_repair"", ""store"", ""health"", ""food"", ""point_of_interest"", ""establishment""]",False
+570,公園駐輪場,34.689566,135.69288,3,"[""parking"", ""point_of_interest"", ""establishment""]",False
+571,柘榴西（バス）,34.732405,135.755993,3,"[""bus_station"", ""transit_station"", ""point_of_interest"", ""establishment""]",False
+572,帝塚山大学 学園前キャンパス,34.69632,135.749926,3,"[""university"", ""point_of_interest"", ""establishment""]",False
+573,関西リバブル（株）,34.681514,135.812884,3,"[""point_of_interest"", ""establishment""]",False
+574,和束町製茶体験工場,34.796545,135.898068,3,"[""point_of_interest"", ""food"", ""establishment""]",False
+575,高山竹林園 駐車場1,34.74957,135.719745,3,"[""parking"", ""point_of_interest"", ""establishment""]",False
+576,センチュリー21フォステール奈良西大寺店,34.698468,135.785613,3,"[""real_estate_agency"", ""insurance_agency"", ""school"", ""finance"", ""point_of_interest"", ""establishment""]",False
+577,（株）モリタ電化,34.752511,135.746153,3,"[""home_goods_store"", ""point_of_interest"", ""store"", ""establishment""]",False
+578,テーブルオーダーバイキング 焼肉 王道 押熊店,34.71719,135.762868,3,"[""meal_takeaway"", ""restaurant"", ""food"", ""point_of_interest"", ""store"", ""establishment""]",False
+579,ハローワーク大和郡山,34.652821,135.791016,3,"[""local_government_office"", ""point_of_interest"", ""establishment""]",False
+580,Jun & Saki Memorial Building,34.74237,135.779096,3,"[""point_of_interest"", ""establishment""]",False
+581,シティロックジム大和郡山店,34.640066,135.767435,3,"[""point_of_interest"", ""establishment""]",False
+582,サエラ薬局 学園前店,34.697906,135.750893,3,"[""pharmacy"", ""store"", ""health"", ""point_of_interest"", ""establishment""]",False
+583,タイムズカー タイムズ東大寺転害門西,34.6919155,135.8318525,3,"[""car_rental"", ""point_of_interest"", ""establishment""]",False
+584,（株）建設技術研究所 奈良事務所,34.6901375,135.7818105,3,"[""point_of_interest"", ""establishment""]",False
+585,同志社大学 医心館東駐車場,34.800531,135.7665905,3,"[""parking"", ""point_of_interest"", ""establishment""]",False
+586,hair sommelier Zara 京都精華町店,34.744785,135.755668,3,"[""hair_care"", ""point_of_interest"", ""establishment""]",False
+587,和食さと 東生駒店,34.696558,135.70939,3,"[""meal_takeaway"", ""restaurant"", ""food"", ""point_of_interest"", ""establishment""]",False
+588,たかま鍼灸整骨院,34.685818,135.826171,3,"[""point_of_interest"", ""health"", ""establishment""]",False
+589,オーダースーツ専門店 ツキムラ生駒駅前店,34.694948,135.698368,3,"[""clothing_store"", ""point_of_interest"", ""store"", ""establishment""]",False
+590,高山竹林園,34.749705500000005,135.721721,3,"[""park"", ""tourist_attraction"", ""museum"", ""point_of_interest"", ""establishment""]",False
+591,八幡市民スポーツ公園駐車場,34.86227,135.7447,3,"[""parking"", ""point_of_interest"", ""establishment""]",False
+592,円生院,34.717664,135.726682,3,"[""place_of_worship"", ""point_of_interest"", ""establishment""]",False
+593,ハートンホテル西梅田,34.700948,135.493057,3,"[""lodging"", ""point_of_interest"", ""establishment""]",False
+594,横田食料品店,34.766178,135.784336,3,"[""grocery_or_supermarket"", ""food"", ""store"", ""point_of_interest"", ""establishment""]",False
+595,パームガーデン舞洲,34.666116,135.390145,3,"[""campground"", ""park"", ""lodging"", ""point_of_interest"", ""establishment""]",False
+596,駐車場,34.7455735,135.771369,3,"[""premise"", ""parking"", ""point_of_interest"", ""establishment""]",False
+597,生駒市消防団 機動第４分団,34.737905,135.721956,3,"[""fire_station"", ""point_of_interest"", ""establishment""]",False
+598,駐車場,34.650895,135.803515,3,"[""premise"", ""parking"", ""point_of_interest"", ""establishment""]",False
+599,EV充電スポット,34.654279,135.798044,3,"[""point_of_interest"", ""establishment""]",False
+600,鴻ノ池パーク中央駐車場,34.697303,135.827841,3,"[""parking"", ""point_of_interest"", ""establishment""]",False
+601,無鉄砲 総本店,34.7219055,135.84407149999998,3,"[""restaurant"", ""food"", ""point_of_interest"", ""establishment""]",False
+602,ハーベス白庭台店,34.7257805,135.71491450000002,3,"[""grocery_or_supermarket"", ""food"", ""point_of_interest"", ""store"", ""establishment""]",False
+603,ワークマンプラス 木津川店,34.741313,135.7943735,3,"[""clothing_store"", ""store"", ""point_of_interest"", ""establishment""]",False
+604,駐車場,34.895405,135.748478,3,"[""parking"", ""premise"", ""point_of_interest"", ""establishment""]",False
+605,阪急ベーカリー 高の原店,34.723141,135.789181,3,"[""bakery"", ""store"", ""food"", ""point_of_interest"", ""establishment""]",False
+606,あすかホームクリニック,34.73479,135.744658,3,"[""hospital"", ""health"", ""point_of_interest"", ""establishment""]",False
+607,ダイソー 枚方307店,34.813565,135.673055,3,"[""furniture_store"", ""home_goods_store"", ""store"", ""food"", ""point_of_interest"", ""establishment""]",False
+608,キリン堂 あやめ池店,34.698151,135.770868,3,"[""drugstore"", ""pharmacy"", ""point_of_interest"", ""health"", ""store"", ""establishment""]",False
+609,くろちゃん,34.7285555,135.744017,3,"[""restaurant"", ""food"", ""point_of_interest"", ""establishment""]",False
+610,コスモ石油 セルフ登美ヶ丘 SS (コスモ石油販売大阪カンパニー),34.727633,135.7536045,3,"[""gas_station"", ""point_of_interest"", ""establishment""]",False
+611,駐車場,34.7352365,135.73412000000002,3,"[""premise"", ""parking"", ""point_of_interest"", ""establishment""]",False
+612,真弓３丁目公園,34.72192,135.7348455,3,"[""park"", ""point_of_interest"", ""establishment""]",False
+613,ユニクロ 押熊店,34.716777,135.762123,3,"[""clothing_store"", ""store"", ""point_of_interest"", ""establishment""]",False
+614,国土交通省 清滝トンネル管理所,34.737298,135.669063,3,"[""local_government_office"", ""point_of_interest"", ""establishment""]",False
+615,駐車場,34.804193,135.770223,3,"[""premise"", ""parking"", ""point_of_interest"", ""establishment""]",False
+616,（株）くろがね工作所,34.8506365,135.7436565,3,"[""point_of_interest"", ""establishment""]",False
+617,ファミリーマート 四條畷雁屋西町店,34.733459,135.631543,2,"[""convenience_store"", ""food"", ""store"", ""point_of_interest"", ""establishment""]",False
+618,セブン-イレブン 生駒山崎町店,34.690003,135.705437,2,"[""convenience_store"", ""store"", ""food"", ""point_of_interest"", ""establishment""]",False
+619,ならまち若草モータープール,34.6804185,135.83147350000002,2,"[""parking"", ""point_of_interest"", ""establishment""]",False
+620,三井のリパーク 木津川兜台４丁目第２駐車場,34.727425499999995,135.78428350000002,2,"[""parking"", ""point_of_interest"", ""establishment""]",False
+621,焼肉やる気 寝屋川店,34.761565,135.629012,2,"[""restaurant"", ""food"", ""point_of_interest"", ""establishment""]",False
+622,セブン-イレブン 大和郡山矢田町店,34.646775,135.754288,2,"[""convenience_store"", ""point_of_interest"", ""establishment""]",False
+623,同志社女子大学・京田辺キャンパス現代社会学部・国際社会システム研究科,34.804047,135.771272,2,"[""university"", ""point_of_interest"", ""establishment""]",False
+624,ひむか薬局豊里店,34.74554,135.54259,2,"[""pharmacy"", ""health"", ""point_of_interest"", ""store"", ""establishment""]",False
+625,ジョーシン東生駒店,34.705293,135.706045,2,"[""electronics_store"", ""point_of_interest"", ""establishment""]",False
+626,（株）伊勢津ドライ 坊城店,34.489423,135.762791,2,"[""laundry"", ""point_of_interest"", ""establishment""]",False
+627,ミニストップ 四條畷田原台店,34.718708,135.687706,2,"[""convenience_store"", ""atm"", ""finance"", ""food"", ""point_of_interest"", ""store"", ""establishment""]",False
+628,真弓橋,34.717895,135.72454,2,"[""point_of_interest"", ""establishment""]",False
+629,ＫＩＣＫ,34.745211,135.781781,2,"[""transit_station"", ""point_of_interest"", ""establishment""]",False
+630,精華町役場,34.761358,135.7854245,2,"[""city_hall"", ""point_of_interest"", ""establishment""]",False
+631,はぐくみセンター,34.6790885,135.8178345,2,"[""local_government_office"", ""health"", ""point_of_interest"", ""establishment""]",False
+632,学研奈良登美ヶ丘駅,34.727177999999995,135.753735,2,"[""spa"", ""point_of_interest"", ""establishment""]",True
+633,丸亀製麺ビエラタウンけいはんな,34.745086,135.767558,2,"[""restaurant"", ""point_of_interest"", ""food"", ""establishment""]",False
+634,Honda Cars 奈良中央 高の原店,34.7248075,135.7888725,2,"[""car_dealer"", ""point_of_interest"", ""store"", ""establishment""]",False
+635,石洲会病院,34.679282,135.800814,2,"[""health"", ""point_of_interest"", ""establishment""]",False
+636,ゴルフグリーンチャレンジ,34.70845,135.753133,2,"[""point_of_interest"", ""establishment""]",False
+637,古着館,34.7633015,135.8096985,2,"[""clothing_store"", ""point_of_interest"", ""establishment""]",False
+638,天丼・天ぷら本舗 さん天 四條畷店,34.74772,135.6322445,2,"[""meal_takeaway"", ""restaurant"", ""food"", ""point_of_interest"", ""establishment""]",False
+639,ドン・キホーテ 奈良店,34.669958,135.79959,2,"[""electronics_store"", ""clothing_store"", ""furniture_store"", ""home_goods_store"", ""store"", ""food"", ""point_of_interest"", ""establishment""]",False
+640,星田ゴルフセンター,34.7569305,135.658728,2,"[""point_of_interest"", ""establishment""]",False
+641,Honda Cars 大阪 門真中央店,34.7376615,135.608284,2,"[""car_dealer"", ""point_of_interest"", ""store"", ""establishment""]",False
+642,マクドナルド 東寝屋川店,34.7586905,135.6565075,2,"[""restaurant"", ""point_of_interest"", ""establishment""]",False
+643,ロッソ,34.6848555,135.8058855,2,"[""restaurant"", ""food"", ""point_of_interest"", ""establishment""]",False
+644,すき家 168号生駒壱分店,34.669281,135.707113,2,"[""cafe"", ""meal_takeaway"", ""restaurant"", ""food"", ""store"", ""point_of_interest"", ""establishment""]",False
+645,【印章・印刷の専門店】ハン六 木津店,34.738653,135.793018,2,"[""store"", ""point_of_interest"", ""establishment""]",False
+646,シャンテ ムーラン,34.692041,135.701983,2,"[""point_of_interest"", ""establishment""]",False
+647,木津川台住宅（バス）,34.739781,135.779075,2,"[""transit_station"", ""point_of_interest"", ""establishment""]",False
+648,ガイア・テクノサービスセンター 精華学研工場,34.752001,135.788401,2,"[""point_of_interest"", ""car_repair"", ""establishment""]",False
+649,京田辺市コミュニティホール,34.814061,135.767206,2,"[""point_of_interest"", ""establishment""]",False
+650,カラオケJOYJOY 南草津店,35.006812499999995,135.9542265,2,"[""point_of_interest"", ""establishment""]",False
+651,ノムラクリーニング 谷田店,34.69482,135.702383,2,"[""laundry"", ""point_of_interest"", ""establishment""]",False
+652,平城第2団地 32,34.716143,135.7916785,2,"[""point_of_interest"", ""establishment""]",False
+653,（株）プランニング・モリタ,34.73126,135.736738,2,"[""general_contractor"", ""point_of_interest"", ""establishment""]",False
+654,洋服の青山 奈良押熊店,34.719473,135.76623,2,"[""clothing_store"", ""point_of_interest"", ""establishment""]",False
+655,奈良市三笠地域包括支援センター,34.68199,135.814523,2,"[""point_of_interest"", ""establishment""]",False
+656,なか卯 フォレストモール京田辺店,34.794314,135.775711,2,"[""meal_takeaway"", ""restaurant"", ""food"", ""point_of_interest"", ""establishment""]",False
+657,ラ･ムー 東大阪店,34.686445,135.616026,2,"[""supermarket"", ""grocery_or_supermarket"", ""point_of_interest"", ""store"", ""food"", ""establishment""]",False
+658,株式会社イーエステクノ,34.717448,135.732146,2,"[""point_of_interest"", ""establishment""]",False
+659,ひろせバレエ2ndスタジオ,34.727256,135.720315,2,"[""point_of_interest"", ""establishment""]",False
+660,としゆき池,34.7372205,135.7396775,2,"[""point_of_interest"", ""establishment""]",False
+661,自転車空気入れ＜無料＞,34.705791,135.593698,2,"[""point_of_interest"", ""establishment""]",False
+662,南都総合法律事務所,34.684879499999994,135.8262715,2,"[""point_of_interest"", ""establishment""]",False
+663,（有）プレスコントロール,34.693147,135.695783,2,"[""point_of_interest"", ""establishment""]",False
+664,カメラのキタムラ 八幡・松井山手店,34.8423255,135.7140475,2,"[""electronics_store"", ""home_goods_store"", ""point_of_interest"", ""store"", ""establishment""]",False
+665,安全用品のやました,34.7000405,135.7304495,2,"[""electronics_store"", ""store"", ""point_of_interest"", ""establishment""]",False
+666,南海バスバス乗り場,34.594785,135.480235,2,"[""parking"", ""point_of_interest"", ""establishment""]",False
+667,精華町スポーツ協会,34.7746605,135.7977855,2,"[""point_of_interest"", ""establishment""]",False
+668,美容室 sfida JAPAN（スフィーダ ジャパン ヘアー）,34.66944,135.756868,2,"[""hair_care"", ""point_of_interest"", ""establishment""]",False
+669,聖塾,34.683906,135.788561,2,"[""school"", ""point_of_interest"", ""establishment""]",False
+670,奈良市消防局 西消防署,34.705165,135.749558,2,"[""fire_station"", ""point_of_interest"", ""establishment""]",False
+671,タイムズＪＲ奈良駅前第５,34.679113,135.819385,2,"[""parking"", ""point_of_interest"", ""establishment""]",False
+672,ピュア 西大寺1号店,34.6961,135.786835,2,"[""beauty_salon"", ""point_of_interest"", ""establishment""]",False
+673,駐車場,34.732875,135.732343,2,"[""premise"", ""parking"", ""point_of_interest"", ""establishment""]",False
+674,エルミネ奈良,34.684936,135.808418,2,"[""night_club"", ""point_of_interest"", ""establishment""]",False
+675,吉田機電,34.6885275,135.80651749999998,2,"[""point_of_interest"", ""establishment""]",False
+676,住友生命 奈良支社,34.6828275,135.821464,2,"[""point_of_interest"", ""establishment""]",False
+677,春日大社最寄駐車場,34.677779,135.8452445,2,"[""parking"", ""point_of_interest"", ""establishment""]",False
+678,HORIC,34.8899765,135.8009985,2,"[""hair_care"", ""point_of_interest"", ""establishment""]",False
+679,LAMUCARNA salon for poodles,34.926725,135.740003,2,"[""point_of_interest"", ""establishment""]",False
+680,パリワール村,34.729248,135.7427505,2,"[""cafe"", ""grocery_or_supermarket"", ""restaurant"", ""point_of_interest"", ""store"", ""food"", ""establishment""]",False
+681,Kanemi アピタ大和郡山店,34.642793,135.769918,2,"[""food"", ""point_of_interest"", ""store"", ""establishment""]",False
+682,イオンモール四條畷店,34.74833,135.630406,2,"[""shopping_mall"", ""point_of_interest"", ""establishment""]",False
+683,大神神社第6駐車場,34.52862,135.8462,2,"[""parking"", ""point_of_interest"", ""establishment""]",False
+684,グランダ学園前,34.688635,135.740991,2,"[""health"", ""point_of_interest"", ""establishment""]",False
+685,奈良県立橿原公苑 庭球場（フットサルコート）,34.4910955,135.792457,2,"[""point_of_interest"", ""establishment""]",False
+686,ほっともっと 生駒俵口町店,34.705513,135.697171,2,"[""meal_takeaway"", ""restaurant"", ""food"", ""store"", ""point_of_interest"", ""establishment""]",False
+687,タイムズ奈良油留木町,34.686825,135.831583,2,"[""parking"", ""point_of_interest"", ""establishment""]",False
+688,中登美団地D1,34.7168365,135.745937,2,"[""point_of_interest"", ""establishment""]",False
+689,奈良市新大宮chord（コード）美容室,34.682043,135.811694,2,"[""hair_care"", ""point_of_interest"", ""establishment""]",False
+690,サブウェイ 近鉄西大寺駅前店,34.6942205,135.783018,2,"[""restaurant"", ""point_of_interest"", ""food"", ""establishment""]",False
+691,ケニス 門真ディストリビューションセンター（門真D.C.）,34.720113,135.597683,2,"[""point_of_interest"", ""establishment""]",False
+692,かつや 奈良尼辻店,34.6771135,135.799699,2,"[""restaurant"", ""food"", ""point_of_interest"", ""establishment""]",False
+693,アドコート,34.747503,135.769706,2,"[""point_of_interest"", ""establishment""]",False
+694,奈良２１世紀フォーラム事務局,34.681283,135.820615,2,"[""point_of_interest"", ""establishment""]",False
+695,グランドパレス学園前・管理事務所,34.71836,135.742373,2,"[""point_of_interest"", ""establishment""]",False
+696,イオンタウン富雄南,34.6677205,135.757352,2,"[""shopping_mall"", ""cafe"", ""food"", ""point_of_interest"", ""establishment""]",False
+697,ココイロカフェ 東大阪店,34.698451,135.638176,2,"[""cafe"", ""meal_takeaway"", ""restaurant"", ""point_of_interest"", ""food"", ""establishment""]",False
+698,奈な屋,34.706196,135.732545,2,"[""restaurant"", ""food"", ""point_of_interest"", ""establishment""]",False
+699,宇治税務署,34.874905,135.770657,2,"[""accounting"", ""local_government_office"", ""point_of_interest"", ""finance"", ""establishment""]",False
+700,Honda Cars 南近畿奈良 阪奈宝来店,34.68395,135.775293,2,"[""car_dealer"", ""store"", ""point_of_interest"", ""establishment""]",False
+701,すき家 宝来店,34.68431,135.776848,2,"[""cafe"", ""meal_takeaway"", ""store"", ""restaurant"", ""food"", ""point_of_interest"", ""establishment""]",False
+702,RayCassin OUTLET ららぽーと門真・三井アウトレットパーク大阪門真店,34.733216,135.585118,2,"[""clothing_store"", ""store"", ""point_of_interest"", ""establishment""]",False
+703,つばさクラブ,34.719023,135.732058,2,"[""point_of_interest"", ""establishment""]",False
+704,（有）フジモトファスナー,34.64571,135.523901,2,"[""point_of_interest"", ""store"", ""establishment""]",False
+705,下鳥羽市営住宅公園,34.941516,135.7455855,2,"[""park"", ""point_of_interest"", ""establishment""]",False
+706,BARKBOX,34.696768,135.69661,2,"[""clothing_store"", ""point_of_interest"", ""store"", ""establishment""]",False
+707,あらい鍼灸整骨院,34.720995,135.789583,2,"[""point_of_interest"", ""health"", ""establishment""]",False
+708,中野司朗レディースクリニック,34.724713,135.764325,2,"[""doctor"", ""point_of_interest"", ""health"", ""establishment""]",False
+709,和食さと 山科店,34.989630500000004,135.8105405,2,"[""meal_takeaway"", ""restaurant"", ""food"", ""point_of_interest"", ""establishment""]",False
+710,岩田医院,34.765023,135.86659,2,"[""doctor"", ""health"", ""point_of_interest"", ""establishment""]",False
+711,竹内小児科,34.690721,135.71155299999998,2,"[""doctor"", ""health"", ""point_of_interest"", ""establishment""]",False
+712,Rootsどうぶつ病院,34.702675,135.697428,2,"[""health"", ""point_of_interest"", ""establishment""]",False
+713,安田歯科医院,34.6932915,135.696518,2,"[""health"", ""point_of_interest"", ""establishment""]",False
+714,中華そば おしたに,34.678703,135.788725,2,"[""restaurant"", ""point_of_interest"", ""food"", ""establishment""]",False
+715,ジャパンブックス郡山店,34.64787,135.782136,2,"[""book_store"", ""store"", ""point_of_interest"", ""establishment""]",False
+716,アルペンアウトドアーズ 京都宇治店,34.907398,135.783226,2,"[""store"", ""point_of_interest"", ""establishment""]",False
+717,木津川市役所 西部出張所,34.726555,135.790688,2,"[""city_hall"", ""local_government_office"", ""point_of_interest"", ""establishment""]",False
+718,オーダースーツ専門店 ツキムラ京都精華店,34.745845,135.765096,2,"[""clothing_store"", ""store"", ""point_of_interest"", ""establishment""]",False
+719,アシスト,34.991903,135.71675,2,"[""store"", ""point_of_interest"", ""establishment""]",False
+720,マキノ健康センター・マキノ整骨院,34.6534705,135.78511,2,"[""point_of_interest"", ""health"", ""establishment""]",False
+721,奈良商工会議所,34.68468,135.829792,2,"[""point_of_interest"", ""establishment""]",False
+722,山城茶業之碑,34.746826,135.81815,2,"[""point_of_interest"", ""establishment""]",False
+723,日産EV充電スタンド,34.74248,135.785761,2,"[""point_of_interest"", ""establishment""]",False
+724,春日ダンス教室,34.701508000000004,135.7527565,2,"[""point_of_interest"", ""establishment""]",False
+725,タイムズカー タイムズ関西大学前第４,34.771997,135.5101805,2,"[""car_rental"", ""point_of_interest"", ""establishment""]",False
+726,マクドナルド ２４号木津店,34.727553,135.821125,2,"[""cafe"", ""restaurant"", ""point_of_interest"", ""store"", ""food"", ""establishment""]",False
+727,ショーナン.ロジテック,34.731733,135.586686,2,"[""moving_company"", ""storage"", ""point_of_interest"", ""establishment""]",False
+728,（株）ケーエスケー 大阪東支店,34.728766,135.583655,2,"[""point_of_interest"", ""establishment""]",False
+729,ももたろう 京田辺店,34.7933,135.77607,2,"[""restaurant"", ""food"", ""point_of_interest"", ""establishment""]",False
+730,GREENSUN FOODグリーンサンフード,34.610141,135.735791,2,"[""cafe"", ""meal_takeaway"", ""restaurant"", ""point_of_interest"", ""food"", ""establishment""]",False
+731,木津川アート壁画,34.725108,135.79201,2,"[""tourist_attraction"", ""point_of_interest"", ""establishment""]",False
+732,白い屋,34.764398,135.630048,2,"[""point_of_interest"", ""establishment""]",False
+733,大里会館,34.733926,135.795736,2,"[""church"", ""place_of_worship"", ""point_of_interest"", ""establishment""]",False
+734,駐車場,34.6498565,135.801544,2,"[""parking"", ""premise"", ""point_of_interest"", ""establishment""]",False
+735,株式会社タツノ 奈良営業所,34.68621,135.802545,2,"[""point_of_interest"", ""establishment""]",False
+736,まりお流らーめん,34.677881,135.800138,2,"[""restaurant"", ""food"", ""point_of_interest"", ""establishment""]",False
+737,高浜岸壁,34.680726,135.184838,2,"[""tourist_attraction"", ""point_of_interest"", ""establishment""]",False
+738,忍ケ丘ゴルフセンター,34.743969500000006,135.649479,2,"[""point_of_interest"", ""establishment""]",False
+739,EV充電スタンド,34.580819500000004,135.0131265,2,"[""point_of_interest"", ""establishment""]",False
+740,（有）トキワ屋,34.695535,135.76377,2,"[""laundry"", ""point_of_interest"", ""establishment""]",False
+741,公園西通り（バス）,34.746815,135.7714,2,"[""bus_station"", ""transit_station"", ""point_of_interest"", ""establishment""]",False
+742,齋藤医院,34.7163905,135.752009,2,"[""health"", ""point_of_interest"", ""establishment""]",False
+743,Sis,34.6990635,135.75097749999998,2,"[""health"", ""point_of_interest"", ""establishment""]",False
+744,越後,34.684513,135.75444399999998,2,"[""restaurant"", ""food"", ""point_of_interest"", ""establishment""]",False
+745,スクロジマーケティング株式会社,34.7287025,135.7018645,2,"[""storage"", ""point_of_interest"", ""establishment""]",False
+746,契約駐車場みやけ,34.691898,135.729191,2,"[""parking"", ""point_of_interest"", ""establishment""]",False
+747,鹿ノ台東一丁目,34.729991,135.752846,2,"[""bus_station"", ""transit_station"", ""point_of_interest"", ""establishment""]",False
+748,多機能トイレ（橿原市営 硬式野球場１）,34.4962585,135.774035,2,"[""point_of_interest"", ""establishment""]",False
+749,カメラのキタムラ 奈良・東生駒店,34.6990505,135.709055,2,"[""electronics_store"", ""home_goods_store"", ""store"", ""point_of_interest"", ""establishment""]",False
+750,松陽台二丁目第2号街区公園,34.718026,135.735793,2,"[""park"", ""point_of_interest"", ""establishment""]",False
+751,はま寿司 奈良押熊店,34.714658,135.772668,2,"[""restaurant"", ""food"", ""point_of_interest"", ""establishment""]",False
+752,ペットプラザ 精華台店,34.746311,135.772325,2,"[""pet_store"", ""point_of_interest"", ""store"", ""establishment""]",False
+753,コンセプト 同志社駅前パーキング,34.805625,135.777285,2,"[""parking"", ""point_of_interest"", ""establishment""]",False
+754,リコラス登美ヶ丘 Ｃ棟,34.726175,135.75363,2,"[""shopping_mall"", ""point_of_interest"", ""establishment""]",False
+755,おくた 奈良町本店,34.678611,135.831668,2,"[""point_of_interest"", ""store"", ""food"", ""establishment""]",False
+756,ココカラファイン 生駒店,34.6955,135.701925,2,"[""drugstore"", ""point_of_interest"", ""health"", ""store"", ""establishment""]",False
+757,㈱真井組,34.729968,135.7343455,2,"[""storage"", ""point_of_interest"", ""establishment""]",False
+758,ゆららの湯 奈良店,34.66946,135.80229,2,"[""spa"", ""point_of_interest"", ""establishment""]",False
+759,奈良市役所 北部出張所,34.721923,135.790631,2,"[""city_hall"", ""local_government_office"", ""point_of_interest"", ""establishment""]",False
+760,大阪住重建機（株） 東大阪営業所,34.745961,135.632045,2,"[""point_of_interest"", ""establishment""]",False
+761,ホテル イエスウィキャン生駒店,34.7318505,135.713859,2,"[""lodging"", ""point_of_interest"", ""establishment""]",False
+762,酒蔵与左衛門,34.713715,135.72109,2,"[""liquor_store"", ""point_of_interest"", ""store"", ""establishment""]",False
+763,エコ・ユートピア,34.672381,135.699175,2,"[""park"", ""point_of_interest"", ""establishment""]",False
+764,ガスト 奈良藤ノ木台店,34.682273,135.756063,2,"[""meal_delivery"", ""meal_takeaway"", ""restaurant"", ""point_of_interest"", ""food"", ""establishment""]",False
+765,コンディトライ・デティ,34.722753,135.7081875,2,"[""bakery"", ""food"", ""point_of_interest"", ""store"", ""establishment""]",False
+766,奈良日産自動車（株） お客様相談室,34.619473,135.757331,2,"[""point_of_interest"", ""establishment""]",False
+767,中登美ヶ丘三丁目（バス）,34.719295,135.745533,2,"[""bus_station"", ""transit_station"", ""point_of_interest"", ""establishment""]",False
+768,登美ヶ丘公民館 大ホール３（旧 グリーンホール）,34.71912450000001,135.7496265,2,"[""city_hall"", ""local_government_office"", ""point_of_interest"", ""establishment""]",False
+769,UR都市機構奈良学園前・鶴舞 管理サービス事務所,34.7014645,135.749498,2,"[""real_estate_agency"", ""point_of_interest"", ""establishment""]",False
+770,キャンプおおさか,34.776376,135.715431,2,"[""campground"", ""park"", ""lodging"", ""point_of_interest"", ""establishment""]",False
+771,光台一丁目（バス）,34.7445,135.768778,2,"[""bus_station"", ""transit_station"", ""point_of_interest"", ""establishment""]",False
+772,bas 枚方デポ,34.814901,135.672308,2,"[""point_of_interest"", ""establishment""]",False
+773,南都銀行 木津支店 ガーデンモール出張所,34.719624,135.817522,2,"[""bank"", ""atm"", ""finance"", ""point_of_interest"", ""establishment""]",False
+774,ビューティサロンFUJITA登美ケ丘店,34.714941,135.750545,2,"[""hair_care"", ""point_of_interest"", ""establishment""]",False
+775,ファミリーマート 奈良鶴舞西店,34.701773,135.747735,2,"[""convenience_store"", ""point_of_interest"", ""store"", ""food"", ""establishment""]",False
+776,赤ちゃんルーム,34.725151,135.749398,2,"[""point_of_interest"", ""establishment"", ""subpremise""]",False
+777,ビストロ イブー,34.707723,135.696628,2,"[""restaurant"", ""point_of_interest"", ""food"", ""establishment""]",False
+778,GKパーツ商会,34.663559,135.719661,2,"[""car_repair"", ""point_of_interest"", ""establishment""]",False
+779,駐車場,34.734413,135.734871,2,"[""premise"", ""parking"", ""point_of_interest"", ""establishment""]",False
+780,シン・コーポレーション,34.746221500000004,135.78315300000003,2,"[""point_of_interest"", ""establishment""]",False
+781,アイエス学園 奈良学習館,34.686853,135.810786,2,"[""school"", ""point_of_interest"", ""establishment""]",False
+782,鹿畑口（バス）,34.728542000000004,135.748425,2,"[""bus_station"", ""transit_station"", ""point_of_interest"", ""establishment""]",False
+783,あしび薬局菖蒲池店,34.696625,135.7609815,2,"[""pharmacy"", ""health"", ""point_of_interest"", ""store"", ""establishment""]",False
+784,サンドラッグ 奈良法蓮町店,34.6934305,135.825394,2,"[""drugstore"", ""health"", ""point_of_interest"", ""store"", ""establishment""]",False
+785,時計修理工房白金堂 奈良富雄事務所,34.694191000000004,135.735097,2,"[""point_of_interest"", ""store"", ""establishment""]",False
+786,スペースECO 登美ヶ丘駅前,34.7286495,135.75118700000002,2,"[""parking"", ""point_of_interest"", ""establishment""]",False
+787,（株）学研都市設備 生駒支店,34.732398,135.715863,2,"[""general_contractor"", ""point_of_interest"", ""establishment""]",False
+788,スペースECO 登美ヶ丘駅前,34.7282095,135.75141150000002,2,"[""parking"", ""point_of_interest"", ""establishment""]",False
+789,奈良先端科学技術大学院大学 先端科学技術研究科 情報科学領域,34.729958499999995,135.7320845,2,"[""university"", ""point_of_interest"", ""establishment""]",True
+790,掛橋（バス）,34.723248,135.720308,2,"[""bus_station"", ""transit_station"", ""point_of_interest"", ""establishment""]",False
+791,UR都市機構奈良学園前･鶴舞 19号棟,34.702867999999995,135.7515035,2,"[""point_of_interest"", ""establishment""]",False
+792,Honda Cars 奈良中央 生駒北店,34.7228585,135.7057805,2,"[""car_dealer"", ""store"", ""point_of_interest"", ""establishment""]",False
+793,須磨寺駐車場,34.649141,135.110328,2,"[""parking"", ""point_of_interest"", ""establishment""]",False
+794,A,34.726768,135.790095,2,"[""subpremise"", ""point_of_interest"", ""establishment""]",False
+795,枯淡,34.684831,135.8112,2,"[""restaurant"", ""food"", ""point_of_interest"", ""establishment""]",False
+796,Beauty&Spa Chloe,34.694086,135.19053,2,"[""beauty_salon"", ""point_of_interest"", ""establishment""]",False
+797,cafe A.A,34.744781,135.75879,2,"[""cafe"", ""store"", ""food"", ""point_of_interest"", ""establishment""]",False
+798,（株）フジハラ美装,34.73977,135.75613,2,"[""point_of_interest"", ""establishment""]",False
+799,かわにし歯科医院,34.696614499999995,135.732599,2,"[""dentist"", ""health"", ""point_of_interest"", ""establishment""]",False
+800,クローバー,34.72011,135.72275,2,"[""car_dealer"", ""point_of_interest"", ""store"", ""establishment""]",False
+801,みずき堂,34.72808,135.74937,2,"[""point_of_interest"", ""store"", ""establishment""]",False
+802,いけばな教室嵯峨御流,34.72863,135.72771,2,"[""school"", ""point_of_interest"", ""establishment""]",False
+803,医王山　寿福寺　専用駐車場,34.759745,135.159546,2,"[""parking"", ""point_of_interest"", ""establishment""]",False
+804,タイムズ北野異人館前,34.7007185,135.19100500000002,2,"[""parking"", ""point_of_interest"", ""establishment""]",False
+805,なかた整形外科,34.7103405,135.7581995,2,"[""doctor"", ""health"", ""point_of_interest"", ""establishment""]",False
+806,ヤマト運輸 平城京センター,34.704760500000006,135.78081350000002,2,"[""point_of_interest"", ""establishment""]",False
+807,リッケンスポーツクラブ精華教室,34.747553,135.781165,2,"[""gym"", ""health"", ""point_of_interest"", ""establishment""]",False
+808,ゼルコヴァ,34.725423,135.715518,2,"[""cafe"", ""point_of_interest"", ""store"", ""food"", ""establishment""]",False
+809,ノムラクリーニング コープ押熊店,34.721606,135.770535,2,"[""laundry"", ""point_of_interest"", ""establishment""]",False
+810,神戸土地建物（株） 本社,34.687231,135.19203,2,"[""real_estate_agency"", ""point_of_interest"", ""establishment""]",False
+811,串屋 西大寺店,34.696217000000004,135.78544399999998,2,"[""restaurant"", ""point_of_interest"", ""food"", ""establishment""]",False
+812,アクシーズファム,34.679906,135.18324,2,"[""clothing_store"", ""point_of_interest"", ""store"", ""establishment""]",False
+813,淡路ジェノバライン 岩屋港のりば,34.590043,135.019982,2,"[""point_of_interest"", ""establishment""]",False
+814,兵庫三菱自動車販売（株） 神戸店,34.701083,135.2126675,2,"[""car_dealer"", ""point_of_interest"", ""store"", ""establishment""]",False
+815,道の駅 あわじ 駐車場,34.601648,135.008239,2,"[""parking"", ""point_of_interest"", ""establishment""]",False
+816,石井工業(株）,34.850033,135.744628,2,"[""general_contractor"", ""point_of_interest"", ""establishment""]",False
+817,馬渕第1児童遊園,34.75483,135.7991,2,"[""park"", ""point_of_interest"", ""establishment""]",False
+818,インド料理 Milan 西の京,34.663576,135.760956,2,"[""restaurant"", ""food"", ""point_of_interest"", ""establishment""]",False
+819,イオンモール四條畷,34.7465905,135.6286645,2,"[""shopping_mall"", ""restaurant"", ""food"", ""point_of_interest"", ""establishment""]",False
+820,奈良トヨタ 生駒店,34.73231,135.7214,2,"[""car_dealer"", ""store"", ""point_of_interest"", ""establishment""]",False
+821,駐車場,34.5759985,134.9998015,2,"[""parking"", ""premise"", ""point_of_interest"", ""establishment""]",False
+822,佐田商店鹿畑工場,34.72867,135.73975,2,"[""point_of_interest"", ""establishment""]",False
+823,登美ヶ丘駅前駐車場,34.727055,135.750248,2,"[""parking"", ""point_of_interest"", ""establishment""]",False
+824,江崎公園,34.60712,134.993623,2,"[""park"", ""tourist_attraction"", ""point_of_interest"", ""establishment""]",False
+825,スターバックス コーヒー 東香里店,34.77709,135.660283,1,"[""meal_takeaway"", ""cafe"", ""restaurant"", ""food"", ""point_of_interest"", ""store"", ""establishment""]",False
+826,イオンモールKYOTO,34.982056,135.754328,1,"[""shopping_mall"", ""restaurant"", ""point_of_interest"", ""food"", ""establishment""]",False
+827,敷島庵,34.7026705,135.7691455,1,"[""library"", ""point_of_interest"", ""establishment""]",False
+828,エヌ・アイ・プランニング,34.7069,135.7059655,1,"[""point_of_interest"", ""establishment""]",False
+829,せいか里山交流広場,34.749026,135.763121,1,"[""point_of_interest"", ""establishment""]",False
+830,アサノブロック（株）,34.733965,135.595275,1,"[""general_contractor"", ""store"", ""point_of_interest"", ""establishment""]",False
+831,奈良県営住宅平城団地,34.714736,135.779398,1,"[""point_of_interest"", ""establishment""]",False
+832,（株）博善社 やすらぎ店,34.679058,135.825676,1,"[""point_of_interest"", ""establishment""]",False
+833,駐車場,34.747017,135.77318,1,"[""premise"", ""parking"", ""point_of_interest"", ""establishment""]",False
+834,ラ・クレア,34.7017005,135.7075465,1,"[""hair_care"", ""point_of_interest"", ""establishment""]",False
+835,新日本セキュリティ,34.741058,135.618775,1,"[""point_of_interest"", ""establishment""]",False
+836,三和平城グランドパレス,34.713312,135.77989300000002,1,"[""point_of_interest"", ""establishment""]",False
+837,Dパーキング 奈良市大宮町2丁目第1,34.684194000000005,135.817427,1,"[""parking"", ""point_of_interest"", ""establishment""]",False
+838,南都銀行ATM,34.746985,135.77969,1,"[""atm"", ""bank"", ""finance"", ""point_of_interest"", ""establishment""]",False
+839,（有）青光社,34.682061,135.79634,1,"[""point_of_interest"", ""establishment""]",False
+840,中信美術館,35.020176,135.753495,1,"[""tourist_attraction"", ""museum"", ""point_of_interest"", ""establishment""]",False
+841,業務スーパー南生駒店,34.661436,135.707743,1,"[""transit_station"", ""point_of_interest"", ""establishment""]",False
+842,株式会社川野工業 交野営業所,34.775313,135.665031,1,"[""point_of_interest"", ""establishment""]",False
+843,シャトレーゼ 四條畷店,34.739462,135.644583,1,"[""bakery"", ""store"", ""food"", ""point_of_interest"", ""establishment""]",False
+844,京都トヨペット 久御山店,34.895511,135.743715,1,"[""car_dealer"", ""point_of_interest"", ""store"", ""establishment""]",False
+845,やまのたに公園,34.728115,135.705416,1,"[""park"", ""tourist_attraction"", ""point_of_interest"", ""establishment""]",False
+846,個別指導の明光義塾 高の原教室,34.720726,135.788806,1,"[""point_of_interest"", ""school"", ""establishment""]",False
+847,ローソン 御所名柄店,34.441945,135.714629,1,"[""convenience_store"", ""atm"", ""finance"", ""store"", ""food"", ""point_of_interest"", ""establishment""]",False
+848,北新池（秋篠）,34.705763,135.7739185,1,"[""point_of_interest"", ""establishment""]",False
+849,兜台一丁目（バス）,34.7249755,135.7876205,1,"[""bus_station"", ""transit_station"", ""point_of_interest"", ""establishment""]",False
+850,相和橋,34.734863000000004,135.78525100000002,1,"[""point_of_interest"", ""establishment""]",False
+851,パリワール村,34.7296855,135.743798,1,"[""grocery_or_supermarket"", ""cafe"", ""restaurant"", ""food"", ""point_of_interest"", ""store"", ""establishment""]",False
+852,マクドナルド ２４号木津店,34.727863,135.8216055,1,"[""cafe"", ""restaurant"", ""food"", ""store"", ""point_of_interest"", ""establishment""]",False
+853,いこまツーリスト,34.706158,135.706903,1,"[""travel_agency"", ""point_of_interest"", ""establishment""]",False
+854,菓子いちばん,34.662989,135.7085185,1,"[""store"", ""food"", ""point_of_interest"", ""establishment""]",False
+855,サン薬局三里店,34.628864,135.70620300000002,1,"[""pharmacy"", ""health"", ""point_of_interest"", ""store"", ""establishment""]",False
+856,（有）西大和マイカーセンター 本店,34.613538,135.707468,1,"[""car_dealer"", ""point_of_interest"", ""store"", ""establishment""]",False
+857,CUSTOM HOME-カスタムホーム 枚方オフィス,34.8130995,135.6827675,1,"[""general_contractor"", ""point_of_interest"", ""establishment""]",False
+858,アメメイク出張メイクアップ,34.781661,135.662753,1,"[""hair_care"", ""point_of_interest"", ""establishment""]",False
+859,三和奈良阪グラウンド,34.706445,135.827655,1,"[""point_of_interest"", ""establishment""]",False
+860,サフラン,34.439293,135.728326,1,"[""point_of_interest"", ""establishment""]",False
+861,ほりのバーガー,34.4386275,135.72792800000002,1,"[""restaurant"", ""point_of_interest"", ""food"", ""establishment""]",False
+862,auショップ 生駒南,34.659958,135.707891,1,"[""store"", ""point_of_interest"", ""establishment""]",False
+863,リノペーション,34.720191,135.72504,1,"[""point_of_interest"", ""establishment""]",False
+864,町中華 やみつく麻婆専門店 麺吉本舗,34.416106,135.718691,1,"[""restaurant"", ""food"", ""point_of_interest"", ""establishment""]",False
+865,幼保連携型認定こども園 生駒ピュアこども園,34.72791,135.754201,1,"[""point_of_interest"", ""school"", ""establishment""]",False
+866,御所市民運動公園,34.428361,135.730653,1,"[""point_of_interest"", ""establishment""]",False
+867,パン工房 西山荘,34.711806,135.726226,1,"[""bakery"", ""food"", ""point_of_interest"", ""store"", ""establishment""]",False
+868,伊勢津ドライ 万代鶴舞店,34.707201,135.750965,1,"[""laundry"", ""point_of_interest"", ""establishment""]",False
+869,門真商店,34.730448,135.592985,1,"[""meal_takeaway"", ""restaurant"", ""food"", ""point_of_interest"", ""establishment""]",False
+870,ミニストップ 伊賀畑村店,34.767756,136.2078,1,"[""convenience_store"", ""atm"", ""finance"", ""point_of_interest"", ""store"", ""food"", ""establishment""]",False
+871,（株）白洋舍 登美ケ丘店,34.715694,135.746439,1,"[""laundry"", ""point_of_interest"", ""establishment""]",False
+872,皮膚科生駒熊本クリニック,34.7037175,135.69736849999998,1,"[""doctor"", ""point_of_interest"", ""health"", ""establishment""]",False
+873,（有）フォトプラザクスハラ,34.715554,135.73979,1,"[""point_of_interest"", ""establishment""]",False
+874,ピザリアニューエイジ 北生駒店,34.72344,135.720876,1,"[""bakery"", ""food"", ""store"", ""point_of_interest"", ""establishment""]",False
+875,（株）アド毎広,34.777918,135.616791,1,"[""store"", ""point_of_interest"", ""establishment""]",False
+876,udon & cafe 麺喰,34.677542,135.83496150000002,1,"[""restaurant"", ""food"", ""point_of_interest"", ""establishment""]",False
+877,とびやま不動産,34.727566,135.7236755,1,"[""point_of_interest"", ""establishment""]",False
+878,淨教寺,34.682686000000004,135.82525299999998,1,"[""tourist_attraction"", ""place_of_worship"", ""point_of_interest"", ""establishment""]",False
+879,稲葉（バス）,34.723094,135.70659899999998,1,"[""bus_station"", ""transit_station"", ""point_of_interest"", ""establishment""]",False
+880,阪神タイガースショップ TEAM SHOP CLUBHOUSE,34.7007,135.497635,1,"[""clothing_store"", ""point_of_interest"", ""store"", ""establishment""]",False
+881,ONE PARK宿院町,34.686961,135.828756,1,"[""parking"", ""point_of_interest"", ""establishment""]",False
+882,Kato Drum School,34.722395,135.72776,1,"[""point_of_interest"", ""establishment""]",False
+883,餃子の王将 上田原店,34.713325,135.680513,1,"[""meal_takeaway"", ""restaurant"", ""food"", ""point_of_interest"", ""establishment""]",False
+884,（株）サンコウ 生駒支店,34.693205,135.698656,1,"[""point_of_interest"", ""establishment""]",False
+885,トライプラス 木津駅前校,34.734492,135.821999,1,"[""point_of_interest"", ""school"", ""establishment""]",False
+886,ゆうちょ銀行 大阪支店 ファミリーマート奈良中町店内出張所,34.67799,135.7426735,1,"[""atm"", ""finance"", ""point_of_interest"", ""establishment""]",False
+887,ローソン銀行ＡＴＭ 奈良中町共同出張所,34.67868,135.741356,1,"[""atm"", ""finance"", ""point_of_interest"", ""establishment""]",False
+888,河原医院,34.720008,135.750915,1,"[""doctor"", ""point_of_interest"", ""health"", ""establishment""]",False
+889,ザ・コーヒー 中町店,34.6725775,135.75556949999998,1,"[""cafe"", ""point_of_interest"", ""store"", ""food"", ""establishment""]",False
+890,イリスウォーターテラスあやめ池,34.7003,135.758741,1,"[""point_of_interest"", ""establishment""]",False
+891,メイプルリーフ薬局押熊店,34.723065,135.76996,1,"[""pharmacy"", ""point_of_interest"", ""store"", ""health"", ""establishment""]",False
+892,生駒台北第1公園,34.704992000000004,135.701142,1,"[""park"", ""tourist_attraction"", ""point_of_interest"", ""establishment""]",False
+893,河辺グランドライフ秋篠,34.704505,135.7706155,1,"[""point_of_interest"", ""establishment""]",False
+894,エスク三ツ川（株） 京田辺支店,34.827646,135.757266,1,"[""point_of_interest"", ""establishment""]",False
+895,（株）三陽鉄工所,34.751476,135.625758,1,"[""point_of_interest"", ""establishment""]",False
+896,かつや 大阪四條畷店,34.740836,135.626625,1,"[""restaurant"", ""food"", ""point_of_interest"", ""establishment""]",False
+897,ファミリーマート 幾野四丁目店,34.796012000000005,135.684158,1,"[""convenience_store"", ""atm"", ""finance"", ""food"", ""point_of_interest"", ""store"", ""establishment""]",False
+898,PUDOステーション ヤマト運輸 京都精華センター,34.7627775,135.7886715,1,"[""storage"", ""point_of_interest"", ""establishment""]",False
+899,（株）フォトン,34.7446745,135.75642449999998,1,"[""point_of_interest"", ""establishment""]",False
+900,オクムラ薬局,34.715647000000004,135.74528600000002,1,"[""pharmacy"", ""point_of_interest"", ""health"", ""store"", ""establishment""]",False
+901,中村屋 木津店,34.735953,135.804045,1,"[""supermarket"", ""grocery_or_supermarket"", ""food"", ""point_of_interest"", ""store"", ""establishment""]",False
+902,なかのや,34.715125,135.745228,1,"[""restaurant"", ""point_of_interest"", ""food"", ""establishment""]",False
+903,鹿畑口（バス）,34.728479500000006,135.747784,1,"[""bus_station"", ""transit_station"", ""point_of_interest"", ""establishment""]",False
+904,天丼・天ぷら本舗 さん天 奈良三条店,34.679443,135.811941,1,"[""meal_takeaway"", ""restaurant"", ""point_of_interest"", ""food"", ""establishment""]",False
+905,南都銀行キャッシュコーナー,34.736393,135.803361,1,"[""atm"", ""finance"", ""point_of_interest"", ""establishment""]",False
+906,（有）睦工業所,34.731291,135.730538,1,"[""point_of_interest"", ""establishment""]",False
+907,シューズ愛ランド 奈良柏木店,34.676835,135.80024,1,"[""shoe_store"", ""store"", ""point_of_interest"", ""establishment""]",False
+908,イケアファミリーショップ,34.6366845,135.4511105,1,"[""subpremise"", ""point_of_interest"", ""establishment""]",False
+909,玄三庵 西梅田店,34.698426,135.496496,1,"[""restaurant"", ""food"", ""point_of_interest"", ""establishment""]",False
+910,株式会社喜多塾,34.7168295,135.748965,1,"[""school"", ""point_of_interest"", ""establishment""]",False
+911,ローソン 木津川南後背店,34.736435,135.80756,1,"[""convenience_store"", ""atm"", ""finance"", ""store"", ""food"", ""point_of_interest"", ""establishment""]",False
+912,特別養護老人ホーム やすらぎの杜,34.7902995,135.776142,1,"[""point_of_interest"", ""health"", ""establishment""]",False
+913,モデッツ（ＭＯＤＥＴＴＥＳ）,34.697488,135.732218,1,"[""hair_care"", ""point_of_interest"", ""establishment""]",False
+914,餃子の王将 奈良都跡店,34.681608,135.789271,1,"[""meal_takeaway"", ""restaurant"", ""point_of_interest"", ""food"", ""establishment""]",False
+915,ガトー・ド・ボワ ラボ,34.681661,135.794431,1,"[""bakery"", ""food"", ""store"", ""point_of_interest"", ""establishment""]",False
+916,ロイヤルヒルズ富雄H棟,34.697649,135.7346005,1,"[""point_of_interest"", ""establishment""]",False
+917,情報メデイア館,34.803325,135.770596,1,"[""university"", ""point_of_interest"", ""establishment""]",False
+918,大和信用金庫 生駒支店,34.6980595,135.6994595,1,"[""atm"", ""bank"", ""finance"", ""point_of_interest"", ""establishment""]",False
+919,おかだ歯科クリニック,34.726324500000004,135.784951,1,"[""dentist"", ""health"", ""point_of_interest"", ""establishment""]",False
+920,吉野家 平野店,34.62812,135.551325,1,"[""meal_takeaway"", ""restaurant"", ""food"", ""point_of_interest"", ""establishment""]",False
+921,（株）平野葬祭,34.630111,135.536357,1,"[""point_of_interest"", ""establishment""]",False
+922,餃子の王将 久宝寺店,34.632843,135.584331,1,"[""meal_takeaway"", ""restaurant"", ""food"", ""point_of_interest"", ""establishment""]",False
+923,フタバスクール,34.6313405,135.5683995,1,"[""point_of_interest"", ""establishment""]",False
+924,サウンドプライズリンク,34.729954500000005,135.821856,1,"[""electronics_store"", ""car_repair"", ""point_of_interest"", ""store"", ""establishment""]",False
+925,学研奈良登美ヶ丘駅,34.732248,135.73817050000002,1,"[""point_of_interest"", ""establishment""]",True
+926,日本ワックス 東工場,34.81242,135.68210449999998,1,"[""point_of_interest"", ""establishment""]",False
+927,テクノロジー・アンド・ソリューションズ有限会社,34.7150655,135.7488325,1,"[""point_of_interest"", ""establishment""]",False
+928,（株）白洋舍 登美ケ丘店,34.714628,135.746161,1,"[""laundry"", ""point_of_interest"", ""establishment""]",False
+929,丸亀製麺奈良,34.660881,135.83247,1,"[""restaurant"", ""food"", ""point_of_interest"", ""establishment""]",False
+930,高橋隆司事務所,34.6678455,135.83676200000002,1,"[""point_of_interest"", ""establishment""]",False
+931,七井戸,34.80419,135.795036,1,"[""point_of_interest"", ""establishment""]",False
+932,まりお流らーめん,34.678451499999994,135.800127,1,"[""restaurant"", ""food"", ""point_of_interest"", ""establishment""]",False
+933,ヤマダ電機,34.653633,135.798185,1,"[""furniture_store"", ""home_goods_store"", ""store"", ""point_of_interest"", ""establishment""]",False
+934,ティーエスエス・インベント,34.646723,135.81676549999997,1,"[""point_of_interest"", ""establishment""]",False
+935,ローソン 大和郡山下三橋町店,34.653183,135.798543,1,"[""convenience_store"", ""point_of_interest"", ""store"", ""food"", ""establishment""]",False
+936,自立生活センター 奈良サポート２４,34.689481,135.824783,1,"[""health"", ""point_of_interest"", ""establishment""]",False
+937,京進の個別指導スクール・ワン 東生駒教室,34.692506,135.709401,1,"[""school"", ""point_of_interest"", ""establishment""]",False
+938,此花会館梅香殿,34.683269,135.4642515,1,"[""point_of_interest"", ""establishment""]",False
+939,大阪ステーションシティ駐輪場,34.70101,135.492381,1,"[""point_of_interest"", ""establishment""]",False
+940,ＪＲ郡山駅［東］（バス）,34.648086,135.79097000000002,1,"[""bus_station"", ""transit_station"", ""point_of_interest"", ""establishment""]",False
+941,ハニーズ大和郡山店,34.6427,135.768245,1,"[""clothing_store"", ""point_of_interest"", ""store"", ""establishment""]",False
+942,アットパーク大和郡山,34.646876500000005,135.783467,1,"[""parking"", ""point_of_interest"", ""establishment""]",False
+943,彩華ラーメン 奈良店,34.68225,135.791765,1,"[""restaurant"", ""point_of_interest"", ""establishment""]",False
+944,スーパーヤオヒコ 北大和店,34.726875,135.728676,1,"[""supermarket"", ""point_of_interest"", ""establishment""]",False
+945,くら寿司 王寺店,34.584425,135.704601,1,"[""restaurant"", ""point_of_interest"", ""establishment""]",False
+946,(株)大京塗料商会,34.67014,135.8001,1,"[""point_of_interest"", ""establishment""]",False
+947,和食麺処サガミ 法隆寺店,34.611168,135.74159,1,"[""restaurant"", ""point_of_interest"", ""establishment""]",False
+948,近畿環境サービス（株） 奈良営業所,34.72396,135.75201,1,"[""point_of_interest"", ""establishment""]",False
+949,ローソン 奈良南紀寺町一丁目店,34.667365,135.833108,1,"[""convenience_store"", ""point_of_interest"", ""establishment""]",False
+950,山下建材土木,34.7302,135.72553,1,"[""general_contractor"", ""point_of_interest"", ""establishment""]",False
+951,goodspoon 高の原テラス店,34.723839,135.789353,1,"[""restaurant"", ""point_of_interest"", ""establishment""]",False
+952,鹿ノ台第10緑地,34.73342,135.74452,1,"[""park"", ""point_of_interest"", ""establishment""]",False
+953,光台一丁目南（バス）,34.74235,135.7685,1,"[""bus_station"", ""transit_station"", ""point_of_interest"", ""establishment""]",False
+954,吉野家 ２４号線奈良北店,34.69164,135.81243,1,"[""meal_takeaway"", ""restaurant"", ""food"", ""point_of_interest"", ""establishment""]",False
+955,イル・ベーネ,34.700065,135.8286905,1,"[""restaurant"", ""food"", ""point_of_interest"", ""establishment""]",False
+956,東京海上日動火災保険代理店契約センター,34.691647,135.77650749999998,1,"[""insurance_agency"", ""point_of_interest"", ""establishment""]",False
+957,ミュゼデザインラボ,34.7153575,135.7418405,1,"[""hair_care"", ""point_of_interest"", ""establishment""]",False
+958,寝屋川市野外活動センター,34.735618,135.680075,1,"[""campground"", ""park"", ""lodging"", ""point_of_interest"", ""establishment""]",False
+959,ドラッグユタカ 押熊店,34.720639000000006,135.76952749999998,1,"[""drugstore"", ""point_of_interest"", ""establishment""]",False
+960,駐車場,34.651585,135.800358,1,"[""premise"", ""parking"", ""point_of_interest"", ""establishment""]",False
+961,奈良県森林組合連合会,34.686225,135.826465,1,"[""point_of_interest"", ""establishment""]",False
+962,スーパーセンターオークワ 生駒上町店,34.723307000000005,135.722104,1,"[""supermarket"", ""point_of_interest"", ""establishment""]",False
+963,スギ薬局 東生駒店,34.686087,135.7126975,1,"[""pharmacy"", ""point_of_interest"", ""establishment""]",False
+964,イオンモール大和郡山店,34.649861,135.803913,1,"[""shopping_mall"", ""point_of_interest"", ""establishment""]",False
+965,スペースECO 大和西大寺駅前第2,34.6932855,135.7886565,1,"[""parking"", ""point_of_interest"", ""establishment""]",False
+966,万博記念公園,34.806045,135.528351,1,"[""park"", ""point_of_interest"", ""establishment""]",False
+967,ファミリーマート 中登美ヶ丘六丁目店,34.72225,135.745535,1,"[""convenience_store"", ""point_of_interest"", ""establishment""]",False
+968,生駒駅,34.69285,135.697296,1,"[""transit_station"", ""point_of_interest"", ""establishment""]",False
+969,まごころ介護タクシー,34.70344,135.75024,1,"[""health"", ""point_of_interest"", ""establishment""]",False
+970,桜が丘四丁目南公園,34.72791,135.77407,1,"[""park"", ""point_of_interest"", ""establishment""]",False
+971,コストコホールセール 京都八幡倉庫店,34.841241,135.715265,1,"[""grocery_or_supermarket"", ""point_of_interest"", ""establishment""]",False
+972,もり保育園,34.726681,135.718458,1,"[""school"", ""point_of_interest"", ""establishment""]",False
+973,精華台二丁目（バス）,34.75206,135.78576,1,"[""bus_station"", ""transit_station"", ""point_of_interest"", ""establishment""]",False
+974,奈良市立 東登美ヶ丘こども園,34.72011,135.75575,1,"[""school"", ""point_of_interest"", ""establishment""]",False
+975,アル・プラザ 木津,34.7388315,135.7912155,1,"[""shopping_mall"", ""point_of_interest"", ""establishment""]",False
+976,セブン-イレブン 奈良四条大路４丁目店,34.681555,135.793793,1,"[""convenience_store"", ""point_of_interest"", ""establishment""]",False
+977,ジャイアントストア 奈良,34.7157855,135.737438,1,"[""point_of_interest"", ""establishment""]",False
+978,木村香翠園,34.73522,135.73918,1,"[""point_of_interest"", ""establishment""]",False
+979,セブン-イレブン 茨木沢良宜東町店,34.799951,135.571713,1,"[""convenience_store"", ""point_of_interest"", ""establishment""]",False
+980,駐車場,34.73324,135.7318,1,"[""premise"", ""parking"", ""point_of_interest"", ""establishment""]",False
+981,両谷橋,34.72908,135.74467,1,"[""point_of_interest"", ""establishment""]",False
+982,国際電気通信基礎技術研究所（ATR）,34.743966,135.767835,1,"[""local_government_office"", ""point_of_interest"", ""establishment""]",True
+983,イオンモール四條畷,34.74519,135.62745,1,"[""shopping_mall"", ""clothing_store"", ""point_of_interest"", ""store"", ""establishment""]",False
+984,生駒鹿ノ台郵便局,34.73443,135.750353,1,"[""local_government_office"", ""point_of_interest"", ""establishment""]",False
+985,ファミリーマート 奈良秋篠早月町店,34.699265,135.784376,1,"[""convenience_store"", ""point_of_interest"", ""establishment""]",False
+986,生駒市立中保育園,34.69126,135.69932,1,"[""point_of_interest"", ""school"", ""establishment""]",False
+987,橿原運動公園軟式野球場,34.499085,135.771715,1,"[""point_of_interest"", ""establishment""]",False
+988,株式会社ムラクモコーポレーション(むらくも建築工房),34.6835995,135.780568,1,"[""point_of_interest"", ""establishment""]",False
+989,鹿ノ台北公園,34.739775,135.7450445,1,"[""park"", ""point_of_interest"", ""establishment""]",False
+990,奈良先端科学技術大学院大学 学生宿舎,34.733813,135.735253,1,"[""school"", ""point_of_interest"", ""establishment""]",True
+991,かなか動物病院,34.7405545,135.758555,1,"[""veterinary_care"", ""point_of_interest"", ""establishment""]",False
+992,びっくりドンキー 大和郡山店,34.644185,135.815575,1,"[""restaurant"", ""food"", ""point_of_interest"", ""establishment""]",False
+993,ホテル 紡,34.629725,135.806345,1,"[""lodging"", ""point_of_interest"", ""establishment""]",False
+994,国立国会図書館（バス）,34.744738,135.770621,1,"[""bus_station"", ""transit_station"", ""point_of_interest"", ""establishment""]",False
+995,ほんまや,34.648414,135.7898625,1,"[""restaurant"", ""food"", ""point_of_interest"", ""establishment""]",False
+996,駐車場,34.7345455,135.7334325,1,"[""parking"", ""premise"", ""point_of_interest"", ""establishment""]",False
+997,阪南大学会館,34.592995,135.537051,1,"[""point_of_interest"", ""establishment""]",False
+998,テンゲル,34.686618,135.715923,1,"[""store"", ""point_of_interest"", ""establishment""]",False
+999,田守神社,34.599266,135.471871,1,"[""place_of_worship"", ""point_of_interest"", ""establishment""]",False
+1000,イオンモール堺鉄砲町,34.594705,135.479353,1,"[""shopping_mall"", ""point_of_interest"", ""establishment""]",False
+1001,錦西こども園,34.595565,135.483478,1,"[""point_of_interest"", ""establishment""]",False
+1002,くろ治療室,34.7299765,135.74217199999998,1,"[""health"", ""point_of_interest"", ""establishment""]",False
+1003,うえだ歯科クリニック,34.719949,135.7715455,1,"[""dentist"", ""doctor"", ""point_of_interest"", ""health"", ""establishment""]",False
+1004,ラ・フランボワーズ,34.715783,135.73808,1,"[""restaurant"", ""point_of_interest"", ""food"", ""establishment""]",False
+1005,一歩堂 登美ヶ丘店,34.7160855,135.751602,1,"[""restaurant"", ""food"", ""point_of_interest"", ""establishment""]",False
+1006,片桐池の内（バス）,34.632381,135.766763,1,"[""bus_station"", ""transit_station"", ""point_of_interest"", ""establishment""]",False
+1007,カインズ木津川店,34.720065,135.81788,1,"[""furniture_store"", ""clothing_store"", ""general_contractor"", ""home_goods_store"", ""store"", ""point_of_interest"", ""establishment""]",False
+1008,セブン-イレブン 城陽インター店,34.853316,135.761238,1,"[""convenience_store"", ""point_of_interest"", ""establishment""]",False
+1009,（株）阪奈興業（はんなのリフォーム）,34.718998,135.696541,1,"[""general_contractor"", ""point_of_interest"", ""establishment""]",False
+1010,株式会社ランド・フリーダム,34.758676,135.63176,1,"[""general_contractor"", ""point_of_interest"", ""establishment""]",False
+1011,ラーメン大和 四條畷店,34.745215,135.632976,1,"[""meal_takeaway"", ""restaurant"", ""point_of_interest"", ""food"", ""establishment""]",False
+1012,中川政七商店 分店 土産 奈良三条店,34.681875,135.82815,1,"[""clothing_store"", ""point_of_interest"", ""store"", ""food"", ""establishment""]",False
+1013,奈良先端大学院の学生宿舎8,34.734795,135.736385,1,"[""school"", ""point_of_interest"", ""establishment""]",True
+1014,株式会社ENA 学園前教室,34.697955,135.751895,1,"[""point_of_interest"", ""establishment""]",False
+1015,ホテルアジール・奈良アネックス,34.6818205,135.800477,1,"[""lodging"", ""point_of_interest"", ""establishment""]",False
+1016,グリーンハウス 生駒上町店,34.719653,135.722275,1,"[""store"", ""point_of_interest"", ""establishment""]",False
+1017,新興産業 春日 SS,34.809389499999995,135.681867,1,"[""gas_station"", ""point_of_interest"", ""establishment""]",False
+1018,株式会社ホンダネット京奈 本社,34.7153165,135.7515005,1,"[""car_dealer"", ""insurance_agency"", ""point_of_interest"", ""store"", ""establishment""]",False
+1019,パソコン工房 奈良店,34.684275,135.79943100000003,1,"[""electronics_store"", ""point_of_interest"", ""store"", ""establishment""]",False
+1020,akippa | Dパーキング三条本町第1駐車場【バイク】,34.6797455,135.817104,1,"[""parking"", ""point_of_interest"", ""establishment""]",False
+1021,柳生整体院,34.6844865,135.82005099999998,1,"[""point_of_interest"", ""establishment""]",False
+1022,一蘭 門真店,34.738621499999994,135.6105005,1,"[""meal_takeaway"", ""restaurant"", ""food"", ""point_of_interest"", ""establishment""]",False
+1023,天丼・天ぷら本舗 さん天 外環善根寺店,34.702061,135.639528,1,"[""meal_takeaway"", ""restaurant"", ""point_of_interest"", ""food"", ""establishment""]",False
+1024,中山町西四丁目第2号街区公園,34.708781,135.755546,1,"[""park"", ""point_of_interest"", ""establishment""]",False
+1025,北大和五丁目（バス）,34.725735,135.733993,1,"[""bus_station"", ""transit_station"", ""point_of_interest"", ""establishment""]",False
+1026,夢彩の丘公園,34.7262665,135.744228,1,"[""park"", ""point_of_interest"", ""establishment""]",False
+1027,（株）大起土地,34.746068,135.720273,1,"[""real_estate_agency"", ""point_of_interest"", ""establishment""]",False
+1028,（株）大林組 奈良土木工事事務所,34.723093,135.739156,1,"[""general_contractor"", ""point_of_interest"", ""establishment""]",False
+1029,和食こにし,34.6817655,135.804663,1,"[""bar"", ""restaurant"", ""food"", ""point_of_interest"", ""establishment""]",False
+1030,USB音楽堂,34.86447,135.676485,1,"[""store"", ""point_of_interest"", ""establishment""]",False
+1031,NTT West Keihanna bld. NTT西日本 京阪奈ビル,34.741668,135.765448,1,"[""point_of_interest"", ""establishment""]",False
+1032,SOLATO カーパラダイス津田 SS (みやび石油),34.8113005,135.69435549999997,1,"[""gas_station"", ""point_of_interest"", ""establishment""]",False
+1033,ローレルスクエア学研奈良登美ヶ丘4,34.724066,135.748643,1,"[""point_of_interest"", ""establishment""]",False
+1034,Dパーキング 西京極総合運動公園第3駐車場,34.994035,135.712246,1,"[""parking"", ""point_of_interest"", ""establishment""]",False
+1035,花本クリニック,34.715438,135.740368,1,"[""point_of_interest"", ""health"", ""establishment""]",False
+1036,医療法人紀文会 デンタルクリニック,34.767651,135.650651,1,"[""dentist"", ""health"", ""point_of_interest"", ""establishment""]",False
+1037,エッカ 桜が丘,34.729045,135.772921,1,"[""point_of_interest"", ""establishment""]",False
+1038,お客様駐車場,34.898158,135.915721,1,"[""parking"", ""point_of_interest"", ""establishment""]",False
+1039,日光社 フレンドマート店,34.853251,135.864043,1,"[""laundry"", ""point_of_interest"", ""establishment""]",False
+1040,マツゲン 精華台店(松源),34.746095,135.773085,1,"[""grocery_or_supermarket"", ""point_of_interest"", ""store"", ""food"", ""establishment""]",False
+1041,サロンド・タカ,34.7358205,135.74967049999998,1,"[""hair_care"", ""point_of_interest"", ""establishment""]",False
+1042,キールヘアー,34.6988815,135.6962545,1,"[""hair_care"", ""point_of_interest"", ""establishment""]",False
+1043,やきとり大吉 北郡山店,34.65298,135.786249,1,"[""restaurant"", ""food"", ""point_of_interest"", ""establishment""]",False
+1044,エニタイムフィットネス JR奈良駅前店,34.680202,135.81725799999998,1,"[""gym"", ""point_of_interest"", ""health"", ""establishment""]",False
+1045,かみつじこどもクリニック,34.718375,135.771585,1,"[""doctor"", ""health"", ""point_of_interest"", ""establishment""]",False
+1046,田辺産業(株),34.6511015,135.80841700000002,1,"[""point_of_interest"", ""establishment""]",False
+1047,あやめ池駐在所跡,34.698893,135.762743,1,"[""point_of_interest"", ""establishment""]",False
+1048,学際融合領域研究棟1号館,34.730938,135.7360065,1,"[""university"", ""point_of_interest"", ""establishment""]",True
+1049,セブン-イレブン 大東谷川２丁目店,34.71062,135.631183,1,"[""convenience_store"", ""atm"", ""finance"", ""point_of_interest"", ""store"", ""food"", ""establishment""]",False
+1050,中登美ヶ丘団地（バス）,34.718545500000005,135.744916,1,"[""bus_station"", ""transit_station"", ""point_of_interest"", ""establishment""]",False
+1051,エスポワールダンススタジオ,34.6720745,135.755205,1,"[""point_of_interest"", ""establishment""]",False
+1052,Rhythm tomigaoka,34.7117665,135.74993899999998,1,"[""beauty_salon"", ""point_of_interest"", ""establishment""]",False
+1053,麺屋 やまひで 奈良本店,34.684225,135.809018,1,"[""restaurant"", ""food"", ""point_of_interest"", ""establishment""]",False
+1054,生駒市立生駒北小中学校,34.73932,135.722335,1,"[""school"", ""point_of_interest"", ""establishment""]",False
+1055,生駒山麓公園 野外活動センター（キャンプ場）,34.701131,135.676348,1,"[""park"", ""point_of_interest"", ""establishment""]",False
+1056,スギ薬局 学園前店,34.708951,135.75031,1,"[""drugstore"", ""health"", ""store"", ""point_of_interest"", ""establishment""]",False
+1057,板前焼肉 はじめ,34.713526,135.749831,1,"[""restaurant"", ""food"", ""point_of_interest"", ""establishment""]",False
+1058,学際融合領域研究棟1号館,34.731561,135.735883,1,"[""university"", ""point_of_interest"", ""establishment""]",True
+1059,神戸凮月堂,34.735593,135.566263,1,"[""food"", ""store"", ""point_of_interest"", ""establishment""]",False
+1060,メルセデス・ベンツ 奈良学園前サービス工場,34.730873,135.754476,1,"[""car_repair"", ""point_of_interest"", ""establishment""]",False
+1061,駐車場,34.652351,135.802908,1,"[""premise"", ""parking"", ""point_of_interest"", ""establishment""]",False
+1062,吐師（バス）,34.741936,135.795598,1,"[""bus_station"", ""transit_station"", ""point_of_interest"", ""establishment""]",False
+1063,京都銀行 高の原支店,34.723715,135.788718,1,"[""bank"", ""atm"", ""finance"", ""point_of_interest"", ""establishment""]",False
+1064,アスティリア,34.814907500000004,135.7679885,1,"[""real_estate_agency"", ""parking"", ""point_of_interest"", ""establishment""]",False
+1065,フレックス,34.716138,135.753425,1,"[""general_contractor"", ""point_of_interest"", ""establishment""]",False
+1066,三角公園西公園,34.890513,135.77252,1,"[""park"", ""point_of_interest"", ""establishment""]",False
+1067,三共空調（株）,34.7399355,135.63243949999998,1,"[""general_contractor"", ""point_of_interest"", ""establishment""]",False
+1068,午出神社,34.729346,135.745303,1,"[""place_of_worship"", ""point_of_interest"", ""establishment""]",False
+1069,スギ薬局 学園前南店,34.686651,135.752945,1,"[""drugstore"", ""pharmacy"", ""health"", ""store"", ""point_of_interest"", ""establishment""]",False
+1070,上武建設,34.72898,135.731996,1,"[""general_contractor"", ""point_of_interest"", ""establishment""]",False
+1071,タフバリア（有） 大阪ヤード,34.728455,135.733848,1,"[""point_of_interest"", ""establishment""]",False
+1072,やました医院,34.713748,135.70481,1,"[""point_of_interest"", ""health"", ""establishment""]",False
+1073,Takanohara English Center,34.722331,135.782178,1,"[""point_of_interest"", ""establishment""]",False
+1074,カフェ＆雑貨 奈良フェリーチェ,34.682047,135.81093650000005,1,"[""cafe"", ""food"", ""point_of_interest"", ""establishment""]",False
+1075,アングラーズ押熊店,34.7142255,135.77294,1,"[""store"", ""point_of_interest"", ""establishment""]",False
+1076,どいクリニック,34.714586,135.705351,1,"[""doctor"", ""health"", ""point_of_interest"", ""establishment""]",False
+1077,花・雑貨 からんどりえ,34.7450015,135.6454965,1,"[""florist"", ""food"", ""store"", ""point_of_interest"", ""establishment""]",False
+1078,まいどおおきに食堂 奈良 四条大路食堂,34.6814545,135.79985299999998,1,"[""restaurant"", ""point_of_interest"", ""food"", ""establishment""]",False
+1079,アトリエシロツキ,34.710012,135.79989,1,"[""bakery"", ""cafe"", ""food"", ""store"", ""point_of_interest"", ""establishment""]",False
+1080,ベルあやめ池,34.701493,135.76340549999998,1,"[""point_of_interest"", ""establishment""]",False
+1081,MEGAドン・キホーテ 宇治店,34.8866115,135.7636355,1,"[""furniture_store"", ""clothing_store"", ""electronics_store"", ""point_of_interest"", ""home_goods_store"", ""store"", ""food"", ""establishment""]",False
+1082,南都銀行 手貝支店,34.690821,135.834818,1,"[""bank"", ""atm"", ""finance"", ""point_of_interest"", ""establishment""]",False
+1083,ローレルスクエア学研奈良登美ヶ丘4,34.72426,135.749206,1,"[""point_of_interest"", ""establishment""]",False
+1084,（株）テンダーボックス,34.647603000000004,135.708972,1,"[""restaurant"", ""food"", ""point_of_interest"", ""establishment""]",False
+1085,べーしっく,34.694535,135.787181,1,"[""point_of_interest"", ""establishment""]",False
+1086,大宣,34.805282500000004,135.67854899999998,1,"[""store"", ""point_of_interest"", ""establishment""]",False
+1087,SOLATO カーパラダイス津田 SS (みやび石油),34.811123,135.695173,1,"[""gas_station"", ""point_of_interest"", ""establishment""]",False
+1088,天野川新橋,34.808113000000006,135.6566885,1,"[""point_of_interest"", ""establishment""]",False
+1089,奈良市立登美ヶ丘北中学校,34.72421,135.753363,1,"[""school"", ""point_of_interest"", ""establishment""]",False
+1090,学研まゆみ保育園,34.7190035,135.7299455,1,"[""school"", ""point_of_interest"", ""establishment""]",False
+1091,apollostation 東中野SS （川本産業）,34.738769,135.6439925,1,"[""gas_station"", ""car_wash"", ""car_repair"", ""point_of_interest"", ""establishment""]",False
+1092,植村医院,34.7003495,135.835493,1,"[""health"", ""point_of_interest"", ""establishment""]",False
+1093,島ヶ原温泉 やぶっちゃの湯,34.77481,136.0668,1,"[""spa"", ""point_of_interest"", ""establishment""]",False
+1094,平城左京団地 9,34.710391,135.805198,1,"[""point_of_interest"", ""establishment""]",False
+1095,駐車場,34.775385,136.066973,1,"[""parking"", ""point_of_interest"", ""establishment""]",False
+1096,車椅子用駐車場,34.7647065,136.0240875,1,"[""parking"", ""point_of_interest"", ""establishment""]",False
+1097,吉川金糸,34.751543,135.810634,1,"[""point_of_interest"", ""establishment""]",False
+1098,奈良交通（株） 観光事業部,34.683268,135.820661,1,"[""point_of_interest"", ""establishment""]",False
+1099,事務棟別館,34.7337055,135.731528,1,"[""university"", ""point_of_interest"", ""establishment""]",False
+1100,登美ヶ丘リハビリテーション病院,34.725596,135.748231,1,"[""health"", ""point_of_interest"", ""establishment""]",False
+1101,ICHIBOU 駐車場,34.6927685,135.8261695,1,"[""parking"", ""point_of_interest"", ""establishment""]",False
+1102,ダイアナ,34.6800455,135.823304,1,"[""meal_takeaway"", ""restaurant"", ""food"", ""point_of_interest"", ""establishment""]",False
+1103,吉川住研 ならやまモデルハウス,34.716953,135.782506,1,"[""general_contractor"", ""point_of_interest"", ""establishment""]",False
+1104,フラワーショップカトレヤ学園前店,34.697230000000005,135.75136700000002,1,"[""florist"", ""store"", ""point_of_interest"", ""establishment""]",False
+1105,株式会社久保組,34.779576,135.723133,1,"[""point_of_interest"", ""establishment""]",False
+1106,もとやま助産所,34.69193,135.73107,1,"[""point_of_interest"", ""health"", ""establishment""]",False
+1107,アストロプロダクツ 四條畷店,34.740206,135.6299,1,"[""car_repair"", ""store"", ""point_of_interest"", ""establishment""]",False
+1108,夢庵 交野倉治店,34.792221,135.691163,1,"[""meal_delivery"", ""meal_takeaway"", ""restaurant"", ""food"", ""point_of_interest"", ""establishment""]",False
+1109,ホワイトエッセンス加盟院（松井山手）,34.840378,135.71506,1,"[""dentist"", ""health"", ""point_of_interest"", ""establishment""]",False
+1110,トラックコム 163号線 第一置き場,34.729791,135.726833,1,"[""storage"", ""point_of_interest"", ""establishment""]",False
+1111,ゼルコヴァ,34.725203,135.7160205,1,"[""cafe"", ""point_of_interest"", ""store"", ""food"", ""establishment""]",False
+1112,バーミヤン 生駒白庭台店,34.7260735,135.715909,1,"[""meal_takeaway"", ""meal_delivery"", ""restaurant"", ""food"", ""point_of_interest"", ""establishment""]",False
+1113,コイン精米所,34.707936,135.8282205,1,"[""point_of_interest"", ""establishment""]",False
+1114,新車市場 生駒店 K-FIELDS,34.729374,135.70376249999998,1,"[""point_of_interest"", ""store"", ""establishment""]",False
+1115,きみや,34.729933,135.747456,1,"[""restaurant"", ""food"", ""point_of_interest"", ""establishment""]",False
+1116,フォレストデイサービスセンター鹿ノ台,34.734522,135.745171,1,"[""health"", ""point_of_interest"", ""establishment""]",False
+1117,奈良地方法務局 みんなの人権１１０番,34.671555,135.839663,1,"[""point_of_interest"", ""establishment""]",False
+1118,つむぎの小径〔二名包括支援センター口〕,34.702363,135.751411,1,"[""park"", ""point_of_interest"", ""establishment""]",False
+1119,法林寺,34.700922000000006,135.785899,1,"[""place_of_worship"", ""point_of_interest"", ""establishment""]",False
+1120,山口整骨院,34.731856,135.712003,1,"[""health"", ""point_of_interest"", ""establishment""]",False
+1121,ハロー障害年金社労士オフィス,34.694306,135.788116,1,"[""point_of_interest"", ""establishment""]",False
+1122,ケーズデンキ 東生駒店,34.6856575,135.715957,1,"[""electronics_store"", ""point_of_interest"", ""store"", ""establishment""]",False
+1123,富雄泉ヶ丘（バス）,34.677844,135.73496999999998,1,"[""bus_station"", ""transit_station"", ""point_of_interest"", ""establishment""]",False
+1124,奈良口橋,34.732768,135.7213,1,"[""point_of_interest"", ""establishment""]",False
+1125,岩城造園,34.697033,135.71044,1,"[""general_contractor"", ""point_of_interest"", ""store"", ""establishment""]",False
+1126,おそうじ本舗 相楽店,34.73442,135.769443,1,"[""point_of_interest"", ""establishment""]",False
+1127,奈良県ユース・ホステル協会,34.695311,135.825025,1,"[""point_of_interest"", ""establishment""]",False
+1128,第１駐車場,34.696248,135.827425,1,"[""parking"", ""point_of_interest"", ""establishment""]",False
+1129,宮方集会所,34.736013,135.725831,1,"[""point_of_interest"", ""establishment""]",False
+1130,ROCKS,34.703403,135.73337800000002,1,"[""bakery"", ""store"", ""food"", ""point_of_interest"", ""establishment""]",False
+1131,大和西大寺駅北口タクシー乗り場,34.693666,135.783603,1,"[""taxi_stand"", ""point_of_interest"", ""establishment""]",False
+1132,ALOHA CAFE Pineapple 生駒店,34.717978,135.723598,1,"[""cafe"", ""food"", ""store"", ""point_of_interest"", ""establishment""]",False
+1133,吉田病院訪問看護ステーションほほえみポート,34.690891,135.736605,1,"[""health"", ""point_of_interest"", ""establishment""]",False
+1134,つじた動物病院,34.698083,135.731905,1,"[""veterinary_care"", ""point_of_interest"", ""establishment""]",False
+1135,奈良市ならまちセンター,34.679735,135.831178,1,"[""point_of_interest"", ""establishment""]",False
+1136,特別養護老人ホーム高山ちどり・高山ちどり別館,34.728826,135.727023,1,"[""health"", ""point_of_interest"", ""establishment""]",False
+1137,HIDE.整骨院,34.70472,135.733325,1,"[""health"", ""point_of_interest"", ""establishment""]",False
+1138,北大和二丁目（バス）,34.726561,135.732778,1,"[""bus_station"", ""transit_station"", ""point_of_interest"", ""establishment""]",False
+1139,上六印刷株式会社,34.735501,135.732561,1,"[""point_of_interest"", ""establishment""]",False
+1140,奈良学園大学,34.720693,135.745695,1,"[""university"", ""point_of_interest"", ""establishment""]",False
+1141,ＪＡならけん 生駒支店,34.6916665,135.7040455,1,"[""bank"", ""atm"", ""finance"", ""point_of_interest"", ""establishment""]",False
+1142,料亭菊水楼 ウェディング ザ・キクスイロウナラパーク 奈良,34.681975,135.833891,1,"[""restaurant"", ""food"", ""point_of_interest"", ""establishment""]",False
+1143,apollostation セルフ神戸北町SS（出光リテール販売）,34.754978,135.1424365,1,"[""gas_station"", ""car_wash"", ""car_repair"", ""point_of_interest"", ""establishment""]",False
+1144,浜手バイパス被災構造物展示モニュメント (RC橋脚・伸縮装置・支承),34.685672,135.196142,1,"[""point_of_interest"", ""establishment""]",False
+1145,内村興産（株）,34.690171,135.711898,1,"[""point_of_interest"", ""establishment""]",False
+1146,公衆トイレ,34.726885,135.792606,1,"[""point_of_interest"", ""establishment""]",False
+1147,大阪王将 東生駒店,34.701008,135.7081355,1,"[""meal_takeaway"", ""restaurant"", ""point_of_interest"", ""food"", ""establishment""]",False
+1148,アルファ七森事務所（社会保険労務士法人）,34.6730545,135.799257,1,"[""point_of_interest"", ""establishment""]",False
+1149,カムトゥギャザー,34.718038,135.76392900000002,1,"[""point_of_interest"", ""store"", ""establishment""]",False
+1150,スーパーヤオヒコ 北大和店,34.7260435,135.7289615,1,"[""supermarket"", ""grocery_or_supermarket"", ""store"", ""food"", ""point_of_interest"", ""establishment""]",False
+1151,こぐま薬局西登美ヶ丘店,34.716811,135.74512,1,"[""pharmacy"", ""health"", ""store"", ""point_of_interest"", ""establishment""]",False
+1152,美容室リュバンドール(RUBAN D'OR),34.727334,135.715298,1,"[""hair_care"", ""beauty_salon"", ""point_of_interest"", ""establishment""]",False
+1153,クリーニングのフランス屋 生駒店,34.695595,135.702766,1,"[""laundry"", ""point_of_interest"", ""establishment""]",False
+1154,御幸荘花結び,34.796163,135.252296,1,"[""lodging"", ""restaurant"", ""point_of_interest"", ""food"", ""establishment""]",False
+1155,EV充電スタンド,34.756343,135.142561,1,"[""point_of_interest"", ""establishment""]",False
+1156,天理教生和分教会,34.69241,135.701228,1,"[""point_of_interest"", ""establishment""]",False
+1157,ビューポイント,34.680871,135.18641,1,"[""tourist_attraction"", ""point_of_interest"", ""establishment""]",False
+1158,日本たばこ産業株式会社 奈良支店,34.688098,135.811105,1,"[""point_of_interest"", ""store"", ""establishment""]",False
+1159,日向整骨院木津院,34.7364755,135.822554,1,"[""health"", ""point_of_interest"", ""establishment""]",False
+1160,ローソン 平城店,34.719845,135.803445,1,"[""convenience_store"", ""atm"", ""finance"", ""point_of_interest"", ""store"", ""food"", ""establishment""]",False
+1161,東登美ヶ丘四丁目（バス）,34.722248,135.754546,1,"[""bus_station"", ""transit_station"", ""point_of_interest"", ""establishment""]",False
+1162,塩と醤 木津川店｜ラーメン,34.727618,135.83064,1,"[""restaurant"", ""food"", ""point_of_interest"", ""establishment""]",False
+1163,トイレ ①（寝屋川公園 駐車場）,34.7643355,135.6555795,1,"[""point_of_interest"", ""establishment""]",False
+1164,木曽路 学園前店,34.685813,135.752638,1,"[""restaurant"", ""food"", ""point_of_interest"", ""establishment""]",False
+1165,ファインフラッツ奈良ザ・レジデンス,34.683076,135.82662,1,"[""point_of_interest"", ""establishment""]",False
+1166,ユニクロ 生駒店,34.710888,135.70554149999998,1,"[""clothing_store"", ""point_of_interest"", ""store"", ""establishment""]",False
+1167,相楽台西（バス）,34.72727,135.789925,1,"[""bus_station"", ""transit_station"", ""point_of_interest"", ""establishment""]",False
+1168,島川商店,34.768088,135.8581405,1,"[""point_of_interest"", ""establishment""]",False
+1169,すこやか斑鳩・スポーツセンター テニスコート,34.6076335,135.7306345,1,"[""point_of_interest"", ""establishment""]",False
+1170,株式会社NPCコーポレーション 京都オフィス,35.0295865,135.774307,1,"[""point_of_interest"", ""establishment""]",False
+1171,さくら薬局 奈良学園前店,34.704376999999994,135.7503265,1,"[""pharmacy"", ""point_of_interest"", ""health"", ""store"", ""establishment""]",False
+1172,642 Pizza ロッシーニピザ,34.6937475,135.75586950000002,1,"[""restaurant"", ""food"", ""point_of_interest"", ""establishment""]",False
+1173,ファミリーマート 奈良秋篠町店,34.706778,135.779338,1,"[""convenience_store"", ""food"", ""point_of_interest"", ""store"", ""establishment""]",False
+1174,（株）植泉,34.732609499999995,135.717083,1,"[""general_contractor"", ""point_of_interest"", ""establishment""]",False
+1175,奈良日産自動車 登美ヶ丘店,34.7232645,135.748435,1,"[""car_dealer"", ""store"", ""point_of_interest"", ""establishment""]",False
+1176,フィガロ ミリー 北生駒店,34.724926,135.722996,1,"[""hair_care"", ""beauty_salon"", ""point_of_interest"", ""establishment""]",False
+1177,精華町消防団 第3分団第4部ポンプ庫,34.75153,135.746816,1,"[""fire_station"", ""point_of_interest"", ""establishment""]",False
+1178,Seria アピタタウンけいはんな店,34.746923,135.769251,1,"[""point_of_interest"", ""store"", ""establishment""]",False
+1179,大衆中遊華食堂 八戒,34.6647945,135.57120500000002,1,"[""restaurant"", ""food"", ""point_of_interest"", ""establishment""]",False
+1180,スッスイタリアンダイニング,34.716671,135.735496,1,"[""restaurant"", ""point_of_interest"", ""food"", ""establishment""]",False
+1181,駐車場,34.505084,135.764527,1,"[""premise"", ""parking"", ""point_of_interest"", ""establishment""]",False
+1182,地蔵尊(与楽),34.464335,135.780173,1,"[""place_of_worship"", ""point_of_interest"", ""establishment""]",False
+1183,アグリステーション飛鳥 無料駐車場,34.466346,135.787685,1,"[""parking"", ""point_of_interest"", ""establishment""]",False
+1184,ジョイフル 京都精華町店,34.745426,135.768883,1,"[""restaurant"", ""food"", ""point_of_interest"", ""establishment""]",False
+1185,奈良県旅館・ホテル生活衛生同業組合,34.6793115,135.81253650000002,1,"[""point_of_interest"", ""establishment""]",False
+1186,イオンモール高の原,34.724508,135.79023949999998,1,"[""shopping_mall"", ""clothing_store"", ""point_of_interest"", ""store"", ""establishment""]",False
+1187,オランダ屋 奈良店,34.698404,135.8276755,1,"[""cafe"", ""restaurant"", ""food"", ""point_of_interest"", ""store"", ""establishment""]",False
+1188,個別指導の明光義塾 学研奈良登美ヶ丘教室,34.726763,135.752411,1,"[""school"", ""point_of_interest"", ""establishment""]",False
+1189,スギモト 米酒店,34.683172,135.814168,1,"[""liquor_store"", ""store"", ""point_of_interest"", ""establishment""]",False
+1190,ラーメン横綱 枚方店,34.812725,135.666841,1,"[""restaurant"", ""food"", ""point_of_interest"", ""establishment""]",False
+1191,（株）ハヤシコーポレーション,34.812351,135.680576,1,"[""point_of_interest"", ""establishment""]",False
+1192,株式会社 マティック．,34.701468,135.783166,1,"[""general_contractor"", ""point_of_interest"", ""establishment""]",False
+1193,CARBOO,34.733318,135.738445,1,"[""car_dealer"", ""store"", ""point_of_interest"", ""establishment""]",False
+1194,光台二丁目（バス）,34.743123999999995,135.76311199999998,1,"[""bus_station"", ""transit_station"", ""point_of_interest"", ""establishment""]",False
+1195,目利きの銀次 八戸ノ里駅前店,34.664033,135.588136,1,"[""meal_takeaway"", ""restaurant"", ""food"", ""point_of_interest"", ""establishment""]",False
+1196,デイリーヤマザキ 奈良ビバリーヒルズ店,34.705862999999994,135.8118465,1,"[""convenience_store"", ""point_of_interest"", ""store"", ""food"", ""establishment""]",False
+1197,ニジゲンノモリ（バス）,34.580146,135.013556,1,"[""transit_station"", ""point_of_interest"", ""establishment""]",False
+1198,タイムズ中の島公園,34.752803,135.520246,1,"[""parking"", ""point_of_interest"", ""establishment""]",False
+1199,アーバンハウス㈱,34.691656,135.702551,1,"[""real_estate_agency"", ""point_of_interest"", ""establishment""]",False
+1200,松野町第3架道橋,34.656565,135.143496,1,"[""point_of_interest"", ""establishment""]",False
+1201,ファミリーマート 近鉄九条駅前店,34.659531,135.784203,1,"[""convenience_store"", ""food"", ""point_of_interest"", ""store"", ""establishment""]",False
+1202,EV充電スポット,34.7435655,135.418974,1,"[""point_of_interest"", ""establishment""]",False
+1203,吹田SA (下り),34.782503,135.527696,1,"[""point_of_interest"", ""store"", ""food"", ""establishment""]",False
+1204,串かつ ますだ,34.699481,135.750491,1,"[""restaurant"", ""food"", ""point_of_interest"", ""establishment""]",False
+1205,アルティザン食品株式会社 – キャーヴ・デ・ザルティバー,34.725913,135.7174555,1,"[""store"", ""point_of_interest"", ""establishment""]",False
+1206,（株）プランニング・モリタ,34.7301525,135.735309,1,"[""general_contractor"", ""point_of_interest"", ""establishment""]",False
+1207,奈良 野菜ソムリエの店 Rokumeikan,34.714752000000004,135.743488,1,"[""restaurant"", ""food"", ""point_of_interest"", ""establishment""]",False
+1208,グルナディエ,34.73092,135.762946,1,"[""beauty_salon"", ""point_of_interest"", ""establishment""]",False
+1209,ニトリ ロイヤル押熊店,34.725676,135.771291,1,"[""home_goods_store"", ""store"", ""point_of_interest"", ""establishment""]",False
+1210,スパーク JR奈良駅前,34.678895,135.818511,1,"[""parking"", ""point_of_interest"", ""establishment""]",False
+1211,奈良トヨペット 登美ヶ丘店,34.723023,135.750615,1,"[""car_dealer"", ""point_of_interest"", ""store"", ""establishment""]",False
+1212,ヤガミホーム,34.74014,135.628868,1,"[""real_estate_agency"", ""point_of_interest"", ""establishment""]",False
+1213,スマイルホテル奈良,34.6796305,135.8194075,1,"[""lodging"", ""point_of_interest"", ""establishment""]",False
+1214,奈良先端科学技術大学院大学,34.733285,135.73397,1,"[""point_of_interest"", ""university"", ""establishment""]",True
+1215,トリ屋のトリはキチンとチキン,34.694746,135.735055,1,"[""restaurant"", ""food"", ""point_of_interest"", ""establishment""]",False
+1216,京田辺市長公室 秘書係,34.814791,135.767411,1,"[""city_hall"", ""local_government_office"", ""point_of_interest"", ""establishment""]",False
+1217,UniLife京田辺同志社前店,34.805466,135.777931,1,"[""real_estate_agency"", ""point_of_interest"", ""establishment""]",False
+1218,弘照山不動寺（宗教法人）,34.6918,135.755645,1,"[""place_of_worship"", ""point_of_interest"", ""establishment""]",False
+1219,MENYA BIBIRI,34.6622505,135.788698,1,"[""restaurant"", ""food"", ""point_of_interest"", ""establishment""]",False
+1220,カレーハウスCoCo壱番屋 新堀川店,34.9414305,135.752138,1,"[""restaurant"", ""food"", ""point_of_interest"", ""establishment""]",False
+1221,ゐざさ 大和吉野 柿の葉寿司 平城山店,34.718298,135.764725,1,"[""meal_takeaway"", ""restaurant"", ""point_of_interest"", ""store"", ""food"", ""establishment""]",False
+1222,京都新聞山科南販売所,34.9648,135.812298,1,"[""point_of_interest"", ""store"", ""establishment""]",False
+1223,育夢（はぐくむ）の杜公園,34.7263895,135.7465835,1,"[""park"", ""point_of_interest"", ""establishment""]",False
+1224,キヤノンシステムアンドサポート株式会社 奈良営業所,34.68195,135.81252949999998,1,"[""point_of_interest"", ""establishment""]",False
+1225,鎌研交番所(保安巡視員詰所),34.6904045,135.8573795,1,"[""point_of_interest"", ""establishment""]",False
+1226,閑清居,34.745573,135.765763,1,"[""restaurant"", ""point_of_interest"", ""food"", ""establishment""]",False
+1227,第2宮ノ内公園,34.727908,135.818095,1,"[""park"", ""point_of_interest"", ""establishment""]",False
+1228,堺浜大阪ガス天然ガススタンド,34.6049895,135.44935049999998,1,"[""point_of_interest"", ""establishment""]",False
+1229,東登美ヶ丘5号街区公園,34.720948,135.754155,1,"[""park"", ""point_of_interest"", ""establishment""]",False
+1230,ゴールド,34.710073,135.619143,1,"[""night_club"", ""bar"", ""point_of_interest"", ""establishment""]",False
+1231,羊屋,34.70965150000001,135.619467,1,"[""clothing_store"", ""store"", ""point_of_interest"", ""establishment""]",False
+1232,ビーワン,34.738961,135.63159,1,"[""point_of_interest"", ""establishment""]",False
+1233,かしき屋 福茂千,34.718428,135.731861,1,"[""restaurant"", ""food"", ""point_of_interest"", ""establishment""]",False
+1234,えみ薬局,34.69391,135.736061,1,"[""pharmacy"", ""health"", ""point_of_interest"", ""store"", ""establishment""]",False
+1235,ENEOS 生駒 SS (タイガー石油),34.73272,135.700496,1,"[""gas_station"", ""point_of_interest"", ""establishment""]",False
+1236,（株）大林組 奈良土木工事事務所,34.723868,135.737951,1,"[""general_contractor"", ""point_of_interest"", ""establishment""]",False
+1237,進学塾TETSU,34.692078,135.730036,1,"[""point_of_interest"", ""establishment""]",False
+1238,パン工房 西山荘,34.711133,135.726233,1,"[""bakery"", ""food"", ""point_of_interest"", ""store"", ""establishment""]",False
+1239,上六印刷株式会社,34.73561,135.733333,1,"[""point_of_interest"", ""establishment""]",False
+1240,ECCジュニア 北大和3丁目教室,34.725315,135.734296,1,"[""point_of_interest"", ""establishment""]",False
+1241,トレーニングスタジオ・エクラル,34.718288,135.760786,1,"[""gym"", ""health"", ""point_of_interest"", ""establishment""]",False
+1242,ワークマン 交野店,34.7623395,135.660584,1,"[""clothing_store"", ""store"", ""point_of_interest"", ""establishment""]",False
+1243,国土交通省 清滝雨量観測所,34.736851,135.669548,1,"[""point_of_interest"", ""establishment""]",False
+1244,（せ木村香翠園,34.735035,135.738595,1,"[""park"", ""point_of_interest"", ""establishment""]",False
+1245,西村橋,34.713216,135.72522,1,"[""point_of_interest"", ""establishment""]",False
+1246,登美ヶ丘三丁目（バス）,34.715355,135.750855,1,"[""bus_station"", ""transit_station"", ""point_of_interest"", ""establishment""]",False
+1247,登美ヶ丘治療院,34.716311,135.7548,1,"[""health"", ""point_of_interest"", ""establishment""]",False
+1248,やました医院,34.714261,135.704431,1,"[""point_of_interest"", ""health"", ""establishment""]",False
+1249,セレミューズ(株),34.6921755,135.69841050000002,1,"[""funeral_home"", ""store"", ""point_of_interest"", ""establishment""]",False
+1250,タイムズ生駒ケーブル前,34.692431,135.695015,1,"[""parking"", ""point_of_interest"", ""establishment""]",False
+1251,三松中橋,34.70078,135.732933,1,"[""point_of_interest"", ""establishment""]",False
+1252,北登美ヶ丘一丁目（バス）,34.722241,135.753323,1,"[""bus_station"", ""transit_station"", ""point_of_interest"", ""establishment""]",False
+1253,生駒市シルバー人材センター,34.72976,135.713778,1,"[""point_of_interest"", ""establishment""]",False
+1254,後藤歯科クリニック,34.695161,135.697305,1,"[""dentist"", ""health"", ""point_of_interest"", ""establishment""]",False
+1255,しゃぶしゃぶ・すきやき 一輪,34.679862,135.820557,1,"[""restaurant"", ""point_of_interest"", ""food"", ""establishment""]",False
+1256,文化財復元センター,34.74543,135.763751,1,"[""point_of_interest"", ""establishment""]",False
+1257,山城木津郵便局 集荷,34.735202,135.8039705,1,"[""post_office"", ""finance"", ""point_of_interest"", ""establishment""]",False
+1258,さんぱつや POP LIFE,34.735791,135.757703,1,"[""hair_care"", ""health"", ""point_of_interest"", ""establishment""]",False
+1259,水声橋,34.6875255,135.73558300000002,1,"[""point_of_interest"", ""establishment""]",False
+1260,ENEOS オブリステーション精華町山手 SS (三愛リテールサービス),34.76848,135.788061,1,"[""gas_station"", ""point_of_interest"", ""establishment""]",False
+1261,きたお鍼灸接骨院,34.779592,135.7904855,1,"[""health"", ""point_of_interest"", ""establishment""]",False
+1262,クリアコート生駒小明町Ⅱ,34.706389,135.707939,1,"[""point_of_interest"", ""establishment""]",False
+1263,稲八妻医師茶園跡,34.767833,135.780335,1,"[""point_of_interest"", ""establishment""]",False
+1264,CABINET SHOP 精華スタジオ,34.765041,135.78091,1,"[""furniture_store"", ""point_of_interest"", ""home_goods_store"", ""store"", ""establishment""]",False
+1265,吉田ビル,34.692175,135.734611,1,"[""point_of_interest"", ""establishment""]",False
+1266,東英産業,34.747703,135.770943,1,"[""point_of_interest"", ""establishment""]",False
+1267,あ,34.7352505,135.682564,1,"[""point_of_interest"", ""establishment""]",False
+1268,鳩ヶ峰地蔵広場,34.726758000000004,135.739603,1,"[""park"", ""point_of_interest"", ""establishment""]",False
+1269,学研奈良登美ヶ丘駅,34.726778,135.752976,1,"[""bus_station"", ""transit_station"", ""point_of_interest"", ""establishment""]",True
+1270,ピノスけいはんな,34.745642000000004,135.7707955,1,"[""spa"", ""gym"", ""health"", ""point_of_interest"", ""establishment""]",False
+1271,万葉歌碑,34.72567,135.725751,1,"[""park"", ""point_of_interest"", ""establishment""]",False
+1272,西木津駅駐輪場,34.7381695,135.802976,1,"[""point_of_interest"", ""establishment""]",False
+1273,池谷,34.723068,135.704363,1,"[""point_of_interest"", ""establishment""]",False
+1274,旧生駒北小学校体育館,34.74071,135.722454,1,"[""school"", ""point_of_interest"", ""establishment""]",False
+1275,奈良先端科学技術大学院大学 学生宿舎,34.733253500000004,135.73651999999998,1,"[""school"", ""point_of_interest"", ""establishment""]",True
+1276,大和工業株式会社 大阪営業所,34.71437950000001,135.591579,1,"[""point_of_interest"", ""establishment""]",False
+1277,稲垣医院,34.717823,135.740271,1,"[""health"", ""point_of_interest"", ""establishment""]",False
+1278,奈良県警 生駒警察署,34.6990695,135.69808799999998,1,"[""police"", ""point_of_interest"", ""establishment""]",False
+1279,高山サイエンスタウン（バス）,34.7362155,135.732962,1,"[""bus_station"", ""transit_station"", ""point_of_interest"", ""establishment""]",False
+1280,月読橋球技場 AB,35.0509305,135.5529145,1,"[""point_of_interest"", ""establishment""]",False
+1281,柳川運輸（株） 大阪営業所,34.719786,135.59709,1,"[""point_of_interest"", ""establishment""]",False
+1282,セブン-イレブン 亀岡今津２丁目店,35.050913,135.5479905,1,"[""convenience_store"", ""point_of_interest"", ""store"", ""food"", ""establishment""]",False
+1283,ダイコクバーガー,35.012668,135.58541,1,"[""restaurant"", ""point_of_interest"", ""food"", ""establishment""]",False
+1284,ダイワ産業（株）,34.884296500000005,135.72896300000002,1,"[""point_of_interest"", ""establishment""]",False
+1285,（株）近畿環境開発,34.713385,135.59338,1,"[""point_of_interest"", ""establishment""]",False
+1286,セブン-イレブン 奈良西大寺本町店,34.696958,135.7806315,1,"[""convenience_store"", ""atm"", ""finance"", ""food"", ""point_of_interest"", ""store"", ""establishment""]",False
+1287,清田軌道工業（株） 西大寺作業所,34.685792,135.7857305,1,"[""general_contractor"", ""point_of_interest"", ""establishment""]",False
+1288,Ｈｏｎｄａ Ｃａｒｓ北河内Ｕ－Ｓｅｌｅｃｔ交野,34.802829,135.6760905,1,"[""car_dealer"", ""point_of_interest"", ""store"", ""establishment""]",False
+1289,ゆうちょ銀行 大阪支店 ファミリーマート木津梅美台店内出張所,34.71749,135.835835,1,"[""atm"", ""finance"", ""point_of_interest"", ""establishment""]",False
+1290,仏壇の泉屋｜生駒店《生駒市》,34.698216,135.709216,1,"[""point_of_interest"", ""store"", ""establishment""]",False
+1291,とがわ整骨院,34.673813,135.835143,1,"[""health"", ""point_of_interest"", ""establishment""]",False
+1292,カーコンビニ倶楽部 西大寺駅前店,34.693896,135.788563,1,"[""car_repair"", ""point_of_interest"", ""establishment""]",False
+1293,愛知陸運（株） 京都営業所,34.86334,135.743008,1,"[""point_of_interest"", ""establishment""]",False
+1294,apollostation セルフ枚方東インターSS（出光リテール販売）,34.813111500000005,135.718943,1,"[""gas_station"", ""car_wash"", ""car_repair"", ""point_of_interest"", ""establishment""]",False
+1295,学研まゆみ保育園,34.718586,135.728825,1,"[""school"", ""point_of_interest"", ""establishment""]",False
+1296,よつば株式会社,34.725756,135.732456,1,"[""point_of_interest"", ""establishment""]",False
+1297,リカーショップかわむら,34.72524,135.726916,1,"[""liquor_store"", ""store"", ""point_of_interest"", ""establishment""]",False
+1298,奈良ヤクルト販売株式会社 生駒センター,34.70106,135.709788,1,"[""point_of_interest"", ""store"", ""food"", ""establishment""]",False
+1299,久保集会所,34.742485,135.725065,1,"[""point_of_interest"", ""establishment""]",False
+1300,さくら 押熊店,34.719416,135.774531,1,"[""clothing_store"", ""store"", ""point_of_interest"", ""establishment""]",False
+1301,ＥＣＣの個別指導塾ベストワン富雄駅前校,34.69459,135.735651,1,"[""school"", ""point_of_interest"", ""establishment""]",False
+1302,CARBOO,34.733516,135.737408,1,"[""car_dealer"", ""store"", ""point_of_interest"", ""establishment""]",False
+1303,KEC個別登美ヶ丘教室,34.721115,135.745155,1,"[""school"", ""point_of_interest"", ""establishment""]",False
+1304,イオンモール高の原,34.726635,135.791408,1,"[""shopping_mall"", ""restaurant"", ""food"", ""point_of_interest"", ""establishment""]",False
+1305,hair Afecto Artista,34.782195,135.676446,1,"[""hair_care"", ""point_of_interest"", ""establishment""]",False
+1306,イースマイル奈良本店,34.673196,135.801146,1,"[""general_contractor"", ""real_estate_agency"", ""point_of_interest"", ""establishment""]",False
+1307,カーブス 西大寺,34.695468,135.786146,1,"[""gym"", ""spa"", ""health"", ""point_of_interest"", ""establishment""]",False
+1308,テニスコート駐車場,34.713932,135.710859,1,"[""parking"", ""point_of_interest"", ""establishment""]",False
+1309,登美ケ丘第２パーキング,34.7283,135.754605,1,"[""parking"", ""real_estate_agency"", ""point_of_interest"", ""establishment""]",False
+1310,フラワリッシュ,34.6910055,135.729984,1,"[""cafe"", ""food"", ""point_of_interest"", ""establishment""]",False
+1311,北大和五丁目（バス）,34.724871,135.7353,1,"[""bus_station"", ""transit_station"", ""point_of_interest"", ""establishment""]",False
+1312,木下犬猫診療所,34.78247,135.673645,1,"[""veterinary_care"", ""point_of_interest"", ""establishment""]",False
+1313,スペースECO 登美ヶ丘駅前,34.729188,135.750495,1,"[""parking"", ""point_of_interest"", ""establishment""]",False
+1314,大阪王将 木津川台店,34.7442705,135.794346,1,"[""restaurant"", ""point_of_interest"", ""food"", ""establishment""]",False
+1315,つじもと医院,34.735728,135.7509,1,"[""doctor"", ""health"", ""point_of_interest"", ""establishment""]",False
+1316,奈良日産自動車 登美ヶ丘店,34.723531,135.747763,1,"[""car_dealer"", ""store"", ""point_of_interest"", ""establishment""]",False
+1317,河勝会計事務所,34.7148,135.738806,1,"[""accounting"", ""lawyer"", ""finance"", ""point_of_interest"", ""establishment""]",False
+1318,和食さと 新大宮店,34.687625,135.812343,1,"[""meal_takeaway"", ""restaurant"", ""food"", ""point_of_interest"", ""establishment""]",False
+1319,庭助,34.722693,135.724071,1,"[""general_contractor"", ""point_of_interest"", ""establishment""]",False
+1320,鹿畑口（バス）,34.728076,135.74824,1,"[""bus_station"", ""transit_station"", ""point_of_interest"", ""establishment""]",False
+1321,生駒市立あすか野小学校,34.709996,135.716326,1,"[""primary_school"", ""school"", ""point_of_interest"", ""establishment""]",False
+1322,（株）タジマ 京都営業所,34.930786,135.751438,1,"[""point_of_interest"", ""establishment""]",False
+1323,法華寺モータース,34.670574,135.8050005,1,"[""car_repair"", ""car_dealer"", ""store"", ""point_of_interest"", ""establishment""]",False
+1324,松のや 南森町店,34.697571,135.51233,1,"[""meal_takeaway"", ""restaurant"", ""food"", ""point_of_interest"", ""establishment""]",False
+1325,百味菜酒家 きなり,34.696476,135.502011,1,"[""restaurant"", ""point_of_interest"", ""food"", ""establishment""]",False
+1326,ラウンドワンスタジアム 城東放出店,34.69613,135.55908,1,"[""bowling_alley"", ""point_of_interest"", ""establishment""]",False
+1327,杵築橋（バス）,34.707621,135.731913,1,"[""bus_station"", ""transit_station"", ""point_of_interest"", ""establishment""]",False
+1328,くるっとパーク立命館大学前,35.034444,135.726557,1,"[""parking"", ""point_of_interest"", ""establishment""]",False
+1329,セブン-イレブン 奈良菅原町店,34.684215,135.777963,1,"[""convenience_store"", ""point_of_interest"", ""store"", ""food"", ""establishment""]",False
+1330,東横INN奈良新大宮駅前,34.686668,135.811471,1,"[""lodging"", ""point_of_interest"", ""establishment""]",False
+1331,松島塗装工業株式会社,34.7251385,135.72992349999998,1,"[""painter"", ""point_of_interest"", ""establishment""]",False
+1332,Dog salon kerico,34.74028,135.739591,1,"[""point_of_interest"", ""establishment""]",False
+1333,サーティワンアイスクリーム 大和郡山店,34.642253,135.766528,1,"[""bakery"", ""restaurant"", ""food"", ""point_of_interest"", ""store"", ""establishment""]",False
+1334,ロイヤルヒルズ富雄F棟,34.696923,135.734518,1,"[""point_of_interest"", ""establishment""]",False
+1335,ニコニコレンタカー奈良二名平野店,34.708765,135.730871,1,"[""car_rental"", ""point_of_interest"", ""establishment""]",False
+1336,登美ヶ丘リハビリテーション病院,34.726448,135.74835,1,"[""point_of_interest"", ""health"", ""establishment""]",False
+1337,銀河興業,34.730671,135.705741,1,"[""point_of_interest"", ""establishment""]",False
+1338,かまた歯科医院,34.72488,135.72835,1,"[""health"", ""point_of_interest"", ""establishment""]",False
+1339,フリールームゆう,34.755253,135.779546,1,"[""point_of_interest"", ""establishment""]",False
+1340,真弓橋（バス）,34.718935,135.723663,1,"[""bus_station"", ""transit_station"", ""point_of_interest"", ""establishment""]",False
+1341,クリーニング ルビー オークワ生駒菜畑店,34.67945,135.706583,1,"[""laundry"", ""point_of_interest"", ""establishment""]",False
+1342,（株）ロク総合設備,34.715503,135.707313,1,"[""electrician"", ""point_of_interest"", ""establishment""]",False
+1343,Cauda,34.690461,135.78879,1,"[""cafe"", ""store"", ""food"", ""point_of_interest"", ""establishment""]",False
+1344,鴨と醸し 鼓道,34.778068,135.496181,1,"[""restaurant"", ""food"", ""point_of_interest"", ""establishment""]",False
+1345,有限会社スエサンサービス,34.774444,135.495589,1,"[""moving_company"", ""storage"", ""funeral_home"", ""point_of_interest"", ""establishment""]",False
+1346,セブン-イレブン 豊中寺内２丁目店,34.777004,135.495413,1,"[""convenience_store"", ""store"", ""food"", ""point_of_interest"", ""establishment""]",False
+1347,合億株式会社,34.7283005,135.7390305,1,"[""point_of_interest"", ""establishment""]",False
+1348,奈良トヨタ 生駒店,34.732216,135.721935,1,"[""car_dealer"", ""point_of_interest"", ""store"", ""establishment""]",False
+1349,Runpeace,34.724838500000004,135.73110300000002,1,"[""point_of_interest"", ""establishment""]",False
+1350,（株）東昭,34.749123,135.577751,1,"[""point_of_interest"", ""establishment""]",False
+1351,TRINITY（トリニティ）,34.6941195,135.78548949999998,1,"[""store"", ""point_of_interest"", ""establishment""]",False
+1352,ファミリーマート 近鉄あやめ池駅前店,34.69838,135.761306,1,"[""convenience_store"", ""store"", ""food"", ""point_of_interest"", ""establishment""]",False
+1353,学研けいはんなプラザ（バス）,34.7447045,135.76415550000002,1,"[""transit_station"", ""point_of_interest"", ""establishment""]",False
+1354,菜の花ピアノ教室,34.720125,135.7427265,1,"[""point_of_interest"", ""electronics_store"", ""home_goods_store"", ""school"", ""store"", ""establishment""]",False
+1355,スマートパーク ミナーラ 第1（ｺｲﾝﾊﾟｰｷﾝｸﾞ）,34.686122,135.8012905,1,"[""parking"", ""point_of_interest"", ""establishment""]",False
+1356,杵築神社,34.708316,135.733568,1,"[""tourist_attraction"", ""place_of_worship"", ""point_of_interest"", ""establishment""]",False
+1357,乾谷（バス）,34.733063,135.773018,1,"[""bus_station"", ""transit_station"", ""point_of_interest"", ""establishment""]",False
+1358,前ヶ谷班集会所,34.731025,135.7416,1,"[""point_of_interest"", ""establishment""]",False
+1359,アルカイック森の工房店,34.701881,135.827793,1,"[""cafe"", ""point_of_interest"", ""food"", ""establishment""]",False
+1360,たま木亭,34.9100995,135.80330099999998,1,"[""bakery"", ""food"", ""point_of_interest"", ""store"", ""establishment""]",False
+1361,アックス・ナチュラリー,34.68193,135.805311,1,"[""hair_care"", ""point_of_interest"", ""establishment""]",False
+1362,あずやん株式会社 本社,34.706371,135.698295,1,"[""point_of_interest"", ""establishment""]",False
+1363,こどものアトリエやまとぐみ,34.727695,135.727906,1,"[""point_of_interest"", ""establishment""]",False
+1364,ナチュラルゴルフレッスンスタジオ,34.712178,135.747856,1,"[""health"", ""point_of_interest"", ""establishment""]",False
+1365,ラフェマリカ,34.71739,135.786221,1,"[""bakery"", ""store"", ""food"", ""point_of_interest"", ""establishment""]",False
+1366,黒添西池,34.7624355,135.7117615,1,"[""park"", ""point_of_interest"", ""establishment""]",False
