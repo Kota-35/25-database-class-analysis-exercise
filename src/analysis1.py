@@ -237,12 +237,28 @@ def _(agg, agg_out, pl):
     mat_staff = heatmap_matrix(agg, "staff", "share_within_type")
     mat_student = heatmap_matrix(agg, "student", "share_within_type")
 
+
+    total_by_type = agg.group_by("user_type").agg(
+        pl.col("ride_count").sum().alias("total_ride_count")
+    )
+
+    # dict にして引けるように
+    total_map = dict(
+        zip(
+            total_by_type["user_type"].to_list(),
+            total_by_type["total_ride_count"].to_list(),
+        )
+    )
+
+    staff_total = int(total_map.get("staff", 0))
+    student_total = int(total_map.get("student", 0))
+
     print(mat_staff.shape, mat_student.shape)  # (7, 24) になるはず
-    return mat_staff, mat_student, np
+    return mat_staff, mat_student, np, staff_total, student_total
 
 
-@app.cell
-def _(mat_staff, mat_student, np):
+@app.cell(hide_code=True)
+def _(mat_staff, np, staff_total):
     import matplotlib.pyplot as plt
 
     dow_labels = ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"]
@@ -262,11 +278,96 @@ def _(mat_staff, mat_student, np):
         cbar = plt.colorbar(im, ax=ax)
         cbar.set_label("share_within_type")
         plt.tight_layout()
-        plt.show()
 
 
-    plot_heatmap(mat_staff, "staff: share within type by dow x hour")
-    plot_heatmap(mat_student, "student: share within type by dow x hour")
+    plot_heatmap(
+        mat_staff,
+        f"staff: share within type by dow x hour (total rides={staff_total})",
+    )
+    plt.gca()
+    return plot_heatmap, plt
+
+
+@app.cell(hide_code=True)
+def _(mat_student, plot_heatmap, plt, student_total):
+    plot_heatmap(
+        mat_student,
+        f"student: share within type by dow x hour (total rides={student_total})",
+    )
+    plt.gca()
+    return
+
+
+@app.cell(hide_code=True)
+def _(history, pl, plt, user):
+    def box_abd_whiskey_plot_with_distance_and_time(value_col: str, title: str):
+        df = (
+            history.with_columns(
+                pl.col("started_at")
+                .str.to_datetime(strict=False)
+                .alias("started_at_dt"),
+                pl.col("ended_at")
+                .str.to_datetime(strict=False)
+                .alias("ended_at_dt"),
+                pl.col("distance")
+                .cast(pl.Float64, strict=False)
+                .alias("distance_f"),
+            )
+            .join(user, on="user_id", how="left")
+            .with_columns(
+                # 所要時間（分）
+                (pl.col("ended_at_dt") - pl.col("started_at_dt"))
+                .dt.total_minutes()
+                .alias("duration_min")
+            )
+            .drop_nulls(["user_type", "distance_f", "duration_min"])
+            # 変な値を軽く除外（必要に応じて調整）
+            .filter((pl.col("duration_min") > 0) & (pl.col("distance_f") >= 0))
+        )
+
+        def boxplot_by_type(value_col: str, title: str):
+            staff_vals = (
+                df.filter(pl.col("user_type") == "staff")
+                .select(value_col)
+                .to_numpy()
+                .ravel()
+            )
+            student_vals = (
+                df.filter(pl.col("user_type") == "student")
+                .select(value_col)
+                .to_numpy()
+                .ravel()
+            )
+
+            fig, ax = plt.subplots(figsize=(6, 4))
+            ax.boxplot(
+                [staff_vals, student_vals],
+                tick_labels=["staff", "student"],
+                showfliers=True,
+            )
+            ax.set_title(title)
+            ax.set_ylabel(value_col)
+            plt.tight_layout()
+
+        boxplot_by_type(value_col, title)
+    return (box_abd_whiskey_plot_with_distance_and_time,)
+
+
+@app.cell(hide_code=True)
+def _(box_abd_whiskey_plot_with_distance_and_time, plt):
+    box_abd_whiskey_plot_with_distance_and_time(
+        "distance_f", "Distance by user_type (boxplot)"
+    )
+    plt.gca()
+    return
+
+
+@app.cell(hide_code=True)
+def _(box_abd_whiskey_plot_with_distance_and_time, plt):
+    box_abd_whiskey_plot_with_distance_and_time(
+        "duration_min", "Duration(min) by user_type (boxplot)"
+    )
+    plt.gca()
     return
 
 
