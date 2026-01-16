@@ -31,11 +31,16 @@ jobs:
               run: |
                   uv run marimo export html-wasm src/analysis.py -o ./build --mode run
 
+            - name: 🧱 Add .nojekyll
+              run: |
+                  touch ./build/.nojekyll
+
             - name: 📦 Upload Pages Artifact
               uses: actions/upload-pages-artifact@v3
               with:
                   path: ./build
                   name: github-pages
+
 
     deploy:
         needs: build
