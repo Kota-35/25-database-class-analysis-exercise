@@ -29,7 +29,7 @@ jobs:
 
             - name: 📄 Export notebook
               run: |
-                  uv run marimo export html-wasm src/analysis.py -o ./build --mode run
+                  uv run marimo export html src/analysis.py -o ./build/index.html --mode run
 
             - name: 🧱 Add .nojekyll
               run: |
