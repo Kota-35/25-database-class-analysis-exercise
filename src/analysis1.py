@@ -26,13 +26,8 @@ def _(DATABASE_CLASS, pl):
     spot = pl.read_csv(DATABASE_CLASS / "spot.csv")
     trip = pl.read_csv(DATABASE_CLASS / "trip.csv")
 
-    dfs = {
-        "history": history,
-        "user": user,
-        "spot": spot,
-        "trip": trip
-    }
-    return dfs, history, spot, trip, user
+    dfs = {"history": history, "user": user, "spot": spot, "trip": trip}
+    return dfs, history, user
 
 
 @app.cell(hide_code=True)
@@ -45,7 +40,7 @@ def _(pl):
             cols = df.columns
             row = {"dataset": name}
             for i in range(max_cols):
-                row[f"col_{i+1}"] = cols[i] if i < len(cols) else None
+                row[f"col_{i + 1}"] = cols[i] if i < len(cols) else None
             rows.append(row)
 
         return pl.DataFrame(rows)
@@ -140,24 +135,143 @@ def _(mo):
 
 @app.cell(hide_code=True)
 def _(dfs, mo, summarize_columns_wide):
-
-
     summary = summarize_columns_wide(dfs)
     summary
 
-    mo.vstack([
-      mo.md("## カラム一覧表"),
-      mo.ui.table(summary),
-    ])
+    mo.vstack(
+        [
+            mo.md("## カラム一覧表"),
+            mo.ui.table(summary),
+        ]
+    )
     return
 
 
 @app.cell
-def _(history, spot, trip, user):
-    history_with_user = history.join(user, on="user_id", how="left")
-    trip_with_user = trip.join(user, on="user_id", how="left")
-    spot_with_trip = spot.join(trip, on="spot_id", how="left")
+def _(history):
+    history
+    return
 
+
+@app.cell
+def _(history, pl, user):
+    # started_at をDatetime化 + user_type 付与
+    df = (
+        history.with_columns(
+            pl.col("started_at")
+            .str.to_datetime(strict=False)
+            .alias("started_at_dt"),
+            pl.col("ended_at").str.to_datetime(strict=False).alias("ended_at_dt"),
+        )
+        .join(user, on="user_id", how="left")
+        .with_columns(
+            pl.col("started_at_dt").dt.weekday().alias("dow"),
+            pl.col("started_at_dt").dt.hour().alias("hour"),
+        )
+        .drop_nulls(["user_type", "dow", "hour"])
+    )
+
+
+    agg = (
+        df.group_by(["user_type", "dow", "hour"])
+        .len()
+        .rename({"len": "ride_count"})
+    )
+
+    agg_out = (
+        agg.join(
+            agg.group_by("user_type").agg(
+                pl.col("ride_count").sum().alias("total")
+            ),
+            on="user_type",
+            how="left",
+        )
+        .with_columns(
+            (pl.col("ride_count") / pl.col("total")).alias("share_within_type")
+        )
+        .drop("total")
+    )
+
+    agg_out
+    return agg, agg_out
+
+
+@app.cell
+def _(agg, agg_out, pl):
+    import numpy as np
+
+    # 0..6 x 0..23 の全組み合わせ
+    grid = pl.DataFrame({"dow": list(range(7))}).join(
+        pl.DataFrame({"hour": list(range(24))}), how="cross"
+    )
+
+
+    def heatmap_matrix(
+        agg: pl.DataFrame, user_type: str, value_col: str = "share_within_type"
+    ):
+        # user_typeで絞る
+        a = agg_out.filter(pl.col("user_type") == user_type).select(
+            ["dow", "hour", value_col]
+        )
+
+        # 全グリッドに左結合して欠損を0埋め
+        filled = (
+            grid.join(a, on=["dow", "hour"], how="left")
+            .with_columns(pl.col(value_col).fill_null(0.0))
+            .sort(["dow", "hour"])
+        )
+
+        # pivot: rows=dow, cols=hour
+        pivoted = filled.pivot(
+            index="dow",
+            on="hour",
+            values=value_col,
+            aggregate_function="first",
+        ).sort("dow")
+
+        # pivot後は "dow" 列 + 0..23 の列ができるので、行列にする
+        mat = pivoted.drop("dow").to_numpy()
+        return mat
+
+
+    mat_staff = heatmap_matrix(agg, "staff", "share_within_type")
+    mat_student = heatmap_matrix(agg, "student", "share_within_type")
+
+    print(mat_staff.shape, mat_student.shape)  # (7, 24) になるはず
+    return mat_staff, mat_student, np
+
+
+@app.cell
+def _(mat_staff, mat_student, np):
+    import matplotlib.pyplot as plt
+
+    dow_labels = ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"]
+    hours = list(range(24))
+
+
+    def plot_heatmap(mat: np.ndarray, title: str):
+        fig, ax = plt.subplots(figsize=(12, 3.5))
+        im = ax.imshow(mat, aspect="auto")
+        ax.set_title(title)
+        ax.set_yticks(range(7))
+        ax.set_yticklabels(dow_labels)
+        ax.set_xticks(range(24))
+        ax.set_xticklabels(hours)
+        ax.set_xlabel("Hour of day")
+        ax.set_ylabel("Day of week")
+        cbar = plt.colorbar(im, ax=ax)
+        cbar.set_label("share_within_type")
+        plt.tight_layout()
+        plt.show()
+
+
+    plot_heatmap(mat_staff, "staff: share within type by dow x hour")
+    plot_heatmap(mat_student, "student: share within type by dow x hour")
+    return
+
+
+@app.cell
+def _():
     return
 
 
