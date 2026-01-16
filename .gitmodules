@@ -1,0 +1,3 @@
+[submodule "25-database-class"]
+	path = 25-database-class
+	url = https://github.com/piderlab/25-database-class.git
