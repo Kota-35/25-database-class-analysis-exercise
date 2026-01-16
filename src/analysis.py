@@ -1,7 +1,7 @@
 import marimo
 
 __generated_with = "0.19.2"
-app = marimo.App(width="medium")
+app = marimo.App(width="medium", sql_output="polars")
 
 
 @app.cell
@@ -27,7 +27,7 @@ def _(DATABASE_CLASS, pl):
     trip = pl.read_csv(DATABASE_CLASS / "trip.csv")
 
     dfs = {"history": history, "user": user, "spot": spot, "trip": trip}
-    return dfs, history, user
+    return history, user
 
 
 @app.cell(hide_code=True)
@@ -44,7 +44,7 @@ def _(pl):
             rows.append(row)
 
         return pl.DataFrame(rows)
-    return (summarize_columns_wide,)
+    return
 
 
 @app.cell(hide_code=True)
@@ -130,20 +130,6 @@ def _(mo):
     mo.md(r"""
     ![image](https://github.com/piderlab/23-databese-class/assets/40050810/867f2e2a-0e8a-4c2e-ae2b-d29f23f89e1d)
     """)
-    return
-
-
-@app.cell(hide_code=True)
-def _(dfs, mo, summarize_columns_wide):
-    summary = summarize_columns_wide(dfs)
-    summary
-
-    mo.vstack(
-        [
-            mo.md("## カラム一覧表"),
-            mo.ui.table(summary),
-        ]
-    )
     return
 
 
@@ -368,6 +354,110 @@ def _(box_abd_whiskey_plot_with_distance_and_time, plt):
         "duration_min", "Duration(min) by user_type (boxplot)"
     )
     plt.gca()
+    return
+
+
+@app.cell
+def _(history, mo, pl, plt, user):
+    def plot_distance_distribution_by_passengers():
+        df = (
+            history.join(user, on="user_id", how="left")
+            .select(["user_type", "passengers_count", "distance"])
+            .with_columns(
+                pl.col("passengers_count").cast(pl.Int64),
+                pl.col("distance").cast(pl.Float64, strict=False),
+            )
+            .filter(
+                pl.col("user_type").is_not_null()
+                & pl.col("passengers_count").is_not_null()
+                & pl.col("distance").is_not_null()
+                & (pl.col("passengers_count") >= 1)
+                & (pl.col("distance") > 0)
+            )
+            .with_columns(
+                pl.when(pl.col("passengers_count") >= 5)
+                .then(pl.lit("5+"))
+                .otherwise(pl.col("passengers_count").cast(pl.Utf8))
+                .alias("passengers_cat")
+            )
+        )
+
+        # =========================
+        # 3) 集計
+        # =========================
+        summary = (
+            df.group_by(["user_type", "passengers_cat"])
+            .agg(
+                pl.len().alias("n"),
+                pl.col("distance").mean().alias("mean"),
+                pl.col("distance").median().alias("median"),
+                pl.col("distance").quantile(0.25).alias("q25"),
+                pl.col("distance").quantile(0.75).alias("q75"),
+                pl.col("distance").max().alias("max"),
+            )
+            .sort(["user_type", "passengers_cat"])
+        )
+
+        # =========================
+        # 4) Plot（marimo向け：showしないで返す）
+        # =========================
+        plots = []
+
+        # --- Scatter (x=passengers_count, y=distance)
+        pdf = df.select(["user_type", "passengers_count", "distance"]).to_pandas()
+
+        fig, ax = plt.subplots()
+        for ut in sorted(pdf["user_type"].dropna().unique()):
+            sub = pdf[pdf["user_type"] == ut]
+            ax.scatter(
+                sub["passengers_count"], sub["distance"], alpha=0.4, label=ut
+            )
+
+        ax.set_xlabel("passengers_count")
+        ax.set_ylabel("distance")
+        ax.set_title("Distance vs Passengers Count (by user_type)")
+        ax.legend()
+        fig.tight_layout()
+
+        plots.append(mo.mpl.interactive(ax))
+
+        # --- Boxplot (passengers_cat)
+        cat_order = ["1", "2", "3", "4", "5+"]
+
+        for ut in sorted(df.select("user_type").unique().to_series().to_list()):
+            sub = df.filter(pl.col("user_type") == ut)
+
+            data = []
+            labels = []
+            for c in cat_order:
+                arr = (
+                    sub.filter(pl.col("passengers_cat") == c)
+                    .select("distance")
+                    .to_series()
+                    .to_list()
+                )
+                if len(arr) > 0:
+                    data.append(arr)
+                    labels.append(c)
+
+            if len(data) == 0:
+                continue
+
+            fig2, ax2 = plt.subplots()
+            ax2.boxplot(data, tick_labels=labels, showfliers=True)
+            ax2.set_xlabel("passengers_cat")
+            ax2.set_ylabel("distance")
+            ax2.set_title(f"Distance Distribution by Passengers Category ({ut})")
+            fig2.tight_layout()
+
+            plots.append(mo.mpl.interactive(ax2))
+
+        # “表示用”はセルの最後に置けるよう、まとめて返す
+        return summary, mo.vstack(plots)
+
+
+    summary, plots_ui = plot_distance_distribution_by_passengers()
+    mo.vstack([summary, plots_ui])
     return
 
 
